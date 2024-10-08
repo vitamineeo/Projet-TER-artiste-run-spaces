@@ -32,7 +32,7 @@ def save_text_to_txt(text, output_path):
         f.write(text)
     print(f"Texte sauvegardé dans le fichier {output_path}")
 
-pdf_path = "reponses-ARS.pdf"
+pdf_path = "..\..\..\Donnees\reponses-ARS.pdf"
 output_txt_path = "extracted_text.txt"
 
 text = extract_text_from_pdf(pdf_path)  
