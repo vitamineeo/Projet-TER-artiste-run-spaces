@@ -117,6 +117,8 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+# Ignorer les fichiers temporaires d'Excel
+~$*
 
 # Test database and coverage artifacts
 .tox/
