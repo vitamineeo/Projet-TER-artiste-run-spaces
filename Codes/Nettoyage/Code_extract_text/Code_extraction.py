@@ -44,6 +44,10 @@ df['réponse1'] = ''
 df['question2'] = ''
 df['réponse2'] = ''
 
+# Vérifier la dernière valeur d'ID dans le DataFrame
+dernier_id = df['id'].max() if 'id' in df.columns else 0  # Si la colonne 'id' existe, on prend sa valeur max, sinon on commence à 0
+
+
 # Parcourir les données extraites du DOCX
 for entree in donnees_extraites:
     nom = entree['nom']
@@ -59,7 +63,9 @@ for entree in donnees_extraites:
     
     # Si le nom n'est pas dans le DataFrame, on ajoute une nouvelle ligne
     else:
+        dernier_id +=1 
         nouvelle_ligne = pd.DataFrame({
+            'id': [dernier_id],
             'nom': [nom],
             'question1': [questions[0] if len(questions) > 0 else ''],
             'réponse1': [reponses[0] if len(reponses) > 0 else ''],
