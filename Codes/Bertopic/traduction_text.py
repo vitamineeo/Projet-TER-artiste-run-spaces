@@ -1,6 +1,7 @@
 import pandas as pd
 from transformers import MarianMTModel, MarianTokenizer
 from bertopic import BERTopic
+from langdetect import detect
 
 model_name = 'Helsinki-NLP/opus-mt-mul-en'
 tokenizer = MarianTokenizer.from_pretrained(model_name)
@@ -9,6 +10,12 @@ model = MarianMTModel.from_pretrained(model_name)
 def translate_to_english(text, tokenizer, model):
     if not text:
         return text
+    try:
+        if detect(text) == 'en':
+            return text
+    except:
+        return text
+    
     inputs = tokenizer(text, return_tensors="pt", truncation=True)
     outputs = model.generate(**inputs)
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
