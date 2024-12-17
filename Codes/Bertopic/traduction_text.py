@@ -30,10 +30,3 @@ for col in colonnes_a_traduire:
 output_path = 'Donnees/fichier_traduit.xlsx'
 df.to_excel(output_path, index=False)
 print(f"Traduction terminée et sauvegardée dans '{output_path}'.")
-
-all_texts = df[colonnes_a_traduire].fillna('').apply(lambda row: ' '.join(cell for cell in row if cell.strip()), axis=1)
-
-topic_model = BERTopic()
-topics, probs = topic_model.fit_transform(all_texts)
-
-print(topic_model.get_topic_info())
