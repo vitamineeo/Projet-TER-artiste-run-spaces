@@ -1,6 +1,5 @@
 import pandas as pd
 from transformers import MarianMTModel, MarianTokenizer
-from bertopic import BERTopic
 from langdetect import detect
 
 model_name = 'Helsinki-NLP/opus-mt-mul-en'
