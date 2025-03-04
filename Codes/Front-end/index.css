@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Important pour éviter que les bordures affectent les dimensions */
+}
+
+/* Style pour le header */
+header {
+    position: relative; /* Permet de le surélever */
+    background-color: gray;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 100%;
+    max-width: 100%;
+    margin: 20px auto;
+    border-radius: 15px; /* Coins arrondis */
+    bottom: 20px;
+
+    /* Effet d'élévation */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Style pour le body */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgba(236, 241, 247, 255);
+}
+
+html, body {
+    overflow-x: hidden; /* Empêche le débordement horizontal */
+    max-width: 100vw; /* Limite la largeur maximale à la largeur de l'écran */
+}
+
+svg {
+    max-width: 100%;
+    height: auto;
+}
+ul {
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: block !important;
+    visibility: visible !important;
+    color: black !important;
+    padding-left: 20px; /* Ajoute une indentation pour mieux voir la liste */
+    text-align: left; /* Alignement correct pour éviter un centrage */
+}
+ul li {
+    margin-bottom: 10px; /* Ajoute un espace entre chaque élément de la liste */
+    font-size: 16px; /* Augmente la taille du texte si nécessaire */
+}
+
+ol {
+    margin-top: 20px;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+    display: block !important;
+    visibility: visible !important;
+    color: black !important;
+    padding-left: 20px; /* Ajoute une indentation pour mieux voir la liste */
+    text-align: left; /* Alignement correct pour éviter un centrage */
+}
+ol li {
+    margin-bottom: 10px; /* Ajoute un espace entre chaque élément de la liste */
+    font-size: 16px; /* Augmente la taille du texte si nécessaire */
+}
+
+
+/* Style pour chaque bloc contenant la carte */
+.map-block {
+    margin-bottom: 40px; /* Ajoute de l'espace entre les cartes */
+}
+
+/* Style pour le container de la carte */
+.map-container {
+    width: 100%;
+    height: auto;
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.map-container svg {
+    width: 100%;  /* Prend toute la largeur du parent */
+    height: auto; /* Garde le ratio hauteur/largeur */
+    display: block; /* Évite un espace blanc sous le SVG */
+}
+
+
+/* Style pour les pays */
+.state {
+    fill: #ddd;
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+/* Style pour les points de localisation */
+.location-point {
+    fill: #e41a1c;
+    opacity: 0.7;
+}
+
+.location-point:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+/* Style pour le tooltip */
+.tooltip {
+    position: absolute;
+    padding: 10px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    pointer-events: none;
+    font-size: 14px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère pour un effet de profondeur */
+    z-index: 10; /* Assurer que le tooltip soit au-dessus des autres éléments */
+}
+
+/* Responsivité */
+@media (max-width: 768px) {
+    header {
+        font-size: 20px; /* Réduire la taille du texte pour les petits écrans */
+        padding: 15px; /* Réduire la marge intérieure */
+    }
+
+    .map-container {
+        height: 400px; /* Ajuster la taille de la carte sur petits écrans */
+    }
+}
+.tooltip-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.tooltip-info {
+    color: #666;
+    font-size: 12px;
+    text-align: left;
+    line-height: 1.4;
+}
+
+.tooltip-info div {
+    margin: 2px 0;
+}
+
+.enquete-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.questions {
+    flex: 1;
+    padding: 20px;
+    border-radius: 8px;
+    margin-right: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.pie-chart-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+.Topics {
+    display: flex;
+    justify-content: space-between; /* Sépare les deux blocs */
+    align-items: flex-start; /* Alignement en haut */
+    gap: 20px; /* Espace entre les colonnes */
+    padding: 20px;
+    width: 100%; /* Utiliser toute la largeur */
+}
+
+.Topic-Visualization, .Topic-Distribution {
+    flex: 1; /* Permet d’avoir deux colonnes de même taille */
+    max-width: 48%; /* Évite que ça dépasse trop */
+    background:rgba(236, 241, 247, 255); /* Fond blanc pour le contraste */
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+    border-radius: 8px; /* Coins arrondis */
+    /*overflow: hidden;  Masque le contenu qui depasse */
+}
+#visualization-document-container, #visualization-intertopic-container, #visualization-hierarchy-container, #visualization-distribution-container {
+    flex: 1; /* Permet d’avoir deux colonnes de même taille */
+    max-width: 100%; /* Évite que ça dépasse trop */
+    background:rgba(236, 241, 247, 255); /* Fond blanc pour le contraste */
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+    border-radius: 8px; /* Coins arrondis */
+    /*overflow: hidden;  Masque le contenu qui depasse */
+
+}
+
+.Graph-Relations-Semantiques {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+#graph-relations-container {
+    width: 90vw;
+    height: 80vh;
+    border-radius: 10px;
+    background: white;
+    
+}
