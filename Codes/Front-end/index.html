@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist-Run-Spaces</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Artist Run Spaces</h1>
+    </header>
+
+    <main>
+        <div class="map-block">
+            <div id="map1" class="map-container"></div>
+        </div>
+
+        <div class="enquete">
+            <h1>Enquête auprès des Espaces</h1>
+            <div class="enquete-container">
+                <!-- Bloc gauche : Questions -->
+                <div class="questions">
+                    <h3>Question 1</h3>
+                    <p>Pouvez-vous nous apporter un témoignage sur la façon dont votre structure répond, à travers ses modalités de fonctionnement, au contexte actuel et/ou celui de son émergence ?</p>
+                    
+                    <h3>Question 2</h3>
+                    <p>Pensez-vous que votre espace ou l'espace auquel vous avez participé puisse être considéré comme une œuvre ? Et si oui, en quel sens ?</p>
+                </div>
+
+                <!-- Bloc droit : Diagramme circulaire -->
+                <div class="pie-chart-container">
+                    <svg id="pieChart"></svg>
+                </div>
+            </div>
+        </div>
+        <h1>Extraction et répartitiondes topics</h1>
+        <div class="Topics">
+            <div class="Topic-Visualization">
+                <h3>Visualisation des Topics</h3>
+                <div id="topic-visualization-container"></div>
+            </div>
+            <div class="Topic-Distribution">
+                <h3>Distribution des Topics par Espaces</h3>
+                <div id="topic-distribution-container"></div>
+            </div>
+        </div>
+
+        <ul>
+            <li>Le graphique interactif de type Sunburst te permet de visualiser la répartition des topics dans tes données, avec des informations sur le nombre de documents par topic et les mots-clés associés.</li>
+            <li>Barplot est créé pour visualiser la répartition des topics, en termes de pourcentage de documents associés à chaque topic.</li>
+
+        </ul>
+
+        <h1>Analyse détaillée des topics</h1>
+        <div class="Visualisation-Document-Topics">
+            <ol>
+                <li>Documents par topic</li>
+                <div id="visualization-document-container"></div>
+                <li>Intertopic distance</li>
+                <div id="visualization-intertopic-container"></div>
+                <li>Topic hierarchy</li>
+                <div id="visualization-hierarchy-container"></div>
+                <li>Topic distribution</li>
+                <div id="visualization-distribution-container"></div>
+            </ol>
+        </div>
+
+        <h1>Graphe des Relations Sémantiques</h1>
+        <div class="Graph-Relations-Semantiques">
+            <div id="graph-relations-container"></div>
+        </div>
+        <br>
+        <h1>Annotations et Pipeline</h1>
+
+    </main>
+    
+    <script>
+        function createMap(containerId) {
+            const container = document.querySelector(containerId);
+            const width = container.offsetWidth;
+            const height = width * 0.6;
+
+            const svg = d3.select(containerId)
+                .append("svg")
+                .attr("width", "100%")
+                .attr("height", height);
+
+            const g = svg.append("g");
+
+            const projection = d3.geoNaturalEarth1()
+                .scale(width / 5)
+                .translate([width / 2, height / 2]);
+
+            const path = d3.geoPath().projection(projection);
+
+            const tooltip = d3.select("body")
+                .append("div")
+                .attr("class", "tooltip");
+
+            /*const zoom = d3.zoom()
+                .scaleExtent([1, 8])
+                .on("zoom", (event) => {
+                    g.attr("transform", event.transform);
+                });
+
+            svg.call(zoom);*/
+
+            Promise.all([
+                d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json"),
+                d3.json("data.json")
+            ]).then(([world, spacesData]) => {
+                const countries = topojson.feature(world, world.objects.countries);
+
+                g.append("g")
+                    .selectAll("path")
+                    .data(countries.features)
+                    .enter()
+                    .append("path")
+                    .attr("class", "country")
+                    .attr("d", path)
+                    .attr("fill", "lightgray")
+                    .attr("stroke", "black");
+
+                g.selectAll("circle")
+                    .data(spacesData)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "location-point")
+                    .attr("cx", d => projection([d.longitude, d.latitude])[0])
+                    .attr("cy", d => projection([d.longitude, d.latitude])[1])
+                    .attr("r", 5)
+                    .on("mouseover", (event, d) => {
+                        tooltip.style("display", "block")
+                            .html(`
+                                <div class="tooltip-title">${d.nom}</div>
+                                <div class="tooltip-info">
+                                    <div>📍 Ville: ${d.ville || 'Non spécifié'}</div>
+                                    <div>🌍 Pays: ${d.pays || 'Non spécifié'}</div>
+                                    ${d.website ? `<div>🔗 <a href="${d.website}" target="_blank">Site web</a></div>` : ''}
+                                </div>
+                            `)
+                            .style("left", (event.pageX + 10) + "px")
+                            .style("top", (event.pageY - 28) + "px");
+                    })
+                    .on("mousemove", (event) => {
+                        tooltip.style("left", (event.pageX + 10) + "px")
+                            .style("top", (event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", () => {
+                        tooltip.style("display", "none");
+                    });
+            });
+
+            window.addEventListener("resize", () => {
+                const newWidth = container.offsetWidth;
+                const newHeight = newWidth * 0.6;
+
+                svg.attr("width", "100%").attr("height", newHeight);
+                projection.scale(newWidth / 5).translate([newWidth / 2, newHeight / 2]);
+
+                svg.selectAll("path").attr("d", path);
+                svg.selectAll("circle")
+                    .attr("cx", d => projection([d.longitude, d.latitude])[0])
+                    .attr("cy", d => projection([d.longitude, d.latitude])[1]);
+            });
+        }
+
+        createMap("#map1");
+
+        d3.json("reponses_stats.json").then(function(data) {
+            console.log(data);  // Vérifie la structure des données dans la console
+        
+            // Dimensions du graphique
+            const width = 300, height = 300, radius = Math.min(width, height) / 2;
+            
+            // Création du SVG
+            const svg = d3.select("#pieChart")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", `translate(${width / 2}, ${height / 2})`);
+            
+            // Génération des couleurs
+            const color = d3.scaleOrdinal()
+                            .domain(Object.keys(data))  // Utilisation des clés pour le domaine
+                            .range(["#4CAF50", "#FF5733"]); // Définir les couleurs
+        
+            // Vérification des données : transformer l'objet en tableau de valeurs numériques
+            const data_ready = Object.entries(data).map(([key, value]) => ({
+                name: key,
+                value: value
+            }));
+        
+            // Création des arcs du pie chart
+            const pie = d3.pie().value(d => d.value);
+            
+            const arc = d3.arc().innerRadius(0).outerRadius(radius);
+            
+            svg.selectAll("path")
+                .data(pie(data_ready))
+                .enter()
+                .append("path")
+                .attr("d", arc)
+                .attr("fill", d => color(d.data.name))  // Utiliser la clé pour la couleur
+                .attr("stroke", "black")
+                .style("stroke-width", "2px");
+        
+            // Ajout du texte (pourcentage)
+            svg.selectAll("text")
+                .data(pie(data_ready))
+                .enter()
+                .append("text")
+                .text(d => `${d.data.name}: ${d.data.value}`)
+                .attr("transform", d => `translate(${arc.centroid(d)})`)
+                .style("text-anchor", "middle")
+                .style("font-size", "12px")
+                .style("fill", "white");
+        }).catch(error => console.log("Erreur de chargement du JSON :", error));
+        
+        // Chargement du contenu de topic_mapping.html avec jQuery
+        $('#topic-visualization-container').load('topic_mapping.html');
+        // Chargement du contenu de topic_distribution.html avec jQuery
+        $('#topic-distribution-container').load('topic_distribution.html');
+
+        // Chargement du contenu de visualization_document_topics.html avec jQuery
+        $('#visualization-document-container').load('document_visualization.html');
+        // Chargement du contenu de visualization_intertopic.html avec jQuery
+        $('#visualization-intertopic-container').load('intertopic_distance_map.html');
+        // Chargement du contenu de visualization_hierarchy.html avec jQuery
+        $('#visualization-hierarchy-container').load('topic_hierarchy.html');
+        // Chargement du contenu de visualization_distribution.html avec jQuery
+        $('#visualization-distribution-container').load('topic-distribution.html');
+        
+        // Graphe de relation sémantique
+        // Dimensions du graphe
+        const width = 900;
+        const height = 600;
+
+        // Sélection du conteneur SVG
+        const svg = d3.select("#graph-relations-container")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        // Charger les données JSON
+        d3.json("semantic_network.json").then(data => {
+            const nodes = data.nodes;
+            const links = data.links;
+
+            // Définir une échelle de couleurs pour les topics
+            const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+            // Définir la simulation des forces
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id).distance(100))
+                .force("charge", d3.forceManyBody().strength(-300))
+                .force("center", d3.forceCenter(width / 2, height / 2));
+
+            // Ajouter les liens (arêtes)
+            const link = svg.selectAll("line")
+                .data(links)
+                .enter().append("line")
+                .style("stroke", "#aaa")
+                .style("stroke-width", d => d.weight * 2);
+
+            // Ajouter les nœuds
+            const node = svg.selectAll("circle")
+                .data(nodes)
+                .enter().append("circle")
+                .attr("r", 10)
+                .attr("fill", d => color(d.topic))
+                .call(drag(simulation));
+
+            // Ajouter les labels (noms des espaces)
+            const label = svg.selectAll("text")
+                .data(nodes)
+                .enter().append("text")
+                .attr("dy", -15)
+                .attr("text-anchor", "middle")
+                .style("font-size", "12px")
+                .style("fill", "black")
+                .text(d => d.name);
+
+            // Mettre à jour les positions à chaque tick
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+
+                label
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+            });
+
+            // Fonction de drag & drop
+            function drag(simulation) {
+                function dragStarted(event, d) {
+                    if (!event.active) simulation.alphaTarget(0.3).restart();
+                    d.fx = d.x;
+                    d.fy = d.y;
+                }
+
+                function dragged(event, d) {
+                    d.fx = event.x;
+                    d.fy = event.y;
+                }
+
+                function dragEnded(event, d) {
+                    if (!event.active) simulation.alphaTarget(0);
+                    d.fx = null;
+                    d.fy = null;
+                }
+
+                return d3.drag()
+                    .on("start", dragStarted)
+                    .on("drag", dragged)
+                    .on("end", dragEnded);
+            }
+        }).catch(error => {
+            console.error("Erreur lors du chargement du JSON :", error);
+        });
+
+    </script>
+</body>
+</html>
