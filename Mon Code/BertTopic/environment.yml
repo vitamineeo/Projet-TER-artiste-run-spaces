@@ -1,0 +1,19 @@
+name: ARS-BERT
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scikit-learn
+  - plotly
+  - spacy
+  - notebook
+  - nltk
+  - pip:
+    # convert "pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu" to environment.yml  
+    - torch --pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+    - torchvision --pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+    - torchaudio --pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+    - bertopic[flair, gensim, spacy, use]
+    - openai
