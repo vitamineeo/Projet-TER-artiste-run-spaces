@@ -62,3 +62,4 @@ output_path = 'Donnees/new_fichier_traduit.xlsx'
 df.to_excel(output_path, index=False)
 
 print(f"✅ Traduction terminée et sauvegardée dans '{output_path}'.")
+
