@@ -1,6 +1,6 @@
 import docx
 import pandas as pd
-
+import os
 
 def extraire_donnees_depuis_docx(chemin_docx):
     """Extrait les données d'un fichier DOCX en structurant les noms, questions et réponses."""
@@ -32,9 +32,17 @@ def extraire_donnees_depuis_docx(chemin_docx):
     
     return donnees
 
-def charger_excel_avec_colonnes_vide(chemin_excel):
-    """Charge un fichier Excel et initialise les colonnes pour les questions et réponses."""
-    df = pd.read_excel(chemin_excel)
+def charger_excel_avec_colonnes_vide(chemin_fichier):
+    """Charge un fichier Excel ou CSV et initialise les colonnes pour les questions et réponses."""
+    extension = os.path.splitext(chemin_fichier)[1].lower()
+    
+    if extension == '.xlsx' or extension == '.xls':
+        df = pd.read_excel(chemin_fichier)
+    elif extension == '.csv':
+        df = pd.read_csv(chemin_fichier)
+    else:
+        raise ValueError("Format de fichier non supporté. Utilisez .xlsx, .xls ou .csv.")
+    
     for col in ['question1', 'réponse1', 'question2', 'réponse2']:
         if col not in df.columns:
             df[col] = ''
@@ -69,22 +77,30 @@ def mettre_a_jour_dataframe(df, donnees_extraites):
             df = pd.concat([df, nouvelle_ligne], ignore_index=True)
     return df
 
-def sauvegarder_dataframe(df, chemin_sortie):
-    """Sauvegarde le DataFrame mis à jour dans un fichier Excel."""
-    df.to_excel(chemin_sortie, index=False)
-    print(f"Mise à jour du fichier Excel terminée et sauvegardée dans '{chemin_sortie}'")
+def sauvegarder_dataframe(df, chemin_sortie, chemin_entree):
+    """Sauvegarde le DataFrame dans le même format que le fichier d'entrée."""
+    extension = os.path.splitext(chemin_entree)[1].lower()
+    
+    if extension == '.xlsx' or extension == '.xls':
+        df.to_excel(chemin_sortie, index=False)
+    elif extension == '.csv':
+        df.to_csv(chemin_sortie, index=False)
+    else:
+        raise ValueError("Format de fichier non supporté pour la sauvegarde.")
+    
+    print(f"Mise à jour du fichier terminée et sauvegardée dans '{chemin_sortie}'")
 
 def main():
     # Chemins des fichiers
-    chemin_docx = ('réponses-ARS-Carré-dart-sans mise en fome.docx')
-    chemin_excel = '../../../Donnees/spacestri.xlsx'
-    chemin_sortie = 'fichier_mis_a_jour.xlsx'
+    chemin_docx = 'reponses_ARS.docx'
+    chemin_entree = 'spacesnew.csv'  # Peut être .xlsx, .xls ou .csv
+    chemin_sortie = 'fichier_a_jour' + os.path.splitext(chemin_entree)[1]  # Garde la même extension
     
     # Étapes du traitement
     donnees_extraites = extraire_donnees_depuis_docx(chemin_docx)
-    df = charger_excel_avec_colonnes_vide(chemin_excel)
+    df = charger_excel_avec_colonnes_vide(chemin_entree)
     df = mettre_a_jour_dataframe(df, donnees_extraites)
-    sauvegarder_dataframe(df, chemin_sortie)
+    sauvegarder_dataframe(df, chemin_sortie, chemin_entree)
 
 if __name__ == "__main__":
     main()
