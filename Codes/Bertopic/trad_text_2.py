@@ -44,11 +44,11 @@ def safe_excel_text(text):
     )
 
 # Chargement des données
-file_path = 'Donnees/spacesnew.csv'
-df = pd.read_csv(file_path)
+file_path = 'Donnees/fichier_a_jour.csv'
+df = pd.read_csv(file_path, sep=';')
 
 # Colonnes à traduire
-colonnes_a_traduire = ['presentation', 'historique', 'activites']
+colonnes_a_traduire = ['presentation', 'historique', 'activites', 'réponse1', 'réponse2']
 
 # Application de la traduction
 for col in colonnes_a_traduire:
