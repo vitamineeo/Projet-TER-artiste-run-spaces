@@ -93,8 +93,8 @@ def sauvegarder_dataframe(df, chemin_sortie, chemin_entree):
 def main():
     # Chemins des fichiers
     chemin_docx = 'reponses_ARS.docx'
-    chemin_entree = 'spacesnew.csv'  # Peut être .xlsx, .xls ou .csv
-    chemin_sortie = 'fichier_a_jour' + os.path.splitext(chemin_entree)[1]  # Garde la même extension
+    chemin_entree = 'new_fichier_traduit.xlsx'  # Peut être .xlsx, .xls ou .csv
+    chemin_sortie = 'new_spaces_a_jour' + os.path.splitext(chemin_entree)[1]  # Garde la même extension
     
     # Étapes du traitement
     donnees_extraites = extraire_donnees_depuis_docx(chemin_docx)
