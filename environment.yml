@@ -10,10 +10,17 @@ dependencies:
   - spacy
   - notebook
   - nltk
+  - matplotlib
+  - seaborn
   - pip:
     # convert "pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu" to environment.yml  
-    - torch
-    - torchvision
-    - torchaudio
+    - torch --pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+    - torchvision --pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+    - torchaudio --pre --extra-index-url https://download.pytorch.org/whl/nightly/cpu
     - bertopic[flair, gensim, spacy, use]
     - openai
+    - hf_xet
+    - sentence-transformers
+    - umap-learn
+    - hdbscan
+    - networkx
