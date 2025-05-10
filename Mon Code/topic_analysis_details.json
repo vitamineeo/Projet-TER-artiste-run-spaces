@@ -1,303 +1,523 @@
 [
     {
         "Topic ID": 0,
-        "Keywords": "work, gallery, cultural, arts, young",
+        "Keywords": "art org, org, projects, arts, work",
         "Spaces Examples": [
-            "Artists Club Coffre-Fort",
-            "/ 77",
-            "Island"
+            "Salaisons",
+            "Espace 29",
+            "ruimte Caesuur"
         ],
-        "Text Example": "In March 2012, Thibaut Espiau, Ištvan Išt Huzjan and Grégoire Motte established the Artists Club, a group of artists whose primary activity is spending time together and discussion but not developing ..."
+        "Text Example": "The SALAISONS are born of a growing need for space, possibilities and collective energy.In 2007 it was opened up for a first year.Cooperation with artists, critics and musicians took place in a spirit..."
     },
     {
         "Topic ID": 1,
-        "Keywords": "madrid, amsterdam, territory, experimentation, contemporary art projects",
+        "Keywords": "pierre, mainly, spaces art, steps, italy",
         "Spaces Examples": [
-            "Clovis XV",
-            "El Mentidero",
-            "Mutatio"
+            "Quellkollektiv",
+            "Khiasma",
+            "Printed Matter, Inc."
         ],
-        "Text Example": "Clovis XV is a space dedicated to contemporary art, opened in November 2014 in Brussels by members of the IDIOM collective and led today by Anastasia Bay and Julien Saudubray.The curate place or gives..."
+        "Text Example": "The Association Quellcollectiv emerges from the association of several residents in a building that connects cultural operators collectively through the metropolitan region of Nuremberg. The associati..."
     },
     {
         "Topic ID": 2,
-        "Keywords": "houses, city, century, concrete, CITY",
+        "Keywords": "century, paintings, museum, concrete, houses",
         "Spaces Examples": [
-            "after the butcher",
-            "Büro Berlin",
-            "Galerie de LOCH"
+            "HIT",
+            "63rd - 77th STEPS",
+            "TRIPLA"
         ],
-        "Text Example": "From 2015 to 2021, in collaboration with the artist Ina Wudtke. Since 2022, Alice Creischer and Andreas Sikmann are part of the curator team. The house Spittastraße 25, one of the first houses in Euro..."
+        "Text Example": "Hit – artist run space Hit is an independent art area that welcomes exhibitions, meals, events, exhibitions, and the diffusion of contemporary art. Since 2013, it has been managed by Anne Minazio and ..."
     },
     {
         "Topic ID": 3,
-        "Keywords": "days, existence, subject, CITY, jean",
-        "Spaces Examples": [
-            "Ladenatelier Scheib",
-            "Kippenbergers Büro",
-            "Allgirls"
-        ],
-        "Text Example": "After studying at the University of Dresde The sculpture Hans Scheib moved to Berlin in 1976 and opened a store at 23 Ramerstraße with Anatol Erdmann in 1977. At this time, Scheib organized a series o..."
-    },
-    {
-        "Topic ID": 4,
-        "Keywords": "stands, turned, project space, wanted, related",
-        "Spaces Examples": [
-            "periscope",
-            "Infozone",
-            "19"
-        ],
-        "Text Example": "Ever since periscope started operating, the project space turned out to be extremely versatile. Now we can say: When we start new projects this one of our propositions. We are very interested in conti..."
-    },
-    {
-        "Topic ID": 5,
-        "Keywords": "self, collection, joint, ateliers, different",
-        "Spaces Examples": [
-            "W",
-            "L'espace d'en bas",
-            "Le Wonder"
-        ],
-        "Text Example": "W was installed in the East of Paris, in Pantin in February 2010. The space has two very different potentials: the first level is an abbreviation space, the second working space. W aims at the quality..."
-    },
-    {
-        "Topic ID": 6,
-        "Keywords": "generator, square, north, designs, apartment",
-        "Spaces Examples": [
-            "Le générateur",
-            "Duplex100m2",
-            "MOSQUITO COAST FACTORY"
-        ],
-        "Text Example": "The generator is an intermediate, hybrid, interstitial space for life to be maintained and developed in this area if it is particularly around Paris called the peripheral. The generator, place of incu..."
-    },
-    {
-        "Topic ID": 7,
-        "Keywords": "diversity, crisis, artistes, press, water",
-        "Spaces Examples": [
-            "Immanence",
-            "EDEL EXTRA",
-            "ATELIER D’ESTAMPE IMAGO"
-        ],
-        "Text Example": "Immantique is a place of exhibition, diffusion, production, experimentation in favour of contemporary creation, resulting in various fields of contemporary art. Immanence is a very primitive place for..."
-    },
-    {
-        "Topic ID": 8,
-        "Keywords": "house, natural, image, step, denis",
-        "Spaces Examples": [
-            "Maison Jaune",
-            "ART HOUSE",
-            "The Mothership"
-        ],
-        "Text Example": "Each year, the House of Jaune gives artists, researchers and researchers the opportunity to perform artistic experiments and research from its premises, located at the 2nd place of the Hall in Saint-D..."
-    },
-    {
-        "Topic ID": 9,
-        "Keywords": "poetry, milan, going, tool, art spaces",
-        "Spaces Examples": [
-            "AMAVADA",
-            "Centro Tool",
-            "Mercato del Sale"
-        ],
-        "Text Example": "OPINION OF THE POPULAR BODIES OF 15 000 VOLUMESAMAVADA has created a library consisting of popular Roman works: it is written by popular authors, published by popular publishing houses or in collectio..."
-    },
-    {
-        "Topic ID": 10,
-        "Keywords": "atelier, print, artist centre, techniques, technologies",
-        "Spaces Examples": [
-            "Galerie RDV",
-            "Alberta Printmakers (A/P)",
-            "Atelier Presse Papier"
-        ],
-        "Text Example": "Created in 2007, by the plastic artist Jean-François Courtillat, the RDV is dedicated to contemporary creation, offering a space of discovery and exchange for artists and audiences. RDV follows the Ip..."
-    },
-    {
-        "Topic ID": 11,
-        "Keywords": "day day, children, day, pauline, designs",
-        "Spaces Examples": [
-            "MAISON PIEUVRE",
-            "A.Polina",
-            "Pauline Perplexe"
-        ],
-        "Text Example": "Home Pieuvre is a non-profit area of exhibition that is transferred to a range of projects and opportunities offered by potential partnerships. It has been managed since 2007 by the association NON ME..."
-    },
-    {
-        "Topic ID": 12,
-        "Keywords": "red, art studio, contemporary artists, artist centre, things",
-        "Spaces Examples": [
-            "aceartinc.",
-            "Red Cactus Art Studio",
-            "mezcla"
-        ],
-        "Text Example": "aceartinc. is an artist-run centre dedicated to the development, exhibition and dissemination of contemporary art. aceartinc. maintains a commitment to emerging artists and recognizes its role in plac..."
-    },
-    {
-        "Topic ID": 13,
-        "Keywords": "fellowship, infrastructure, quebec, contexts, organization",
-        "Spaces Examples": [
-            "221A",
-            "Artexte",
-            "Action Art Actuel (AAA)"
-        ],
-        "Text Example": "In 2015, 221A opened Semi-Public, a 3,000 square foot outdoor exhibition site, complicating its role in Vancouver’s contemporary art ecology. However, as the organization grew, it found its ambitions ..."
-    },
-    {
-        "Topic ID": 14,
-        "Keywords": "marc, factory, lee, weeks, aimed",
-        "Spaces Examples": [
-            "URGENT PARADISE",
-            "Brain Factory",
-            "PLATEFORME"
-        ],
-        "Text Example": "until the end of 2013: The system is based on the principle of small ads. Make us reach your parts, creations and objects and we take care of them (not to contain any contrary to Swiss law). We take t..."
-    },
-    {
-        "Topic ID": 15,
-        "Keywords": "works art, archive, academy, summer, fields",
-        "Spaces Examples": [
-            "Autocenter",
-            "CONA",
-            "La Couleuvre"
-        ],
-        "Text Example": "Summer Academy The Autocenter Summer Academy ACSA is a program that links international experts in all fields of art with artists and students for a week of adventure, study and creation in Berlin. Pa..."
-    },
-    {
-        "Topic ID": 16,
-        "Keywords": "public space, night, alternative, streets, window",
-        "Spaces Examples": [
-            "Galerie Loulou Lasard",
-            "apes&castles",
-            "SOX"
-        ],
-        "Text Example": "In Berlin-Schöneberg, on two sides of Merve Verlag, each exhibition is the incarnation of a new artistic manifestation. The atmospheres in which art and people reflect are flooded by the internal vari..."
-    },
-    {
-        "Topic ID": 17,
-        "Keywords": "practice, project space, master, tim, design",
-        "Spaces Examples": [
-            "FRICHE.SPACE",
-            "Marwan",
-            "Flip"
-        ],
-        "Text Example": "Friche (fri-ch')<0x200b> Friche (fri-ch') is an uncultivated, residual, abandoned space. Friche (fri-ch') is a living, wild, vital space. Friche (fri-ch') is a space irresolute between resignation and..."
-    },
-    {
-        "Topic ID": 18,
-        "Keywords": "short, everyday, hundreds artists, rented, conventional",
-        "Spaces Examples": [
-            "La générale en manufacture",
-            "INTERIOR and the collectors",
-            "The ister"
-        ],
-        "Text Example": "AFTER HOURS is a curative and artistic invitation structure, which offers short forms of residence, exhibitions or experiences dedicated to contemporary and emerging creation. The emphasis is placed o..."
-    },
-    {
-        "Topic ID": 19,
-        "Keywords": "artists art, months, production, collaboration, school environment",
-        "Spaces Examples": [
-            "ChezKit",
-            "QUINCONCE",
-            "Treize"
-        ],
-        "Text Example": "Named ChezKit, the project was born of the will of three young artists from the Beautiful-Arts of Paris in 2013 (Coline Cuni, Gwendoline Perriqueux and Cyril Zarcone) in the spring of 2014 and opened ..."
-    },
-    {
-        "Topic ID": 20,
-        "Keywords": "residencies, programme, organisations, based artists, london",
-        "Spaces Examples": [
-            "Fructôse",
-            "Gasworks",
-            "warenlift"
-        ],
-        "Text Example": "Born in Dunkerque since 2008, Fruithouse has been an association of artists in the field of visual arts. Its project is an area of research and experimentation located on site 1 of the old industrial ..."
-    },
-    {
-        "Topic ID": 21,
-        "Keywords": "creativity, science, foundation, premises, research",
-        "Spaces Examples": [
-            "One gee in fog",
-            "TARS",
-            "Artos House"
-        ],
-        "Text Example": "One gee in fire is an independent, experimental and multidisciplinary space including an exhibition room, a concert room, a library and a residence. established in the canton of Geneva, founded by the..."
-    },
-    {
-        "Topic ID": 22,
-        "Keywords": "press, took, presented, archives, series",
-        "Spaces Examples": [
-            "Zeta Gallery",
-            "Zona",
-            "Zebra3 / Buy-sellf"
-        ],
-        "Text Example": "ZETA Center for Contemporary Art is a non-profit exhibition space founded in 2007 by Valentina Koça. With its 150 square-meter area on the second floor of a mixed residential and commercial building a..."
-    },
-    {
-        "Topic ID": 23,
-        "Keywords": "laboratory, articles, like, street, spaces",
-        "Spaces Examples": [
-            "LAPSUS",
-            "BIKINI",
-            "Les Limbes"
-        ],
-        "Text Example": "Lapsus Laboratory is an educational program created to incite interest and passion for experiments in art and technology. In the lab we explore tools like 3D printers, Arduino devices, virtual reality..."
-    },
-    {
-        "Topic ID": 24,
-        "Keywords": "organization, laboratory, video, stations, supported",
-        "Spaces Examples": [
-            "HECTOLITER",
-            "La Mamelle/Art Com",
-            "e/lAboRaTory"
-        ],
-        "Text Example": "H E C T O L I T E R is a project space for contemporary art based in Brussels, Belgium.Founded in 2009 by Tine Ringelé and Nico Sall . Joined by Christophe Piette in 2015.H E C T O L I T E R is a non-..."
-    },
-    {
-        "Topic ID": 25,
-        "Keywords": "appreciation, contemporary visual, lived, response, generation",
-        "Spaces Examples": [
-            "Ateliê Coletivo 2E1",
-            "22 rue muller",
-            "L'épicerie"
-        ],
-        "Text Example": "\"This is the last place of 2e1. It's sad if it wasn't for the great pleasure to think about everything that has been generated during these nearly 9 years of project. I've learned so much, met so many..."
-    },
-    {
-        "Topic ID": 26,
-        "Keywords": "location, meanings, experimental projects, stages, disciplines arts",
+        "Keywords": "fashion, press, poetry, took, presented",
         "Spaces Examples": [
             "KINGS Artist Run",
-            "IN OUT"
+            "Autocenter",
+            "Park"
         ],
         "Text Example": "Kings Artist Run is a non-for-profit gallery in Melbourne’s CBD Kings Artist Run provides a location for contemporary art practice, supporting distinctive experimental projects by artists at all stage..."
     },
     {
-        "Topic ID": 27,
-        "Keywords": "australia, expanded, exhibiting, england, studio",
+        "Topic ID": 4,
+        "Keywords": "popular, going, editions, narrative, submissions",
         "Spaces Examples": [
-            "GERTRUDE CONTEMPORARY",
-            "Angle art contemporain"
+            "/ 77",
+            "Interface appartement /galerie",
+            "De La Charge"
         ],
-        "Text Example": "Gertrude Contemporary presents approximately 20 exhibitions annually featuring work by Australian and international artists across three gallery spaces with a focus on new work, commissions and expand..."
+        "Text Example": "All of the activities that we will develop and organize will have no budget and no lucrative aims: this will not be a limit but it will turn to our advantage in the goal of creating an environment of ..."
+    },
+    {
+        "Topic ID": 5,
+        "Keywords": "club, brussels, stone, wood, group",
+        "Spaces Examples": [
+            "Para Site",
+            "G39",
+            "MOSQUITO COAST FACTORY"
+        ],
+        "Text Example": "Throughout its history, Para Site's activities have included a range of different formats, among which a smaller parallel exhibition space, Para/Site Central, hosted by Hanart TZ Gallery in Central (1..."
+    },
+    {
+        "Topic ID": 6,
+        "Keywords": "artists space, critical, artists work, york, discourse",
+        "Spaces Examples": [
+            "Museo de Arte Abstracto Español",
+            "after the butcher",
+            "Ladenatelier Scheib"
+        ],
+        "Text Example": "The museum opened its doors in 1966, was the first contemporary art museum in Spain and was directed by Fernando Zobel with the help of Gustavo Turner and Gerardo Rueda, all abstract painters. The mus..."
+    },
+    {
+        "Topic ID": 7,
+        "Keywords": "filliou, fluxus, shop, robert filliou, adrian",
+        "Spaces Examples": [
+            "Artpool",
+            "White Columns",
+            "The Clocktower Gallery"
+        ],
+        "Text Example": "The roots of Artpool go back to the Chapel Exhibitions held in artist György Galántai's \"summer studio\", the Balatonboglár Chapel, from 1970 to 1973. By the time the police closed it down in August of..."
+    },
+    {
+        "Topic ID": 8,
+        "Keywords": "music, hall, areas, important, private",
+        "Spaces Examples": [
+            "LOOP",
+            "POOL",
+            "TILDE"
+        ],
+        "Text Example": "– Searching for Young Emerging Artists– Promoting Connections between Visual Arts and other Genres– Establishing International Networks of Alternative Spaces– Supporting Creative Activities and Better..."
+    },
+    {
+        "Topic ID": 9,
+        "Keywords": "france, laurence, commission, fiction, beautiful",
+        "Spaces Examples": [
+            "ECHANGEUR22",
+            "articule",
+            "Ateliers Vortex"
+        ],
+        "Text Example": "For professional artists or confirmed in the following disciplines: Numbering art/songart plasticsCritical art and exhibition commissionerDesign/graphismArticle/writingDance/chorographyFor a maximum p..."
+    },
+    {
+        "Topic ID": 10,
+        "Keywords": "kunstverein, son, editors, non profit organization, profit organization",
+        "Spaces Examples": [
+            "Infozone",
+            "AMAVADA",
+            "Art Metropole"
+        ],
+        "Text Example": "The datazone project appears in the centre of Paris, as an open-ended joint study that aims to create, collect, select, read, retrieve and disseminate information and content. The articles are primari..."
+    },
+    {
+        "Topic ID": 11,
+        "Keywords": "atelier, exhibition organized, exhibitions artists, michel, damien",
+        "Spaces Examples": [
+            "LIEU-COMMUN",
+            "Transmission",
+            "Collective"
+        ],
+        "Text Example": "The House-Common is located at all stages of the professional course of the artist and proposes:- workshops such as work tools, professionalization, demonstration and promotion, with 8 individual or s..."
+    },
+    {
+        "Topic ID": 12,
+        "Keywords": "free, athens, enterprise, artistic creation, creations",
+        "Spaces Examples": [
+            "table",
+            "Apparatus Projects",
+            "ESPAI COLONA"
+        ],
+        "Text Example": "table is a temporary artist-run project space organized by Kyle Bellucci Johanson in the city of Chicago. table hosts artists for solo shows and long-form discursive meals with invited guests of the a..."
+    },
+    {
+        "Topic ID": 13,
+        "Keywords": "commissions, brussels, critics, opening, gallery",
+        "Spaces Examples": [
+            "SEA Foundation",
+            "CONA",
+            "La Couleuvre"
+        ],
+        "Text Example": "The main objective of SEA Foundation is to connect with society and to anchor Art & Culture in a natural way. SEA Foundation is an independent not-for-profit organization. Our strength is to develop, ..."
+    },
+    {
+        "Topic ID": 14,
+        "Keywords": "poetry, milan, visual poetry, sale, del",
+        "Spaces Examples": [
+            "6b",
+            "AARAU",
+            "MŰTŐ"
+        ],
+        "Text Example": "Since its opening in 2010, 6b has devoted all its energy to proposing a culture of everyone's culture, in a dynamic city-wide St. Denis.Installed in an old industrial building of 7000 m2 in the heart ..."
+    },
+    {
+        "Topic ID": 15,
+        "Keywords": "fine arts, academy fine, underground, fine, academy",
+        "Spaces Examples": [
+            "Triangle-Asterides",
+            "Grande Surface",
+            "warenlift"
+        ],
+        "Text Example": "— 1992: contemporary creation of Asterrades (by artists Gilles Maugeais, Jean-Cristophe Nourisson and Sandrine Raquin) and the association of Friche Theater (SFT) to manage and develop the project of ..."
+    },
+    {
+        "Topic ID": 16,
+        "Keywords": "madrid, amsterdam, independent space, artistic research, articles",
+        "Spaces Examples": [
+            "*DUUU",
+            "IN OUT",
+            "VARIAe"
+        ],
+        "Text Example": "*DUU is a webradio dedicated to contemporary creation (www.duuradio.fr). Founded by artists in 2012, this artist-run-space is motivated by a desire to understand the situations of reflection and work...."
+    },
+    {
+        "Topic ID": 17,
+        "Keywords": "fellowship, infrastructure, art city, contexts, organization",
+        "Spaces Examples": [
+            "la compagnie",
+            "ChezKit",
+            "Sunset RS"
+        ],
+        "Text Example": "Since 1990, the company has been engaged in day-to-day creation with artists (production, exhibition) and offers artistic activities to all the public by developing a long-term relationship with the i..."
+    },
+    {
+        "Topic ID": 18,
+        "Keywords": "lyon, moved, street, studio, supporting",
+        "Spaces Examples": [
+            "Artists Club Coffre-Fort",
+            "Etablissement d'en face",
+            "A-B Projects"
+        ],
+        "Text Example": "In March 2012, Thibaut Espiau, Ištvan Išt Huzjan and Grégoire Motte established the Artists Club, a group of artists whose primary activity is spending time together and discussion but not developing ..."
+    },
+    {
+        "Topic ID": 19,
+        "Keywords": "media, archive, society, online, hub",
+        "Spaces Examples": [
+            "In extenso",
+            "France Fiction",
+            "Le Commissariat"
+        ],
+        "Text Example": "exhibitions, editions, publication of The beautiful magazine, contemporary Art magazine in Central France. Created in 2002 by Marc Geneix and Sébastien Maloberti, In anextenso expands its activities a..."
+    },
+    {
+        "Topic ID": 20,
+        "Keywords": "recent years, turned, regularly, academy, constantly",
+        "Spaces Examples": [
+            "Bootlab",
+            "Giannozzo Kunstverein",
+            "Allgirls"
+        ],
+        "Text Example": "Boatlab is a non-profit organization for the development of independent projects. Founded in 2000 and established up to 2007 in the history of Telegrafenamt in Berlin-Mitte, boatlab lives now in all t..."
+    },
+    {
+        "Topic ID": 21,
+        "Keywords": "film, known, buy, materials, resident",
+        "Spaces Examples": [
+            "BIKINI",
+            "bologna.cc",
+            "marcablanca"
+        ],
+        "Text Example": "The bikini project has several lines: a place of exhibition (small, very small), one at two works (monokini or bikini), a critical or literary text. The exhibition is presented to the public during a ..."
+    },
+    {
+        "Topic ID": 22,
+        "Keywords": "created, curatorial, seven, europe, brussels",
+        "Spaces Examples": [
+            "identité remarquable",
+            "NICC",
+            "Flip"
+        ],
+        "Text Example": "A hole in the eye The \"Remarkable Identity\", which was first a double of real wine and \"virtual wine\", is now removed from its context, i.e. its object thought. For more than five years, this wine loc..."
+    },
+    {
+        "Topic ID": 23,
+        "Keywords": "vienna, creates, community, art org, org",
+        "Spaces Examples": [
+            "Galerie RDV",
+            "monopôle",
+            "Les Limbes"
+        ],
+        "Text Example": "Created in 2007, by the plastic artist Jean-François Courtillat, the RDV is dedicated to contemporary creation, offering a space of discovery and exchange for artists and audiences. RDV follows the Ip..."
+    },
+    {
+        "Topic ID": 24,
+        "Keywords": "visual artists, visual artist, visual, wine, practice",
+        "Spaces Examples": [
+            "YARAT Contemporary Art Space",
+            "artellewa",
+            "0gms"
+        ],
+        "Text Example": "YARAT is a not-for-profit organisation dedicated to nurturing an understanding of contemporary art and creating a hub for artistic practice, research and thinking in the Caucasus, Central Asia and the..."
+    },
+    {
+        "Topic ID": 25,
+        "Keywords": "contemporary creation, creation, plastic, today, follows",
+        "Spaces Examples": [
+            "Artspeak",
+            "Mercato del Sale",
+            "Centro Suolo"
+        ],
+        "Text Example": "Artspeak was founded in 1986 by curator Cate Rimmer, artist Keith Higgins and writer Jeff Derksen. Our early association with the Kootenay School of Writing served to situate Artspeak within a unique ..."
+    },
+    {
+        "Topic ID": 26,
+        "Keywords": "michele, diversity, charlie, crisis, contemporary artists",
+        "Spaces Examples": [
+            "L'impasse",
+            "URGENT PARADISE",
+            "Enterprise Projects"
+        ],
+        "Text Example": "\"Our goal is to invest live places to produce sense and shapes by organizing contemporary art exhibitions.The impasse, which is the name of our association, repeats the place's address and refers to t..."
+    },
+    {
+        "Topic ID": 27,
+        "Keywords": "organization, video, stations, supported, worldwide",
+        "Spaces Examples": [
+            "PRÉFACE",
+            "STANDARDS",
+            "Deborah Bowmann"
+        ],
+        "Text Example": "Art contemporain / Contemporary Art 1 In literature, the front is – with the peripheral elements of the work – an introduction and precision tool. Edited by a third, it provides an additional look, in..."
     },
     {
         "Topic ID": 28,
-        "Keywords": "fashion, germany, south, exhibited, downtown",
+        "Keywords": "project space, meters, project artists, space different, big",
         "Spaces Examples": [
-            "Rinomina",
-            "Fashion Moda"
+            "West Space",
+            "Association Art Today",
+            "Station Mir"
         ],
-        "Text Example": "In 2015, in collaboration with Markus Lichti, we created an exhibition space called Rinomina (in Italian renamed, re-named). We founded this place with the objective of giving shape to our own artisti..."
+        "Text Example": "West Space Projects are programmed to run alongside our application-based program and provide support to artist-initiated/ developed exhibitions, publications, sound releases, performances, internatio..."
     },
     {
         "Topic ID": 29,
-        "Keywords": "tools, limoges, recent years, academy, recent",
+        "Keywords": "arts education, education, communication, want, developing",
         "Spaces Examples": [
-            "rum46",
-            "Roue libre"
+            "LA><ART",
+            "LE CUBE – INDEPENDENT ART ROOM",
+            "ART HOUSE"
         ],
-        "Text Example": "Rum46 was founded in 1995 and is now run by a group of volunteers. With our different courses and trainings of the Academy of Arts of Jutland, the Academy of Arts in Amsterdam, the history of art, the..."
+        "Text Example": "RESPONDING TO LOS ANGELES’ EVER-SHIFTING CULTURAL CLIMATE, LAXART QUESTIONS TRADITIONAL CONTEXTS FOR THE EXHIBITION OF CONTEMPORARY ART, ARCHITECTURE, AND DESIGN.WITH A RENEWED VISION FOR THE POTENTIA..."
     },
     {
         "Topic ID": 30,
-        "Keywords": "installed, district, caroline, artists installed, union",
+        "Keywords": "romania, artspace, cluj, hungary, countries",
+        "Spaces Examples": [
+            "XI box",
+            "rum46",
+            "19"
+        ],
+        "Text Example": "The XI box is seen on the day of 2015, of the will of young graduates.e. of the Beaux-Arts of Turcoing who decide to build together their own context of experimentation, exhibition and socialization w..."
+    },
+    {
+        "Topic ID": 31,
+        "Keywords": "intervention, intention, contributing, interventions, george",
+        "Spaces Examples": [
+            "KABINET",
+            "Cabinet 44",
+            "PILOTENKUECHE"
+        ],
+        "Text Example": "KABINET is a place of art, alternative and independent meetings. Founded in 2013, the space aims to discover and deal with multiple artistic practices. One of the main pools is the installation of eve..."
+    },
+    {
+        "Topic ID": 32,
+        "Keywords": "children, dijon, workshop, seven, evolved",
+        "Spaces Examples": [
+            "Art City",
+            "221A",
+            "Action Art Actuel (AAA)"
+        ],
+        "Text Example": "Art City is a not-for-profit community art studio dedicated to providing people of all ages with innovative and professional art programming, free of charge. Art City’s primary goal is to provide spac..."
+    },
+    {
+        "Topic ID": 33,
+        "Keywords": "production, artists commissioners, rock, production structure, companies",
+        "Spaces Examples": [
+            "L'Œil de boeuf",
+            "Abilene",
+            "Fer de Lance"
+        ],
+        "Text Example": "Boeuf ring is an association that has been open in Lyon since April 2010.Its activity is about production, exhibition and art dissemination.It is a place of exchange that has the purpose of welcoming,..."
+    },
+    {
+        "Topic ID": 34,
+        "Keywords": "current art, public space, purpose, jean, experiment",
+        "Spaces Examples": [
+            "The Lab",
+            "Poteaux d'angle",
+            "Nano Gallery"
+        ],
+        "Text Example": "The Lab believes that if we give artists enough time, space, and funding to realize their vision, the work they produce will change the way we experience the world. These are often small propositions ..."
+    },
+    {
+        "Topic ID": 35,
+        "Keywords": "laboratory, like, spaces, rhythm, moment",
+        "Spaces Examples": [
+            "TARS",
+            "New Media Society",
+            "Live Club Ssam (SSamzie Space)"
+        ],
+        "Text Example": "TARS is an Artist Run Space who organizes exhibitions (Solo or Group Shows), the space offers an artist's residence to promote exchanges and dialogue, between different structures (residencies/galleri..."
+    },
+    {
+        "Topic ID": 36,
+        "Keywords": "western, interdisciplinary, media, media art, media artists",
+        "Spaces Examples": [
+            "L'H du Siège",
+            "Zebra3 / Buy-sellf",
+            "kinema ikon"
+        ],
+        "Text Example": "The gallery of four exhibitions per year, the association of Nassence concentrates on supporting contemporary creation. The meeting, at the same time of the work and of the artist in the workshop, is ..."
+    },
+    {
+        "Topic ID": 37,
+        "Keywords": "natural, step, river, steps, encourages",
+        "Spaces Examples": [
+            "Alexandria Contemporary Arts Forum (ACAF)",
+            "Lieu d'exposition en voie de déplacement (LEVD)",
+            "c-o-m-p-o-s-i-t-e"
+        ],
+        "Text Example": "Encourage and promote the essential link between contemporary arts and contemporary society through its projects, programs, and exhibitions.Provide and sustain a space for accessible contemporary visu..."
+    },
+    {
+        "Topic ID": 38,
+        "Keywords": "pauline, designs, production, self, production art",
+        "Spaces Examples": [
+            "GRIMMUSEUM",
+            "Paranorm",
+            "La Maudite"
+        ],
+        "Text Example": "WE ARE NOT A MUSEUM167 mm × 240 mm, 400 Seaten, 500 illustrations in black and white, EnglishWith the texts of Katerina Gregos, Jonathan Ahlm Brenander, Solvevj Helweg Ovesen, Toke Lykkeberg. Publishe..."
+    },
+    {
+        "Topic ID": 39,
+        "Keywords": "artist art, currently, associative, independent exhibition, painting video",
+        "Spaces Examples": [
+            "Atelier de l’Île",
+            "GOSWELL ROAD",
+            "ERRATUM"
+        ],
+        "Text Example": "L’Atelier de l’Île is an artist-run centre that promotes research, experimentation and production in contemporary printmaking. The Ragnar of the island of Val-David was founded by Michel-Thomas Trembl..."
+    },
+    {
+        "Topic ID": 40,
+        "Keywords": "tools, limoges, association, promotes, stay",
+        "Spaces Examples": [
+            "Zona",
+            "Centro Tool",
+            "Fashion Moda"
+        ],
+        "Text Example": "Founded in 1974 in Florence, Zona represents an unique example, of internationally recognized, non profit artist-run spaces. Situated in the historic quarter San Niccolò, Zona’s involvement with the e..."
+    },
+    {
+        "Topic ID": 41,
+        "Keywords": "station, nice, service, drawings, build",
+        "Spaces Examples": [
+            "La GAD MARSEILLE",
+            "Clovis XV",
+            "apes&castles"
+        ],
+        "Text Example": "In 2010, the Arnaud Deschin Gallery (GAD) began to propose to the public the first exhibitions focused on the creation of young artists, with a particular emphasis on the women's artistic scene. In 20..."
+    },
+    {
+        "Topic ID": 42,
+        "Keywords": "factory, lee, exhibition area, art org, young artists",
+        "Spaces Examples": [
+            "One gee in fog",
+            "La salle de bain",
+            "Studio Voltaire"
+        ],
+        "Text Example": "One gee in fire is an independent, experimental and multidisciplinary space including an exhibition room, a concert room, a library and a residence. established in the canton of Geneva, founded by the..."
+    },
+    {
+        "Topic ID": 43,
+        "Keywords": "rooms, project space, reception, limoges, visiting",
+        "Spaces Examples": [
+            "44 Gassendi",
+            "Corridor Project Space",
+            "MNȚRplusC"
+        ],
+        "Text Example": "The area is designed to be transformed from 3 to 4 times a year into an exhibition area, which is suitable for guests.When it was created, the 360 agency dreamed of being an open space on its environm..."
+    },
+    {
+        "Topic ID": 44,
+        "Keywords": "public space, rented, conventional, alternative, interior",
+        "Spaces Examples": [
+            "HECTOLITER",
+            "Ecart",
+            "The ister"
+        ],
+        "Text Example": "H E C T O L I T E R is a project space for contemporary art based in Brussels, Belgium.Founded in 2009 by Tine Ringelé and Nico Sall . Joined by Christophe Piette in 2015.H E C T O L I T E R is a non-..."
+    },
+    {
+        "Topic ID": 45,
+        "Keywords": "house, denis, gives, researchers, housing",
+        "Spaces Examples": [
+            "MAISON DE L'IMAGE",
+            "General Public",
+            "L'épicerie"
+        ],
+        "Text Example": "Dissemination, production and rental of exhibitions Organization of projections, meetings and conferences Home artists in residence Accompaniment of artistic projects Training and education in the ima..."
+    },
+    {
+        "Topic ID": 46,
+        "Keywords": "self, collection, ateliers, managed, physical",
+        "Spaces Examples": [
+            "Patara Gallery",
+            "The Why Not Gallery",
+            "MAGMA"
+        ],
+        "Text Example": "The PATARA gallery is a gallery of artists located in a very frequent underground pass from the centre of Tbilisi. Founded in 2017 by Gvantsa Jishkariani and Nata Kipiani, it is a non-commercial space..."
+    },
+    {
+        "Topic ID": 47,
+        "Keywords": "ground, artist space, like minded, encourage dialogue, easily",
+        "Spaces Examples": [
+            "BLINDSIDE",
+            "TCB",
+            "Open Space"
+        ],
+        "Text Example": "BLINDSIDE is an independent contemporary arts space located in the heart of Melbourne established in 2004. We are committed to supporting and promoting contemporary art practice across a broad range o..."
+    },
+    {
+        "Topic ID": 48,
+        "Keywords": "work work, work, employment, day day, france",
+        "Spaces Examples": [
+            "W",
+            "periscope"
+        ],
+        "Text Example": "W was installed in the East of Paris, in Pantin in February 2010. The space has two very different potentials: the first level is an abbreviation space, the second working space. W aims at the quality..."
+    },
+    {
+        "Topic ID": 49,
+        "Keywords": "situ, tim, objects, october, growing",
+        "Spaces Examples": [
+            "Immanence",
+            "Néon"
+        ],
+        "Text Example": "Immantique is a place of exhibition, diffusion, production, experimentation in favour of contemporary creation, resulting in various fields of contemporary art. Immanence is a very primitive place for..."
+    },
+    {
+        "Topic ID": 50,
+        "Keywords": "projets, avant, avant garde, garde, doors",
+        "Spaces Examples": [
+            "Irmavep Club",
+            "La Mamelle/Art Com"
+        ],
+        "Text Example": "Irmavep Club is a collection of artists and commissions who are directly involved in the IrmaVepLab project from 2004 to 2010, in Châtillon-sur-Marne (the initiative gets the status of art centre in 2..."
+    },
+    {
+        "Topic ID": 51,
+        "Keywords": "contemporary artists, exhibition hall, canada, artist centre, documentation",
+        "Spaces Examples": [
+            "A.Polina",
+            "Atelier White Cubi"
+        ],
+        "Text Example": "A. Polina La Ciotat, contemporary creation space, pictured by artist Sarah Cassenti, led by SC, Olivia Rivet, children and artists, surrounded by plants. Round to the Children's Free Atelier, Gallery ..."
+    },
+    {
+        "Topic ID": 52,
+        "Keywords": "profit artist centre, profit artist, non profit artist, canadian, gallery space",
         "Spaces Examples": [
             "Les 2 portes",
             "MEAN"
@@ -305,336 +525,138 @@
         "Text Example": "The Association The 2 Ports was created from the meeting of three artists Caroline Pageaud, Gwiherm Curbet and Audrey Devaud in the workshop in the city of Besançon. The workshop project then took pla..."
     },
     {
-        "Topic ID": 31,
-        "Keywords": "vienna, participated, gallery, limited, dedicated",
-        "Spaces Examples": [
-            "The Why Not Gallery",
-            "0gms"
-        ],
-        "Text Example": "The Why Not Gallery is a Tbilisi-based contemporary art gallery dedicated to supporting and promoting young Georgian artists. Founded in 2018, by friends and fellow colleagues artist Gvantsa Jishkaria..."
-    },
-    {
-        "Topic ID": 32,
-        "Keywords": "commission, production structure, shares, interdisciplinary art, union",
-        "Spaces Examples": [
-            "Fer de Lance",
-            "Le Commissariat"
-        ],
-        "Text Example": "With twenty living artists, Fer de Lance is an interdisciplinary art centre whose main objective is to create bridges between various areas of creation, discipline and institutions. The structure cons..."
-    },
-    {
-        "Topic ID": 33,
-        "Keywords": "committee, transmission, glasgow, michael, standard",
-        "Spaces Examples": [
-            "Transmission",
-            "Artcite Inc."
-        ],
-        "Text Example": "A diverse and increasingly high profile art scene has emerged in Glasgow with Transmission at its centre. Transmission provides a place where artists can meet, talk and exhibit along with local and in..."
-    },
-    {
-        "Topic ID": 34,
-        "Keywords": "discover, service, multidisciplinary, sound, monthly",
-        "Spaces Examples": [
-            "La Jetée",
-            "VARIAe"
-        ],
-        "Text Example": "The Jetée workshop / gallery The Jetée is a multidisciplinary place offering exhibitions in the gallery space (on the basis of a monthly exhibition), alternative libraries, articanal series workshop, ..."
-    },
-    {
-        "Topic ID": 35,
-        "Keywords": "opening, thirty, association aims, artists invited, recording",
-        "Spaces Examples": [
-            "Espace 29",
-            "Botschaft"
-        ],
-        "Text Example": "An artistic management committee composed of art professionals selects projects. The red line of space29 is about \"the contemporary superpie?\" (Conf: Emilie Viaut Doctoreure in Sociology, thesis direc..."
-    },
-    {
-        "Topic ID": 36,
-        "Keywords": "editors, non profit organization, profit organization, history, northern",
-        "Spaces Examples": [
-            "Bootlab",
-            "Sonnenstube"
-        ],
-        "Text Example": "Boatlab is a non-profit organization for the development of independent projects. Founded in 2000 and established up to 2007 in the history of Telegrafenamt in Berlin-Mitte, boatlab lives now in all t..."
-    },
-    {
-        "Topic ID": 37,
-        "Keywords": "family, born, annual exhibitions, exhibitions conferences, body",
-        "Spaces Examples": [
-            "Diagonale",
-            "Easttopics"
-        ],
-        "Text Example": "For more than ten years, Diagonale has set up various contexts - exhibitions, editions, round tables, artists' meetings and, from time to time, artists' residences - to accompany the proposals in cont..."
-    },
-    {
-        "Topic ID": 38,
-        "Keywords": "systems, amsterdam, residential, relationships, organizing",
-        "Spaces Examples": [
-            "Lieu d'exposition en voie de déplacement (LEVD)",
-            "TILDE"
-        ],
-        "Text Example": "The LEVD is an association with variable geometry created in 2014. LEVD is a means to design contemporary art production and dissemination frameworks, regardless of cultural institutions, galleries or..."
-    },
-    {
-        "Topic ID": 39,
-        "Keywords": "exhibition organized, exhibitions artists, damien, james, format",
-        "Spaces Examples": [
-            "Deborah Bowmann",
-            "ERRATUM"
-        ],
-        "Text Example": "Deborah Bowmann is a project run by artists Amaury Daurel and Victor Delestre recently relocated in Brussels after a first season of exhibitions/collections held in Amsterdam. Deborah Bowmann stands b..."
-    },
-    {
-        "Topic ID": 40,
-        "Keywords": "extended, pauline, houses, gallery, opening",
-        "Spaces Examples": [
-            "La GAD MARSEILLE",
-            "ACUD"
-        ],
-        "Text Example": "In 2010, the Arnaud Deschin Gallery (GAD) began to propose to the public the first exhibitions focused on the creation of young artists, with a particular emphasis on the women's artistic scene. In 20..."
-    },
-    {
-        "Topic ID": 41,
-        "Keywords": "wishes, residency, studio, weeks, artist residency",
-        "Spaces Examples": [
-            "ECHANGEUR22",
-            "PILOTENKUECHE"
-        ],
-        "Text Example": "For professional artists or confirmed in the following disciplines: Numbering art/songart plasticsCritical art and exhibition commissionerDesign/graphismArticle/writingDance/chorographyFor a maximum p..."
-    },
-    {
-        "Topic ID": 42,
-        "Keywords": "laurence, france, fiction, beautiful, marc",
-        "Spaces Examples": [
-            "In extenso",
-            "France Fiction"
-        ],
-        "Text Example": "exhibitions, editions, publication of The beautiful magazine, contemporary Art magazine in Central France. Created in 2002 by Marc Geneix and Sébastien Maloberti, In anextenso expands its activities a..."
-    },
-    {
-        "Topic ID": 43,
-        "Keywords": "ground, architecture, artist space, art area, diffusion contemporary",
-        "Spaces Examples": [
-            "HIT",
-            "Ground"
-        ],
-        "Text Example": "Hit – artist run space Hit is an independent art area that welcomes exhibitions, meals, events, exhibitions, and the diffusion of contemporary art. Since 2013, it has been managed by Anne Minazio and ..."
-    },
-    {
-        "Topic ID": 44,
-        "Keywords": "encounters, stop, biennial, wish, dan",
-        "Spaces Examples": [
-            "balak",
-            "Balamuc"
-        ],
-        "Text Example": "Balak is not sedentary. An exhibition opens once and twice a year in a different space. In this title Balak invites artists to come and invest in each new edition. Balak’s artistic line, a contemporar..."
-    },
-    {
-        "Topic ID": 45,
-        "Keywords": "works art, photography, outside, planned, art media",
-        "Spaces Examples": [
-            "Takeawaygallery",
-            "CAMERA"
-        ],
-        "Text Example": "Takeawaygallery© was born in the late 2009 on a project of the Roman photographer Stefano Esposito and it is made up of two parallel lines of business.The first one is the gallery itself, seat of the ..."
-    },
-    {
-        "Topic ID": 46,
-        "Keywords": "surface, adrian, damien, created artists, artists based",
-        "Spaces Examples": [
-            "De La Charge",
-            "Grande Surface"
-        ],
-        "Text Example": "The CHARGE is a place of investment by 19 artists meeting in ASBL.This place is divided into workshops and has an exhibition space.After 3 years the entire group has chosen to stop this activity for n..."
-    },
-    {
-        "Topic ID": 47,
-        "Keywords": "lab, thing, sharing, created, need",
-        "Spaces Examples": [
-            "The Lab",
-            "PeepSpace"
-        ],
-        "Text Example": "The Lab believes that if we give artists enough time, space, and funding to realize their vision, the work they produce will change the way we experience the world. These are often small propositions ..."
-    },
-    {
-        "Topic ID": 48,
-        "Keywords": "steps, situated, mainly, space intended, limits",
-        "Spaces Examples": [
-            "63rd - 77th STEPS",
-            "DAS ESSZIMMER"
-        ],
-        "Text Example": "63rd - 77th STEPS is a project space founded and run by the artist Fabio Santacroce. The name refers to the final part of a multi-floor staircase (the area between 63 ° and 77 ° step), inside a buildi..."
-    },
-    {
-        "Topic ID": 49,
-        "Keywords": "graphic, graphic design, brussels, french, university",
-        "Spaces Examples": [
-            "Theophile's Papers",
-            "Sorbonne Artgallery"
-        ],
-        "Text Example": "Théophile's Papers is an itinerant publishing platform that operates from Paris & Brussels.Founded in March 2011 by Théophile Calot — a Brussels based french graphic designer — Théophile's Papers dist..."
-    },
-    {
-        "Topic ID": 50,
-        "Keywords": "italy, artist space, space composed, athens, happenings",
-        "Spaces Examples": [
-            "TRIPLA",
-            "3 137"
-        ],
-        "Text Example": "TRIPLA, artist run space active since 2016 in Bologna, via Indipendenza 71 f, Italy. Our space is composed of three showcases of a former shop, observable only from the outside 24/7 all year. During t..."
-    },
-    {
-        "Topic ID": 51,
-        "Keywords": "opening, artists present work, dedicated contemporary creation, dedicated exhibition, exchange",
-        "Spaces Examples": [
-            "L'Œil de boeuf",
-            "Abilene"
-        ],
-        "Text Example": "Boeuf ring is an association that has been open in Lyon since April 2010.Its activity is about production, exhibition and art dissemination.It is a place of exchange that has the purpose of welcoming,..."
-    },
-    {
-        "Topic ID": 52,
-        "Keywords": "dijon, workshop, seven, school, area",
-        "Spaces Examples": [
-            "XI box",
-            "Atelier White Cubi"
-        ],
-        "Text Example": "The XI box is seen on the day of 2015, of the will of young graduates.e. of the Beaux-Arts of Turcoing who decide to build together their own context of experimentation, exhibition and socialization w..."
-    },
-    {
         "Topic ID": 53,
-        "Keywords": "documents, contributions, museum, video, wide range",
+        "Keywords": "residencies, australia, programme, international, international artists",
         "Spaces Examples": [
-            "GRIMMUSEUM",
-            "Paranorm"
+            "Openspace Bae",
+            "CONICAL"
         ],
-        "Text Example": "WE ARE NOT A MUSEUM167 mm × 240 mm, 400 Seaten, 500 illustrations in black and white, EnglishWith the texts of Katerina Gregos, Jonathan Ahlm Brenander, Solvevj Helweg Ovesen, Toke Lykkeberg. Publishe..."
+        "Text Example": "'Openspace Bae' is an alternative exhibition space. 'Bae' in the name is a Korean word with manifold meanings; a pear, a ship or double. The name itself signifies location of the space in the pear orc..."
     },
     {
         "Topic ID": 54,
-        "Keywords": "solo, lieu, common, levels, club",
+        "Keywords": "generator, way, life, remains, existence",
         "Spaces Examples": [
-            "LIEU-COMMUN",
-            "Club solo"
+            "TEC - Théorie des Espaces Courbes",
+            "La Confection Idéale"
         ],
-        "Text Example": "The House-Common is located at all stages of the professional course of the artist and proposes:- workshops such as work tools, professionalization, demonstration and promotion, with 8 individual or s..."
+        "Text Example": "The TEC is an alternative art centre dedicated to exhibition projects in situ. It is a military artistic site, open to all the public free of charge, supported by the TEC 'friends' association. \"I was..."
     },
     {
         "Topic ID": 55,
-        "Keywords": "narrative, question, object, opens, volume",
+        "Keywords": "current art, city city, centre, designs, current",
         "Spaces Examples": [
-            "STANDARDS",
-            "AU LIEU - éditions extensibles"
+            "CAMERA",
+            "Indecis"
         ],
-        "Text Example": "Avec une programmation annuelle d’une dizaine de projets in situ et hors-les-murs, Standards, composé de d’artistes et de commissaires d’exposition mettent en question le rapport entre ces deux corps ..."
+        "Text Example": "CAMERA is the artist-run space founded by Irina Dumitrașcu Măgurean, a visual artist based in Cluj-Napoca. CAMERA is focused on promoting the work of emerging visual artists, especially photography-re..."
     },
     {
         "Topic ID": 56,
-        "Keywords": "audio, legendary, york, matta, gordon matta clark",
+        "Keywords": "residences, individual, england, responsible, collective exhibitions",
         "Spaces Examples": [
-            "attrape-couleurs",
-            "The Clocktower Gallery"
+            "The Number Shop",
+            "IF"
         ],
-        "Text Example": "Associative art area in 2000 This art site presents all kinds of art (photograph, painting, video...) through monograph or collective exhibitions. Since 2009, the artist's art has also been installed ..."
+        "Text Example": "STUDIOThe Number Shop studios provides it's residents with a defined personal space, as well as shared floor space in which to work. Facilities include; wireless internet throughout, a shared store fa..."
     },
     {
         "Topic ID": 57,
-        "Keywords": "submissions, art city, canada, accessible, programming",
+        "Keywords": "association, promotion, communication, meetings discussions, artists institutions",
         "Spaces Examples": [
-            "Art City",
-            "Art Metropole"
+            "INTERIOR and the collectors",
+            "SOX"
         ],
-        "Text Example": "Art City is a not-for-profit community art studio dedicated to providing people of all ages with innovative and professional art programming, free of charge. Art City’s primary goal is to provide spac..."
+        "Text Example": "INTERIOR and the collectors are an exhibition space directed by two artists. Located in an old house of the historic centre of Arles, it is not a place of conventional exhibition but several rooms tha..."
     },
     {
         "Topic ID": 58,
-        "Keywords": "work work, current art, work, france, centre",
+        "Keywords": "artspace, communities, street, centres, current",
         "Spaces Examples": [
-            "Dos Mares",
-            "3e impérial"
+            "Espace Labo",
+            "Maison Jaune"
         ],
-        "Text Example": "Two Mares encourages the mobility and visibility of artists through international residency programmes. The artists are hosted in France, in Paris for a period ranging from 1 to 3 months. They are ded..."
+        "Text Example": "The Space Labo is an open independent art space in 2008. It is now run by Karen Alphonso. Several collaborators are working around the LABO project: Sophie Alphonso, Tristan Audeoud, Renaud Marchand, ..."
     },
     {
         "Topic ID": 59,
-        "Keywords": "wood, stone, thomas, decided, atelier",
+        "Keywords": "laurence, king, beaux arts, school, artist work",
         "Spaces Examples": [
-            "Atelier de l’Île",
-            "Atelier Silex"
+            "L'epicerie",
+            "Treize"
         ],
-        "Text Example": "L’Atelier de l’Île is an artist-run centre that promotes research, experimentation and production in contemporary printmaking. The Ragnar of the island of Val-David was founded by Michel-Thomas Trembl..."
+        "Text Example": "Exposure / programming / dissemination The epicery could be a cooperative, an association, a command, a sports team, a range of prognosticators, a technical team, a pilot team, a pilot team, a pension..."
     },
     {
         "Topic ID": 60,
-        "Keywords": "film screenings, activities, film, curating, document",
+        "Keywords": "committed, performance space, thinkers, artists contemporary, brazilian",
         "Spaces Examples": [
-            "COHERENT",
-            "La Maudite"
+            "Où",
+            "Le Château"
         ],
-        "Text Example": "COHERENT is committed to promoting the young emerging artists of contemporary art. Tommy Lecot, Ubay Martin, François Patue and Maxime Souvant, Brazilian artists and residents, met in June 2016 and de..."
+        "Text Example": "Experiment and Exhibitive Spaces, Workshop/Residence. OO Association 1901, experimenting with three exhibitions in Marseille – OÜ place for the current art in the 1st Arrd, OÜ and Aventure in the 13th..."
     },
     {
         "Topic ID": 61,
-        "Keywords": "artist project, discursive, cultivate, photo, chicago",
+        "Keywords": "square, north, district, factory, art architecture",
         "Spaces Examples": [
-            "KABINET",
-            "table"
+            "LAPSUS",
+            "e/lAboRaTory"
         ],
-        "Text Example": "KABINET is a place of art, alternative and independent meetings. Founded in 2013, the space aims to discover and deal with multiple artistic practices. One of the main pools is the installation of eve..."
+        "Text Example": "Lapsus Laboratory is an educational program created to incite interest and passion for experiments in art and technology. In the lab we explore tools like 3D printers, Arduino devices, virtual reality..."
     },
     {
         "Topic ID": 62,
-        "Keywords": "western, program, melbourne, interdisciplinary, experimental art",
+        "Keywords": "gallery, south, steel, artiste, berlinian",
         "Spaces Examples": [
-            "West Space",
-            "Western Front"
+            "Western Front",
+            "METALAB / RETICULAR"
         ],
-        "Text Example": "West Space Projects are programmed to run alongside our application-based program and provide support to artist-initiated/ developed exhibitions, publications, sound releases, performances, internatio..."
+        "Text Example": "Established in 1973 the Western Front is one of Canada’s leading artist-run centres for contemporary art and new music. We produce and present visual art, exhibitions, new music concerts and workshops..."
     },
     {
         "Topic ID": 63,
-        "Keywords": "young emerging, melbourne, broader, gallery, young emerging artists",
+        "Keywords": "experimentation, celebrated, universe, combines, innovation",
         "Spaces Examples": [
-            "TCB",
-            "TEC - Théorie des Espaces Courbes"
+            "l'Œil de Poisson",
+            "The Mothership"
         ],
-        "Text Example": "TCB art inc. is a space run by artists based in Melbourne, Australia, dedicated to providing a space where young, emerging and established artists alike have the artistic freedom to explore, experimen..."
+        "Text Example": "The work of the Poisson is aimed at both dissemination and production of the current art. The Centre prefers an art of research and exploration that encourages the decoupling of artistic practices and..."
     },
     {
         "Topic ID": 64,
-        "Keywords": "pierre, hong, central, art institutions, spaces art",
+        "Keywords": "installed, district, caroline, artists installed, union",
         "Spaces Examples": [
-            "Para Site",
-            "Rectangle"
+            "Arprim",
+            "TOPO"
         ],
-        "Text Example": "Throughout its history, Para Site's activities have included a range of different formats, among which a smaller parallel exhibition space, Para/Site Central, hosted by Hanart TZ Gallery in Central (1..."
+        "Text Example": "Arprint, an art testing centre, has the task of disseminating current practices related to printed arts.It deals with printing as an open, mobile, social and accessible medium. It is defined as an are..."
     },
     {
         "Topic ID": 65,
-        "Keywords": "hall, purposes, purpose, allows, passed",
+        "Keywords": "stands, wanted, helps, continuously, exists",
         "Spaces Examples": [
-            "Le Château",
-            "Le Hall"
+            "Le Wonder",
+            "MARS"
         ],
-        "Text Example": "The Château is an artistic platform based in Brussels in 2013 by Léa Mayer and Maëlle Maisonneuve.The Château is an exhibition space for non-profit purposes created in a miniature castle.The purpose o..."
+        "Text Example": "MISSION: - To assist the Mission in the preparation of SPACES AND MEASURES - TO ENCOURAGE EXPERIMENT AND RESEARCH AND PROMOTE AND DIFFERENCE OF SPACE EMERGENCIES Artists: - \"private\" workshops where 5..."
     },
     {
         "Topic ID": 66,
-        "Keywords": "ateliers, association, period, residence, artists particular",
+        "Keywords": "past, temporal, spatial, double, art space",
         "Spaces Examples": [
-            "Ateliers Vortex",
-            "Künstlerhaus am Acker"
+            "Ground",
+            "PINCE"
         ],
-        "Text Example": "Since 2012, the association Les Ateliers Vortex together with the association of artists and exhibitions in an ancient 300 m2 factory in the Stéarinerie district in Dijon, Burgone. Managed by artists,..."
+        "Text Example": "Ground is an artist-run space operated by visual artists Lito Kattou and Leontios Toumpouris. Ground is an interdisciplinary platform open to all forms of artistic practice, willing to encourage dialo..."
     },
     {
         "Topic ID": 67,
-        "Keywords": "music, areas, private, border, important",
+        "Keywords": "art theory, art media, cultivate, stimulating, non",
         "Spaces Examples": [
-            "6b",
-            "AARAU"
+            "attrape-couleurs",
+            "ZABRISKIE POINT"
         ],
-        "Text Example": "Since its opening in 2010, 6b has devoted all its energy to proposing a culture of everyone's culture, in a dynamic city-wide St. Denis.Installed in an old industrial building of 7000 m2 in the heart ..."
+        "Text Example": "Associative art area in 2000 This art site presents all kinds of art (photograph, painting, video...) through monograph or collective exhibitions. Since 2009, the artist's art has also been installed ..."
     }
 ]
