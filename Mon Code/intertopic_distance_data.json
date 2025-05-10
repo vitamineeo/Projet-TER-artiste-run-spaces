@@ -1,347 +1,362 @@
 [
     {
         "Topic":-1,
-        "Count":31,
-        "Name":"-1_family_gallery_structure_musical"
+        "Count":36,
+        "Name":"-1_media_filliou_projects_arts"
     },
     {
         "Topic":0,
-        "Count":103,
-        "Name":"0_art org_org_projects_arts"
+        "Count":87,
+        "Name":"0_work_gallery_cultural_arts"
     },
     {
         "Topic":1,
-        "Count":6,
-        "Name":"1_pierre_mainly_spaces art_steps"
+        "Count":8,
+        "Name":"1_madrid_amsterdam_territory_experimentation"
     },
     {
         "Topic":2,
         "Count":5,
-        "Name":"2_century_paintings_museum_concrete"
+        "Name":"2_houses_city_century_concrete"
     },
     {
         "Topic":3,
         "Count":5,
-        "Name":"3_fashion_press_poetry_took"
+        "Name":"3_days_existence_subject_CITY"
     },
     {
         "Topic":4,
-        "Count":4,
-        "Name":"4_popular_going_editions_narrative"
+        "Count":5,
+        "Name":"4_stands_turned_project space_wanted"
     },
     {
         "Topic":5,
-        "Count":4,
-        "Name":"5_club_brussels_stone_wood"
+        "Count":5,
+        "Name":"5_self_collection_joint_ateliers"
     },
     {
         "Topic":6,
-        "Count":4,
-        "Name":"6_artists space_critical_artists work_york"
+        "Count":5,
+        "Name":"6_generator_square_north_designs"
     },
     {
         "Topic":7,
         "Count":4,
-        "Name":"7_filliou_fluxus_shop_robert filliou"
+        "Name":"7_diversity_crisis_artistes_press"
     },
     {
         "Topic":8,
         "Count":4,
-        "Name":"8_music_hall_areas_important"
+        "Name":"8_house_natural_image_step"
     },
     {
         "Topic":9,
         "Count":4,
-        "Name":"9_france_laurence_commission_fiction"
+        "Name":"9_poetry_milan_going_tool"
     },
     {
         "Topic":10,
         "Count":4,
-        "Name":"10_kunstverein_son_editors_non profit organization"
+        "Name":"10_atelier_print_artist centre_techniques"
     },
     {
         "Topic":11,
         "Count":3,
-        "Name":"11_atelier_exhibition organized_exhibitions artists_michel"
+        "Name":"11_day day_children_day_pauline"
     },
     {
         "Topic":12,
         "Count":3,
-        "Name":"12_free_athens_enterprise_artistic creation"
+        "Name":"12_red_art studio_contemporary artists_artist centre"
     },
     {
         "Topic":13,
         "Count":3,
-        "Name":"13_commissions_brussels_critics_opening"
+        "Name":"13_fellowship_infrastructure_quebec_contexts"
     },
     {
         "Topic":14,
         "Count":3,
-        "Name":"14_poetry_milan_visual poetry_sale"
+        "Name":"14_marc_factory_lee_weeks"
     },
     {
         "Topic":15,
         "Count":3,
-        "Name":"15_fine arts_academy fine_underground_fine"
+        "Name":"15_works art_archive_academy_summer"
     },
     {
         "Topic":16,
         "Count":3,
-        "Name":"16_madrid_amsterdam_independent space_artistic research"
+        "Name":"16_public space_night_alternative_streets"
     },
     {
         "Topic":17,
         "Count":3,
-        "Name":"17_fellowship_infrastructure_art city_contexts"
+        "Name":"17_practice_project space_master_tim"
     },
     {
         "Topic":18,
         "Count":3,
-        "Name":"18_lyon_moved_street_studio"
+        "Name":"18_short_everyday_hundreds artists_rented"
     },
     {
         "Topic":19,
         "Count":3,
-        "Name":"19_media_archive_society_online"
+        "Name":"19_artists art_months_production_collaboration"
     },
     {
         "Topic":20,
         "Count":3,
-        "Name":"20_recent years_turned_regularly_academy"
+        "Name":"20_residencies_programme_organisations_based artists"
     },
     {
         "Topic":21,
         "Count":3,
-        "Name":"21_film_known_buy_materials"
+        "Name":"21_creativity_science_foundation_premises"
     },
     {
         "Topic":22,
         "Count":3,
-        "Name":"22_created_curatorial_seven_europe"
+        "Name":"22_press_took_presented_archives"
     },
     {
         "Topic":23,
         "Count":3,
-        "Name":"23_vienna_creates_community_art org"
+        "Name":"23_laboratory_articles_like_street"
     },
     {
         "Topic":24,
         "Count":3,
-        "Name":"24_visual artists_visual artist_visual_wine"
+        "Name":"24_organization_laboratory_video_stations"
     },
     {
         "Topic":25,
         "Count":3,
-        "Name":"25_contemporary creation_creation_plastic_today"
+        "Name":"25_appreciation_contemporary visual_lived_response"
     },
     {
         "Topic":26,
         "Count":2,
-        "Name":"26_michele_diversity_charlie_crisis"
+        "Name":"26_location_meanings_experimental projects_stages"
     },
     {
         "Topic":27,
         "Count":2,
-        "Name":"27_organization_video_stations_supported"
+        "Name":"27_australia_expanded_exhibiting_england"
     },
     {
         "Topic":28,
         "Count":2,
-        "Name":"28_project space_meters_project artists_space different"
+        "Name":"28_fashion_germany_south_exhibited"
     },
     {
         "Topic":29,
         "Count":2,
-        "Name":"29_arts education_education_communication_want"
+        "Name":"29_tools_limoges_recent years_academy"
     },
     {
         "Topic":30,
         "Count":2,
-        "Name":"30_romania_artspace_cluj_hungary"
+        "Name":"30_installed_district_caroline_artists installed"
     },
     {
         "Topic":31,
         "Count":2,
-        "Name":"31_intervention_intention_contributing_interventions"
+        "Name":"31_vienna_participated_gallery_limited"
     },
     {
         "Topic":32,
         "Count":2,
-        "Name":"32_children_dijon_workshop_seven"
+        "Name":"32_commission_production structure_shares_interdisciplinary art"
     },
     {
         "Topic":33,
         "Count":2,
-        "Name":"33_production_artists commissioners_rock_production structure"
+        "Name":"33_committee_transmission_glasgow_michael"
     },
     {
         "Topic":34,
         "Count":2,
-        "Name":"34_current art_public space_purpose_jean"
+        "Name":"34_discover_service_multidisciplinary_sound"
     },
     {
         "Topic":35,
         "Count":2,
-        "Name":"35_laboratory_like_spaces_rhythm"
+        "Name":"35_opening_thirty_association aims_artists invited"
     },
     {
         "Topic":36,
         "Count":2,
-        "Name":"36_western_interdisciplinary_media_media art"
+        "Name":"36_editors_non profit organization_profit organization_history"
     },
     {
         "Topic":37,
         "Count":2,
-        "Name":"37_natural_step_river_steps"
+        "Name":"37_family_born_annual exhibitions_exhibitions conferences"
     },
     {
         "Topic":38,
         "Count":2,
-        "Name":"38_pauline_designs_production_self"
+        "Name":"38_systems_amsterdam_residential_relationships"
     },
     {
         "Topic":39,
         "Count":2,
-        "Name":"39_artist art_currently_associative_independent exhibition"
+        "Name":"39_exhibition organized_exhibitions artists_damien_james"
     },
     {
         "Topic":40,
         "Count":2,
-        "Name":"40_tools_limoges_association_promotes"
+        "Name":"40_extended_pauline_houses_gallery"
     },
     {
         "Topic":41,
         "Count":2,
-        "Name":"41_station_nice_service_drawings"
+        "Name":"41_wishes_residency_studio_weeks"
     },
     {
         "Topic":42,
         "Count":2,
-        "Name":"42_factory_lee_exhibition area_art org"
+        "Name":"42_laurence_france_fiction_beautiful"
     },
     {
         "Topic":43,
         "Count":2,
-        "Name":"43_rooms_project space_reception_limoges"
+        "Name":"43_ground_architecture_artist space_art area"
     },
     {
         "Topic":44,
         "Count":2,
-        "Name":"44_public space_rented_conventional_alternative"
+        "Name":"44_encounters_stop_biennial_wish"
     },
     {
         "Topic":45,
         "Count":2,
-        "Name":"45_house_denis_gives_researchers"
+        "Name":"45_works art_photography_outside_planned"
     },
     {
         "Topic":46,
         "Count":2,
-        "Name":"46_self_collection_ateliers_managed"
+        "Name":"46_surface_adrian_damien_created artists"
     },
     {
         "Topic":47,
         "Count":2,
-        "Name":"47_ground_artist space_like minded_encourage dialogue"
+        "Name":"47_lab_thing_sharing_created"
     },
     {
         "Topic":48,
         "Count":2,
-        "Name":"48_work work_work_employment_day day"
+        "Name":"48_steps_situated_mainly_space intended"
     },
     {
         "Topic":49,
         "Count":2,
-        "Name":"49_situ_tim_objects_october"
+        "Name":"49_graphic_graphic design_brussels_french"
     },
     {
         "Topic":50,
         "Count":2,
-        "Name":"50_projets_avant_avant garde_garde"
+        "Name":"50_italy_artist space_space composed_athens"
     },
     {
         "Topic":51,
         "Count":2,
-        "Name":"51_contemporary artists_exhibition hall_canada_artist centre"
+        "Name":"51_opening_artists present work_dedicated contemporary creation_dedicated exhibition"
     },
     {
         "Topic":52,
         "Count":2,
-        "Name":"52_profit artist centre_profit artist_non profit artist_canadian"
+        "Name":"52_dijon_workshop_seven_school"
     },
     {
         "Topic":53,
         "Count":2,
-        "Name":"53_residencies_australia_programme_international"
+        "Name":"53_documents_contributions_museum_video"
     },
     {
         "Topic":54,
         "Count":2,
-        "Name":"54_generator_way_life_remains"
+        "Name":"54_solo_lieu_common_levels"
     },
     {
         "Topic":55,
         "Count":2,
-        "Name":"55_current art_city city_centre_designs"
+        "Name":"55_narrative_question_object_opens"
     },
     {
         "Topic":56,
         "Count":2,
-        "Name":"56_residences_individual_england_responsible"
+        "Name":"56_audio_legendary_york_matta"
     },
     {
         "Topic":57,
         "Count":2,
-        "Name":"57_association_promotion_communication_meetings discussions"
+        "Name":"57_submissions_art city_canada_accessible"
     },
     {
         "Topic":58,
         "Count":2,
-        "Name":"58_artspace_communities_street_centres"
+        "Name":"58_work work_current art_work_france"
     },
     {
         "Topic":59,
         "Count":2,
-        "Name":"59_laurence_king_beaux arts_school"
+        "Name":"59_wood_stone_thomas_decided"
     },
     {
         "Topic":60,
         "Count":2,
-        "Name":"60_committed_performance space_thinkers_artists contemporary"
+        "Name":"60_film screenings_activities_film_curating"
     },
     {
         "Topic":61,
         "Count":2,
-        "Name":"61_square_north_district_factory"
+        "Name":"61_artist project_discursive_cultivate_photo"
     },
     {
         "Topic":62,
         "Count":2,
-        "Name":"62_gallery_south_steel_artiste"
+        "Name":"62_western_program_melbourne_interdisciplinary"
     },
     {
         "Topic":63,
         "Count":2,
-        "Name":"63_experimentation_celebrated_universe_combines"
+        "Name":"63_young emerging_melbourne_broader_gallery"
     },
     {
         "Topic":64,
         "Count":2,
-        "Name":"64_installed_district_caroline_artists installed"
+        "Name":"64_pierre_hong_central_art institutions"
     },
     {
         "Topic":65,
         "Count":2,
-        "Name":"65_stands_wanted_helps_continuously"
+        "Name":"65_hall_purposes_purpose_allows"
     },
     {
         "Topic":66,
         "Count":2,
-        "Name":"66_past_temporal_spatial_double"
+        "Name":"66_ateliers_association_period_residence"
     },
     {
         "Topic":67,
         "Count":2,
-        "Name":"67_art theory_art media_cultivate_stimulating"
+        "Name":"67_music_areas_private_border"
+    },
+    {
+        "Topic":68,
+        "Count":2,
+        "Name":"68_asia_meaning_maintaining_composed artists"
+    },
+    {
+        "Topic":69,
+        "Count":2,
+        "Name":"69_ancient_culture_trajectory_transition"
+    },
+    {
+        "Topic":70,
+        "Count":2,
+        "Name":"70_collaborators_make_visitors_initiative"
     }
 ]
