@@ -24,3 +24,4 @@ dependencies:
     - umap-learn
     - hdbscan
     - networkx
+    - WordCloud

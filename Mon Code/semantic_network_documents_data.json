@@ -1,0 +1,2081 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "space_name": "W",
+            "topic": 48
+        },
+        {
+            "id": 1,
+            "space_name": "HECTOLITER",
+            "topic": 44
+        },
+        {
+            "id": 2,
+            "space_name": "Artists Club Coffre-Fort",
+            "topic": 18
+        },
+        {
+            "id": 3,
+            "space_name": "/ 77",
+            "topic": 4
+        },
+        {
+            "id": 4,
+            "space_name": "Immanence",
+            "topic": 49
+        },
+        {
+            "id": 5,
+            "space_name": "Irmavep Club",
+            "topic": 50
+        },
+        {
+            "id": 6,
+            "space_name": "BLINDSIDE",
+            "topic": 47
+        },
+        {
+            "id": 7,
+            "space_name": "KINGS Artist Run",
+            "topic": 3
+        },
+        {
+            "id": 8,
+            "space_name": "Quellkollektiv",
+            "topic": 1
+        },
+        {
+            "id": 9,
+            "space_name": "identité remarquable",
+            "topic": 22
+        },
+        {
+            "id": 10,
+            "space_name": "Artpool",
+            "topic": 7
+        },
+        {
+            "id": 11,
+            "space_name": "Galerie RDV",
+            "topic": 23
+        },
+        {
+            "id": 12,
+            "space_name": "GERTRUDE CONTEMPORARY",
+            "topic": 88
+        },
+        {
+            "id": 13,
+            "space_name": "Khiasma",
+            "topic": 1
+        },
+        {
+            "id": 14,
+            "space_name": "FRICHE.SPACE",
+            "topic": 89
+        },
+        {
+            "id": 15,
+            "space_name": "Le générateur",
+            "topic": 89
+        },
+        {
+            "id": 16,
+            "space_name": "Duplex100m2",
+            "topic": 90
+        },
+        {
+            "id": 17,
+            "space_name": "West Space",
+            "topic": 28
+        },
+        {
+            "id": 18,
+            "space_name": "TCB",
+            "topic": 47
+        },
+        {
+            "id": 19,
+            "space_name": "SEA Foundation",
+            "topic": 13
+        },
+        {
+            "id": 20,
+            "space_name": "PRÉFACE",
+            "topic": 27
+        },
+        {
+            "id": 21,
+            "space_name": "Museo de Arte Abstracto Español",
+            "topic": 6
+        },
+        {
+            "id": 22,
+            "space_name": "Salaisons",
+            "topic": 0
+        },
+        {
+            "id": 23,
+            "space_name": "periscope",
+            "topic": 48
+        },
+        {
+            "id": 24,
+            "space_name": "L'impasse",
+            "topic": 26
+        },
+        {
+            "id": 25,
+            "space_name": "Association Art Today",
+            "topic": 28
+        },
+        {
+            "id": 26,
+            "space_name": "Néon",
+            "topic": 49
+        },
+        {
+            "id": 27,
+            "space_name": "Autocenter",
+            "topic": 3
+        },
+        {
+            "id": 28,
+            "space_name": "Open Space",
+            "topic": 47
+        },
+        {
+            "id": 29,
+            "space_name": "Angle art contemporain",
+            "topic": 86
+        },
+        {
+            "id": 30,
+            "space_name": "EDEL EXTRA",
+            "topic": 87
+        },
+        {
+            "id": 31,
+            "space_name": "Para Site",
+            "topic": 5
+        },
+        {
+            "id": 32,
+            "space_name": "White Columns",
+            "topic": 7
+        },
+        {
+            "id": 33,
+            "space_name": "Infozone",
+            "topic": 10
+        },
+        {
+            "id": 34,
+            "space_name": "URGENT PARADISE",
+            "topic": 26
+        },
+        {
+            "id": 35,
+            "space_name": "XI box",
+            "topic": 30
+        },
+        {
+            "id": 36,
+            "space_name": "Station Mir",
+            "topic": 28
+        },
+        {
+            "id": 37,
+            "space_name": "Zeta Gallery",
+            "topic": 79
+        },
+        {
+            "id": 38,
+            "space_name": "GRIMMUSEUM",
+            "topic": 38
+        },
+        {
+            "id": 39,
+            "space_name": "LOOP",
+            "topic": 8
+        },
+        {
+            "id": 40,
+            "space_name": "L'espace d'en bas",
+            "topic": 80
+        },
+        {
+            "id": 41,
+            "space_name": "LIEU-COMMUN",
+            "topic": 11
+        },
+        {
+            "id": 42,
+            "space_name": "STANDARDS",
+            "topic": 27
+        },
+        {
+            "id": 43,
+            "space_name": "attrape-couleurs",
+            "topic": 67
+        },
+        {
+            "id": 44,
+            "space_name": "Fructôse",
+            "topic": 68
+        },
+        {
+            "id": 45,
+            "space_name": "G39",
+            "topic": 5
+        },
+        {
+            "id": 46,
+            "space_name": "La Station",
+            "topic": 69
+        },
+        {
+            "id": 47,
+            "space_name": "POOL",
+            "topic": 8
+        },
+        {
+            "id": 48,
+            "space_name": "Brain Factory",
+            "topic": 70
+        },
+        {
+            "id": 49,
+            "space_name": "Espace 29",
+            "topic": 0
+        },
+        {
+            "id": 50,
+            "space_name": "L'H du Siège",
+            "topic": 36
+        },
+        {
+            "id": 51,
+            "space_name": "Bootlab",
+            "topic": 20
+        },
+        {
+            "id": 52,
+            "space_name": "after the butcher",
+            "topic": 6
+        },
+        {
+            "id": 53,
+            "space_name": "40mcube",
+            "topic": 70
+        },
+        {
+            "id": 54,
+            "space_name": "Aperto",
+            "topic": 71
+        },
+        {
+            "id": 55,
+            "space_name": "Alexandria Contemporary Arts Forum (ACAF)",
+            "topic": 37
+        },
+        {
+            "id": 56,
+            "space_name": "la compagnie",
+            "topic": 17
+        },
+        {
+            "id": 57,
+            "space_name": "À Suivre...",
+            "topic": 69
+        },
+        {
+            "id": 58,
+            "space_name": "Gasworks",
+            "topic": 88
+        },
+        {
+            "id": 59,
+            "space_name": "L'epicerie",
+            "topic": 59
+        },
+        {
+            "id": 60,
+            "space_name": "Où",
+            "topic": 60
+        },
+        {
+            "id": 61,
+            "space_name": "Lieu d'exposition en voie de déplacement (LEVD)",
+            "topic": 37
+        },
+        {
+            "id": 62,
+            "space_name": "LAPSUS",
+            "topic": 61
+        },
+        {
+            "id": 63,
+            "space_name": "ChezKit",
+            "topic": 17
+        },
+        {
+            "id": 64,
+            "space_name": "Western Front",
+            "topic": 62
+        },
+        {
+            "id": 65,
+            "space_name": "One gee in fog",
+            "topic": 42
+        },
+        {
+            "id": 66,
+            "space_name": "l'Œil de Poisson",
+            "topic": 63
+        },
+        {
+            "id": 67,
+            "space_name": "Triangle-Asterides",
+            "topic": 15
+        },
+        {
+            "id": 68,
+            "space_name": "Interface appartement /galerie",
+            "topic": 4
+        },
+        {
+            "id": 69,
+            "space_name": "Deborah Bowmann",
+            "topic": 27
+        },
+        {
+            "id": 70,
+            "space_name": "ZABRISKIE POINT",
+            "topic": 67
+        },
+        {
+            "id": 71,
+            "space_name": "Park",
+            "topic": 3
+        },
+        {
+            "id": 72,
+            "space_name": "Printed Matter, Inc.",
+            "topic": 1
+        },
+        {
+            "id": 73,
+            "space_name": "The Number Shop",
+            "topic": 56
+        },
+        {
+            "id": 74,
+            "space_name": "La GAD MARSEILLE",
+            "topic": 41
+        },
+        {
+            "id": 75,
+            "space_name": "INTERIOR and the collectors",
+            "topic": 57
+        },
+        {
+            "id": 76,
+            "space_name": "ECHANGEUR22",
+            "topic": 9
+        },
+        {
+            "id": 77,
+            "space_name": "La Mamelle/Art Com",
+            "topic": 50
+        },
+        {
+            "id": 78,
+            "space_name": "In extenso",
+            "topic": 19
+        },
+        {
+            "id": 79,
+            "space_name": "Ecart",
+            "topic": 44
+        },
+        {
+            "id": 80,
+            "space_name": "Zona",
+            "topic": 40
+        },
+        {
+            "id": 81,
+            "space_name": "HIT",
+            "topic": 2
+        },
+        {
+            "id": 82,
+            "space_name": "Espace Labo",
+            "topic": 58
+        },
+        {
+            "id": 83,
+            "space_name": "ruimte Caesuur",
+            "topic": 0
+        },
+        {
+            "id": 84,
+            "space_name": "AMAVADA",
+            "topic": 10
+        },
+        {
+            "id": 85,
+            "space_name": "Zebra3 / Buy-sellf",
+            "topic": 36
+        },
+        {
+            "id": 86,
+            "space_name": "MOSQUITO COAST FACTORY",
+            "topic": 5
+        },
+        {
+            "id": 87,
+            "space_name": "Arprim",
+            "topic": 64
+        },
+        {
+            "id": 88,
+            "space_name": "TRIPODE",
+            "topic": 1
+        },
+        {
+            "id": 89,
+            "space_name": "Le Wonder",
+            "topic": 65
+        },
+        {
+            "id": 90,
+            "space_name": "TARS",
+            "topic": 35
+        },
+        {
+            "id": 91,
+            "space_name": "De La Charge",
+            "topic": 4
+        },
+        {
+            "id": 92,
+            "space_name": "The Lab",
+            "topic": 34
+        },
+        {
+            "id": 93,
+            "space_name": "63rd - 77th STEPS",
+            "topic": 2
+        },
+        {
+            "id": 94,
+            "space_name": "Enterprise Projects",
+            "topic": 26
+        },
+        {
+            "id": 95,
+            "space_name": "TRIPLA",
+            "topic": 2
+        },
+        {
+            "id": 96,
+            "space_name": "L'Œil de boeuf",
+            "topic": 33
+        },
+        {
+            "id": 97,
+            "space_name": "TOPO",
+            "topic": 64
+        },
+        {
+            "id": 98,
+            "space_name": "Clovis XV",
+            "topic": 41
+        },
+        {
+            "id": 99,
+            "space_name": "Art City",
+            "topic": 32
+        },
+        {
+            "id": 100,
+            "space_name": "Ground",
+            "topic": 66
+        },
+        {
+            "id": 101,
+            "space_name": "*DUUU",
+            "topic": 16
+        },
+        {
+            "id": 102,
+            "space_name": "Dos Mares",
+            "topic": 72
+        },
+        {
+            "id": 103,
+            "space_name": "Spazio In Situ",
+            "topic": 73
+        },
+        {
+            "id": 104,
+            "space_name": "El Mentidero",
+            "topic": 74
+        },
+        {
+            "id": 105,
+            "space_name": "CAPSULE 38",
+            "topic": 74
+        },
+        {
+            "id": 106,
+            "space_name": "METALAB / RETICULAR",
+            "topic": 62
+        },
+        {
+            "id": 107,
+            "space_name": "221A",
+            "topic": 32
+        },
+        {
+            "id": 108,
+            "space_name": "3e impérial",
+            "topic": 90
+        },
+        {
+            "id": 109,
+            "space_name": "aceartinc.",
+            "topic": 75
+        },
+        {
+            "id": 110,
+            "space_name": "AdMare",
+            "topic": 86
+        },
+        {
+            "id": 111,
+            "space_name": "Atelier de l’Île",
+            "topic": 39
+        },
+        {
+            "id": 112,
+            "space_name": "Alberta Printmakers (A/P)",
+            "topic": 76
+        },
+        {
+            "id": 113,
+            "space_name": "Artexte",
+            "topic": 75
+        },
+        {
+            "id": 114,
+            "space_name": "AKA",
+            "topic": 77
+        },
+        {
+            "id": 115,
+            "space_name": "articule",
+            "topic": 9
+        },
+        {
+            "id": 116,
+            "space_name": "Art Metropole",
+            "topic": 10
+        },
+        {
+            "id": 117,
+            "space_name": "ATELIER D’ESTAMPE IMAGO",
+            "topic": 78
+        },
+        {
+            "id": 118,
+            "space_name": "ARTSPACE",
+            "topic": 77
+        },
+        {
+            "id": 119,
+            "space_name": "Artspeak",
+            "topic": 25
+        },
+        {
+            "id": 120,
+            "space_name": "GOSWELL ROAD",
+            "topic": 39
+        },
+        {
+            "id": 121,
+            "space_name": "Mutatio",
+            "topic": 5
+        },
+        {
+            "id": 122,
+            "space_name": "IF",
+            "topic": 56
+        },
+        {
+            "id": 123,
+            "space_name": "Grande Surface",
+            "topic": 15
+        },
+        {
+            "id": 124,
+            "space_name": "Etablissement d'en face",
+            "topic": 18
+        },
+        {
+            "id": 125,
+            "space_name": "Abilene",
+            "topic": 33
+        },
+        {
+            "id": 126,
+            "space_name": "3 137",
+            "topic": 81
+        },
+        {
+            "id": 127,
+            "space_name": "e/lAboRaTory",
+            "topic": 61
+        },
+        {
+            "id": 128,
+            "space_name": "MAISON PIEUVRE",
+            "topic": 72
+        },
+        {
+            "id": 129,
+            "space_name": "BIKINI",
+            "topic": 21
+        },
+        {
+            "id": 130,
+            "space_name": "ERRATUM",
+            "topic": 39
+        },
+        {
+            "id": 131,
+            "space_name": "Poteaux d'angle",
+            "topic": 34
+        },
+        {
+            "id": 132,
+            "space_name": "C5",
+            "topic": 0
+        },
+        {
+            "id": 133,
+            "space_name": "COHERENT",
+            "topic": 82
+        },
+        {
+            "id": 134,
+            "space_name": "KABINET",
+            "topic": 31
+        },
+        {
+            "id": 135,
+            "space_name": "Botschaft",
+            "topic": 4
+        },
+        {
+            "id": 136,
+            "space_name": "Le Château",
+            "topic": 60
+        },
+        {
+            "id": 137,
+            "space_name": "Ladenatelier Scheib",
+            "topic": 6
+        },
+        {
+            "id": 138,
+            "space_name": "Ateliers Vortex",
+            "topic": 9
+        },
+        {
+            "id": 139,
+            "space_name": "Kippenbergers Büro",
+            "topic": 6
+        },
+        {
+            "id": 140,
+            "space_name": "Büro Berlin",
+            "topic": 3
+        },
+        {
+            "id": 141,
+            "space_name": "Galerie de LOCH",
+            "topic": 6
+        },
+        {
+            "id": 142,
+            "space_name": "798 District Limited",
+            "topic": 83
+        },
+        {
+            "id": 143,
+            "space_name": "Giannozzo Kunstverein",
+            "topic": 20
+        },
+        {
+            "id": 144,
+            "space_name": "Galerie Loulou Lasard",
+            "topic": 84
+        },
+        {
+            "id": 145,
+            "space_name": "ACUD",
+            "topic": 1
+        },
+        {
+            "id": 146,
+            "space_name": "Allgirls",
+            "topic": 20
+        },
+        {
+            "id": 147,
+            "space_name": "Espacio O",
+            "topic": 85
+        },
+        {
+            "id": 148,
+            "space_name": "Flutgraben e.V",
+            "topic": 91
+        },
+        {
+            "id": 149,
+            "space_name": "table",
+            "topic": 12
+        },
+        {
+            "id": 150,
+            "space_name": "AU LIEU - éditions extensibles",
+            "topic": 10
+        },
+        {
+            "id": 151,
+            "space_name": "La salle de bain",
+            "topic": 42
+        },
+        {
+            "id": 152,
+            "space_name": "New Media Society",
+            "topic": 35
+        },
+        {
+            "id": 153,
+            "space_name": "A4 Sounds",
+            "topic": 92
+        },
+        {
+            "id": 154,
+            "space_name": "A-B Projects",
+            "topic": 18
+        },
+        {
+            "id": 155,
+            "space_name": "Easttopics",
+            "topic": 93
+        },
+        {
+            "id": 156,
+            "space_name": "LA><ART",
+            "topic": 29
+        },
+        {
+            "id": 157,
+            "space_name": "6b",
+            "topic": 14
+        },
+        {
+            "id": 158,
+            "space_name": "Apparatus Projects",
+            "topic": 12
+        },
+        {
+            "id": 159,
+            "space_name": "DAS ESSZIMMER",
+            "topic": 2
+        },
+        {
+            "id": 160,
+            "space_name": "Rectangle",
+            "topic": 2
+        },
+        {
+            "id": 161,
+            "space_name": "Sunset RS",
+            "topic": 17
+        },
+        {
+            "id": 162,
+            "space_name": "LE CUBE – INDEPENDENT ART ROOM",
+            "topic": 29
+        },
+        {
+            "id": 163,
+            "space_name": "MALA FAMA",
+            "topic": 92
+        },
+        {
+            "id": 164,
+            "space_name": "current space",
+            "topic": 82
+        },
+        {
+            "id": 165,
+            "space_name": "YARAT Contemporary Art Space",
+            "topic": 24
+        },
+        {
+            "id": 166,
+            "space_name": "Bell Street Project Space",
+            "topic": 91
+        },
+        {
+            "id": 167,
+            "space_name": "warenlift",
+            "topic": 15
+        },
+        {
+            "id": 168,
+            "space_name": "artellewa",
+            "topic": 24
+        },
+        {
+            "id": 169,
+            "space_name": "ELA projects",
+            "topic": 94
+        },
+        {
+            "id": 170,
+            "space_name": "Action Art Actuel (AAA)",
+            "topic": 32
+        },
+        {
+            "id": 171,
+            "space_name": "AARAU",
+            "topic": 14
+        },
+        {
+            "id": 172,
+            "space_name": "Grommet Studio",
+            "topic": 2
+        },
+        {
+            "id": 173,
+            "space_name": "QUINCONCE",
+            "topic": 71
+        },
+        {
+            "id": 174,
+            "space_name": "Centro Tool",
+            "topic": 40
+        },
+        {
+            "id": 175,
+            "space_name": "bologna.cc",
+            "topic": 21
+        },
+        {
+            "id": 176,
+            "space_name": "Paranorm",
+            "topic": 38
+        },
+        {
+            "id": 177,
+            "space_name": "marcablanca",
+            "topic": 21
+        },
+        {
+            "id": 178,
+            "space_name": "rum46",
+            "topic": 30
+        },
+        {
+            "id": 179,
+            "space_name": "Mercato del Sale",
+            "topic": 25
+        },
+        {
+            "id": 180,
+            "space_name": "A.Polina",
+            "topic": 51
+        },
+        {
+            "id": 181,
+            "space_name": "Lateral ArtSpace",
+            "topic": 93
+        },
+        {
+            "id": 182,
+            "space_name": "artă",
+            "topic": 94
+        },
+        {
+            "id": 183,
+            "space_name": "MŰTŐ",
+            "topic": 14
+        },
+        {
+            "id": 184,
+            "space_name": "Centro Suolo",
+            "topic": 25
+        },
+        {
+            "id": 185,
+            "space_name": "monopôle",
+            "topic": 23
+        },
+        {
+            "id": 186,
+            "space_name": "Glassbox",
+            "topic": 81
+        },
+        {
+            "id": 187,
+            "space_name": "Atelier Circulaire",
+            "topic": 78
+        },
+        {
+            "id": 188,
+            "space_name": "Les 2 portes",
+            "topic": 52
+        },
+        {
+            "id": 189,
+            "space_name": "Roue libre",
+            "topic": 68
+        },
+        {
+            "id": 190,
+            "space_name": "Red Cactus Art Studio",
+            "topic": 9
+        },
+        {
+            "id": 191,
+            "space_name": "TILDE",
+            "topic": 8
+        },
+        {
+            "id": 192,
+            "space_name": "ESPAI COLONA",
+            "topic": 12
+        },
+        {
+            "id": 193,
+            "space_name": "44 Gassendi",
+            "topic": 43
+        },
+        {
+            "id": 194,
+            "space_name": "IN OUT",
+            "topic": 16
+        },
+        {
+            "id": 195,
+            "space_name": "NICC",
+            "topic": 22
+        },
+        {
+            "id": 196,
+            "space_name": "Maison Jaune",
+            "topic": 58
+        },
+        {
+            "id": 197,
+            "space_name": "Fashion Moda",
+            "topic": 40
+        },
+        {
+            "id": 198,
+            "space_name": "Pauline Perplexe",
+            "topic": 80
+        },
+        {
+            "id": 199,
+            "space_name": "ARTISTS SPACE",
+            "topic": 12
+        },
+        {
+            "id": 200,
+            "space_name": "Patara Gallery",
+            "topic": 46
+        },
+        {
+            "id": 201,
+            "space_name": "Atelier White Cubi",
+            "topic": 51
+        },
+        {
+            "id": 202,
+            "space_name": "The Clocktower Gallery",
+            "topic": 7
+        },
+        {
+            "id": 203,
+            "space_name": "ART HOUSE",
+            "topic": 29
+        },
+        {
+            "id": 204,
+            "space_name": "Franklin Furnace",
+            "topic": 3
+        },
+        {
+            "id": 205,
+            "space_name": "The Mothership",
+            "topic": 63
+        },
+        {
+            "id": 206,
+            "space_name": "The Why Not Gallery",
+            "topic": 46
+        },
+        {
+            "id": 207,
+            "space_name": "19",
+            "topic": 30
+        },
+        {
+            "id": 208,
+            "space_name": "Galerie huit",
+            "topic": 7
+        },
+        {
+            "id": 209,
+            "space_name": "La Cédille qui sourit.",
+            "topic": 15
+        },
+        {
+            "id": 210,
+            "space_name": "Faux Mouvement",
+            "topic": 3
+        },
+        {
+            "id": 211,
+            "space_name": "apes&castles",
+            "topic": 41
+        },
+        {
+            "id": 212,
+            "space_name": "Studio Voltaire",
+            "topic": 42
+        },
+        {
+            "id": 213,
+            "space_name": "MAISON DE L'IMAGE",
+            "topic": 45
+        },
+        {
+            "id": 214,
+            "space_name": "B'Chira Art Center",
+            "topic": 9
+        },
+        {
+            "id": 215,
+            "space_name": "Fer de Lance",
+            "topic": 33
+        },
+        {
+            "id": 216,
+            "space_name": "The Artists Village (TAV)",
+            "topic": 8
+        },
+        {
+            "id": 217,
+            "space_name": "Transmission",
+            "topic": 11
+        },
+        {
+            "id": 218,
+            "space_name": "Collective",
+            "topic": 11
+        },
+        {
+            "id": 219,
+            "space_name": "Club solo",
+            "topic": 11
+        },
+        {
+            "id": 220,
+            "space_name": "Marwan",
+            "topic": 73
+        },
+        {
+            "id": 221,
+            "space_name": "Live Club Ssam (SSamzie Space)",
+            "topic": 35
+        },
+        {
+            "id": 222,
+            "space_name": "Openspace Bae",
+            "topic": 53
+        },
+        {
+            "id": 223,
+            "space_name": "Corridor Project Space",
+            "topic": 43
+        },
+        {
+            "id": 224,
+            "space_name": "Flip",
+            "topic": 22
+        },
+        {
+            "id": 225,
+            "space_name": "TEC - Théorie des Espaces Courbes",
+            "topic": 54
+        },
+        {
+            "id": 226,
+            "space_name": "Studio Delta",
+            "topic": 83
+        },
+        {
+            "id": 227,
+            "space_name": "Cabinet 44",
+            "topic": 31
+        },
+        {
+            "id": 228,
+            "space_name": "MARS",
+            "topic": 65
+        },
+        {
+            "id": 229,
+            "space_name": "CONA",
+            "topic": 13
+        },
+        {
+            "id": 230,
+            "space_name": "PINCE",
+            "topic": 66
+        },
+        {
+            "id": 231,
+            "space_name": "VARIAe",
+            "topic": 16
+        },
+        {
+            "id": 232,
+            "space_name": "MEAN",
+            "topic": 52
+        },
+        {
+            "id": 233,
+            "space_name": "CAMERA",
+            "topic": 55
+        },
+        {
+            "id": 234,
+            "space_name": "La Confection Idéale",
+            "topic": 54
+        },
+        {
+            "id": 235,
+            "space_name": "Les Limbes",
+            "topic": 23
+        },
+        {
+            "id": 236,
+            "space_name": "La Couleuvre",
+            "topic": 13
+        },
+        {
+            "id": 237,
+            "space_name": "Atelier Silex",
+            "topic": 18
+        },
+        {
+            "id": 238,
+            "space_name": "Le Hall",
+            "topic": 14
+        },
+        {
+            "id": 239,
+            "space_name": "mezcla",
+            "topic": 87
+        },
+        {
+            "id": 240,
+            "space_name": "Palette Terre",
+            "topic": 84
+        },
+        {
+            "id": 241,
+            "space_name": "France Fiction",
+            "topic": 19
+        },
+        {
+            "id": 242,
+            "space_name": "CP5 / Collectif Curry Vavart",
+            "topic": 5
+        },
+        {
+            "id": 243,
+            "space_name": "La Maudite",
+            "topic": 38
+        },
+        {
+            "id": 244,
+            "space_name": "Jeune création",
+            "topic": 17
+        },
+        {
+            "id": 245,
+            "space_name": "Le Commissariat",
+            "topic": 19
+        },
+        {
+            "id": 246,
+            "space_name": "castillo/corrales",
+            "topic": 79
+        },
+        {
+            "id": 247,
+            "space_name": "Artcite Inc.",
+            "topic": 76
+        },
+        {
+            "id": 248,
+            "space_name": "CONICAL",
+            "topic": 53
+        },
+        {
+            "id": 249,
+            "space_name": "Treize",
+            "topic": 59
+        },
+        {
+            "id": 250,
+            "space_name": "Sorbonne Artgallery",
+            "topic": 19
+        },
+        {
+            "id": 251,
+            "space_name": "ARTsPLACE",
+            "topic": 1
+        },
+        {
+            "id": 252,
+            "space_name": "0gms",
+            "topic": 24
+        },
+        {
+            "id": 253,
+            "space_name": "Ateliê Coletivo 2E1",
+            "topic": 0
+        },
+        {
+            "id": 254,
+            "space_name": "22 rue muller",
+            "topic": 4
+        },
+        {
+            "id": 255,
+            "space_name": "c-o-m-p-o-s-i-t-e",
+            "topic": 37
+        },
+        {
+            "id": 256,
+            "space_name": "JULIO",
+            "topic": 85
+        },
+        {
+            "id": 257,
+            "space_name": "The ister",
+            "topic": 44
+        },
+        {
+            "id": 258,
+            "space_name": "General Public",
+            "topic": 45
+        },
+        {
+            "id": 259,
+            "space_name": "PILOTENKUECHE",
+            "topic": 31
+        },
+        {
+            "id": 260,
+            "space_name": "Quobo",
+            "topic": 95
+        },
+        {
+            "id": 261,
+            "space_name": "SOX",
+            "topic": 57
+        },
+        {
+            "id": 262,
+            "space_name": "Indecis",
+            "topic": 55
+        },
+        {
+            "id": 263,
+            "space_name": "Gängeviertel",
+            "topic": 95
+        },
+        {
+            "id": 264,
+            "space_name": "Die Tödliche Doris",
+            "topic": 20
+        },
+        {
+            "id": 265,
+            "space_name": "Künstlerhaus am Acker",
+            "topic": 7
+        },
+        {
+            "id": 266,
+            "space_name": "ALERT studio",
+            "topic": 16
+        },
+        {
+            "id": 267,
+            "space_name": "ATELIER 030202",
+            "topic": 8
+        },
+        {
+            "id": 268,
+            "space_name": "Balamuc",
+            "topic": 4
+        },
+        {
+            "id": 269,
+            "space_name": "MAGMA",
+            "topic": 46
+        },
+        {
+            "id": 270,
+            "space_name": "kinema ikon",
+            "topic": 36
+        },
+        {
+            "id": 271,
+            "space_name": "MNȚRplusC",
+            "topic": 43
+        },
+        {
+            "id": 272,
+            "space_name": "Nano Gallery",
+            "topic": 34
+        },
+        {
+            "id": 273,
+            "space_name": "L'épicerie",
+            "topic": 45
+        },
+        {
+            "id": 274,
+            "space_name": "PeepSpace",
+            "topic": 13
+        },
+        {
+            "id": 275,
+            "space_name": "Kurt-forever",
+            "topic": 0
+        }
+    ],
+    "edges": [
+        {
+            "source": 4,
+            "target": 117,
+            "weight": 0.7289322018623352
+        },
+        {
+            "source": 10,
+            "target": 181,
+            "weight": 0.669255793094635
+        },
+        {
+            "source": 12,
+            "target": 218,
+            "weight": 0.6700149178504944
+        },
+        {
+            "source": 18,
+            "target": 225,
+            "weight": 0.713237464427948
+        },
+        {
+            "source": 20,
+            "target": 55,
+            "weight": 0.6776275634765625
+        },
+        {
+            "source": 20,
+            "target": 248,
+            "weight": 0.6848770380020142
+        },
+        {
+            "source": 22,
+            "target": 28,
+            "weight": 0.7181926369667053
+        },
+        {
+            "source": 22,
+            "target": 83,
+            "weight": 0.6781467199325562
+        },
+        {
+            "source": 24,
+            "target": 55,
+            "weight": 0.6722774505615234
+        },
+        {
+            "source": 24,
+            "target": 83,
+            "weight": 0.6553255915641785
+        },
+        {
+            "source": 24,
+            "target": 199,
+            "weight": 0.6571564078330994
+        },
+        {
+            "source": 24,
+            "target": 218,
+            "weight": 0.6842495203018188
+        },
+        {
+            "source": 24,
+            "target": 223,
+            "weight": 0.6826450824737549
+        },
+        {
+            "source": 25,
+            "target": 55,
+            "weight": 0.6881083250045776
+        },
+        {
+            "source": 25,
+            "target": 203,
+            "weight": 0.6577380895614624
+        },
+        {
+            "source": 25,
+            "target": 218,
+            "weight": 0.7162189483642578
+        },
+        {
+            "source": 26,
+            "target": 55,
+            "weight": 0.6931791305541992
+        },
+        {
+            "source": 26,
+            "target": 68,
+            "weight": 0.6580686569213867
+        },
+        {
+            "source": 26,
+            "target": 118,
+            "weight": 0.6860564947128296
+        },
+        {
+            "source": 26,
+            "target": 218,
+            "weight": 0.7046889662742615
+        },
+        {
+            "source": 28,
+            "target": 54,
+            "weight": 0.6618209481239319
+        },
+        {
+            "source": 28,
+            "target": 164,
+            "weight": 0.7109198570251465
+        },
+        {
+            "source": 29,
+            "target": 43,
+            "weight": 0.6552708745002747
+        },
+        {
+            "source": 39,
+            "target": 47,
+            "weight": 0.6586533188819885
+        },
+        {
+            "source": 39,
+            "target": 54,
+            "weight": 0.7364957928657532
+        },
+        {
+            "source": 39,
+            "target": 83,
+            "weight": 0.6980770230293274
+        },
+        {
+            "source": 39,
+            "target": 199,
+            "weight": 0.7209979295730591
+        },
+        {
+            "source": 39,
+            "target": 216,
+            "weight": 0.6623120903968811
+        },
+        {
+            "source": 39,
+            "target": 218,
+            "weight": 0.6550521850585938
+        },
+        {
+            "source": 40,
+            "target": 164,
+            "weight": 0.6670364737510681
+        },
+        {
+            "source": 41,
+            "target": 122,
+            "weight": 0.6619538068771362
+        },
+        {
+            "source": 41,
+            "target": 213,
+            "weight": 0.6887938976287842
+        },
+        {
+            "source": 41,
+            "target": 218,
+            "weight": 0.683050811290741
+        },
+        {
+            "source": 42,
+            "target": 92,
+            "weight": 0.6622625589370728
+        },
+        {
+            "source": 42,
+            "target": 118,
+            "weight": 0.6567083597183228
+        },
+        {
+            "source": 49,
+            "target": 83,
+            "weight": 0.6517232656478882
+        },
+        {
+            "source": 49,
+            "target": 164,
+            "weight": 0.6682655811309814
+        },
+        {
+            "source": 50,
+            "target": 54,
+            "weight": 0.6614922881126404
+        },
+        {
+            "source": 50,
+            "target": 214,
+            "weight": 0.6561829447746277
+        },
+        {
+            "source": 50,
+            "target": 218,
+            "weight": 0.6557348370552063
+        },
+        {
+            "source": 50,
+            "target": 221,
+            "weight": 0.6753969192504883
+        },
+        {
+            "source": 52,
+            "target": 141,
+            "weight": 0.6558272838592529
+        },
+        {
+            "source": 54,
+            "target": 83,
+            "weight": 0.6690222024917603
+        },
+        {
+            "source": 54,
+            "target": 118,
+            "weight": 0.6617113351821899
+        },
+        {
+            "source": 54,
+            "target": 164,
+            "weight": 0.6914210319519043
+        },
+        {
+            "source": 54,
+            "target": 181,
+            "weight": 0.6627726554870605
+        },
+        {
+            "source": 54,
+            "target": 214,
+            "weight": 0.692805290222168
+        },
+        {
+            "source": 54,
+            "target": 218,
+            "weight": 0.7188220620155334
+        },
+        {
+            "source": 54,
+            "target": 230,
+            "weight": 0.6989791393280029
+        },
+        {
+            "source": 55,
+            "target": 57,
+            "weight": 0.6521757245063782
+        },
+        {
+            "source": 55,
+            "target": 83,
+            "weight": 0.6808504462242126
+        },
+        {
+            "source": 55,
+            "target": 118,
+            "weight": 0.6817312836647034
+        },
+        {
+            "source": 55,
+            "target": 164,
+            "weight": 0.6865472793579102
+        },
+        {
+            "source": 55,
+            "target": 199,
+            "weight": 0.6856516599655151
+        },
+        {
+            "source": 55,
+            "target": 218,
+            "weight": 0.7510029673576355
+        },
+        {
+            "source": 55,
+            "target": 223,
+            "weight": 0.6754083037376404
+        },
+        {
+            "source": 55,
+            "target": 248,
+            "weight": 0.6829500794410706
+        },
+        {
+            "source": 56,
+            "target": 74,
+            "weight": 0.6682112216949463
+        },
+        {
+            "source": 57,
+            "target": 118,
+            "weight": 0.6625913381576538
+        },
+        {
+            "source": 57,
+            "target": 214,
+            "weight": 0.6699140667915344
+        },
+        {
+            "source": 68,
+            "target": 83,
+            "weight": 0.6526232361793518
+        },
+        {
+            "source": 68,
+            "target": 118,
+            "weight": 0.6832886338233948
+        },
+        {
+            "source": 68,
+            "target": 133,
+            "weight": 0.680472731590271
+        },
+        {
+            "source": 68,
+            "target": 218,
+            "weight": 0.6926406621932983
+        },
+        {
+            "source": 68,
+            "target": 274,
+            "weight": 0.6591528058052063
+        },
+        {
+            "source": 73,
+            "target": 122,
+            "weight": 0.7225885391235352
+        },
+        {
+            "source": 73,
+            "target": 259,
+            "weight": 0.7252116203308105
+        },
+        {
+            "source": 76,
+            "target": 259,
+            "weight": 0.6591967940330505
+        },
+        {
+            "source": 81,
+            "target": 95,
+            "weight": 0.6577833890914917
+        },
+        {
+            "source": 81,
+            "target": 164,
+            "weight": 0.6501307487487793
+        },
+        {
+            "source": 83,
+            "target": 118,
+            "weight": 0.6541860103607178
+        },
+        {
+            "source": 83,
+            "target": 130,
+            "weight": 0.6945731043815613
+        },
+        {
+            "source": 83,
+            "target": 131,
+            "weight": 0.733043372631073
+        },
+        {
+            "source": 83,
+            "target": 144,
+            "weight": 0.6733776926994324
+        },
+        {
+            "source": 83,
+            "target": 156,
+            "weight": 0.6940133571624756
+        },
+        {
+            "source": 83,
+            "target": 164,
+            "weight": 0.7461098432540894
+        },
+        {
+            "source": 83,
+            "target": 181,
+            "weight": 0.7052741050720215
+        },
+        {
+            "source": 83,
+            "target": 199,
+            "weight": 0.76846843957901
+        },
+        {
+            "source": 83,
+            "target": 223,
+            "weight": 0.7048532366752625
+        },
+        {
+            "source": 83,
+            "target": 259,
+            "weight": 0.669911801815033
+        },
+        {
+            "source": 83,
+            "target": 269,
+            "weight": 0.6733661890029907
+        },
+        {
+            "source": 83,
+            "target": 274,
+            "weight": 0.6686159372329712
+        },
+        {
+            "source": 92,
+            "target": 274,
+            "weight": 0.7263308763504028
+        },
+        {
+            "source": 94,
+            "target": 158,
+            "weight": 0.6923633813858032
+        },
+        {
+            "source": 97,
+            "target": 230,
+            "weight": 0.6688578724861145
+        },
+        {
+            "source": 98,
+            "target": 121,
+            "weight": 0.6649035215377808
+        },
+        {
+            "source": 99,
+            "target": 116,
+            "weight": 0.6525558829307556
+        },
+        {
+            "source": 99,
+            "target": 199,
+            "weight": 0.7223654985427856
+        },
+        {
+            "source": 99,
+            "target": 203,
+            "weight": 0.6580252647399902
+        },
+        {
+            "source": 99,
+            "target": 247,
+            "weight": 0.6616864204406738
+        },
+        {
+            "source": 109,
+            "target": 247,
+            "weight": 0.679323136806488
+        },
+        {
+            "source": 109,
+            "target": 262,
+            "weight": 0.654135525226593
+        },
+        {
+            "source": 114,
+            "target": 118,
+            "weight": 0.7318567037582397
+        },
+        {
+            "source": 114,
+            "target": 182,
+            "weight": 0.6520095467567444
+        },
+        {
+            "source": 118,
+            "target": 158,
+            "weight": 0.6800861954689026
+        },
+        {
+            "source": 118,
+            "target": 168,
+            "weight": 0.6568271517753601
+        },
+        {
+            "source": 118,
+            "target": 182,
+            "weight": 0.6837077736854553
+        },
+        {
+            "source": 118,
+            "target": 218,
+            "weight": 0.6811936497688293
+        },
+        {
+            "source": 118,
+            "target": 223,
+            "weight": 0.6660597920417786
+        },
+        {
+            "source": 130,
+            "target": 140,
+            "weight": 0.6692150831222534
+        },
+        {
+            "source": 130,
+            "target": 144,
+            "weight": 0.6697968244552612
+        },
+        {
+            "source": 131,
+            "target": 156,
+            "weight": 0.7291638851165771
+        },
+        {
+            "source": 131,
+            "target": 164,
+            "weight": 0.6523937582969666
+        },
+        {
+            "source": 131,
+            "target": 199,
+            "weight": 0.7046170234680176
+        },
+        {
+            "source": 131,
+            "target": 223,
+            "weight": 0.6660599708557129
+        },
+        {
+            "source": 133,
+            "target": 243,
+            "weight": 0.6567002534866333
+        },
+        {
+            "source": 140,
+            "target": 144,
+            "weight": 0.6986703872680664
+        },
+        {
+            "source": 140,
+            "target": 260,
+            "weight": 0.7212305665016174
+        },
+        {
+            "source": 141,
+            "target": 260,
+            "weight": 0.6951615214347839
+        },
+        {
+            "source": 154,
+            "target": 158,
+            "weight": 0.651524007320404
+        },
+        {
+            "source": 156,
+            "target": 164,
+            "weight": 0.6694580316543579
+        },
+        {
+            "source": 156,
+            "target": 199,
+            "weight": 0.6955719590187073
+        },
+        {
+            "source": 156,
+            "target": 223,
+            "weight": 0.6720619201660156
+        },
+        {
+            "source": 158,
+            "target": 168,
+            "weight": 0.6534817218780518
+        },
+        {
+            "source": 158,
+            "target": 223,
+            "weight": 0.6989303827285767
+        },
+        {
+            "source": 158,
+            "target": 266,
+            "weight": 0.6831490993499756
+        },
+        {
+            "source": 160,
+            "target": 193,
+            "weight": 0.6519482731819153
+        },
+        {
+            "source": 162,
+            "target": 223,
+            "weight": 0.6641015410423279
+        },
+        {
+            "source": 162,
+            "target": 230,
+            "weight": 0.665808916091919
+        },
+        {
+            "source": 164,
+            "target": 181,
+            "weight": 0.6612087488174438
+        },
+        {
+            "source": 164,
+            "target": 199,
+            "weight": 0.7340042591094971
+        },
+        {
+            "source": 164,
+            "target": 218,
+            "weight": 0.7097776532173157
+        },
+        {
+            "source": 164,
+            "target": 223,
+            "weight": 0.683241605758667
+        },
+        {
+            "source": 164,
+            "target": 230,
+            "weight": 0.6582385897636414
+        },
+        {
+            "source": 168,
+            "target": 214,
+            "weight": 0.6645618677139282
+        },
+        {
+            "source": 174,
+            "target": 179,
+            "weight": 0.699597954750061
+        },
+        {
+            "source": 174,
+            "target": 184,
+            "weight": 0.8627287149429321
+        },
+        {
+            "source": 181,
+            "target": 223,
+            "weight": 0.6830000877380371
+        },
+        {
+            "source": 181,
+            "target": 262,
+            "weight": 0.6737772226333618
+        },
+        {
+            "source": 181,
+            "target": 269,
+            "weight": 0.6557340621948242
+        },
+        {
+            "source": 192,
+            "target": 256,
+            "weight": 0.6508234143257141
+        },
+        {
+            "source": 199,
+            "target": 223,
+            "weight": 0.6750220060348511
+        },
+        {
+            "source": 199,
+            "target": 274,
+            "weight": 0.7045113444328308
+        },
+        {
+            "source": 203,
+            "target": 213,
+            "weight": 0.71225506067276
+        },
+        {
+            "source": 214,
+            "target": 218,
+            "weight": 0.6565061807632446
+        },
+        {
+            "source": 218,
+            "target": 223,
+            "weight": 0.7185907363891602
+        },
+        {
+            "source": 218,
+            "target": 230,
+            "weight": 0.662524938583374
+        },
+        {
+            "source": 223,
+            "target": 230,
+            "weight": 0.7017384171485901
+        },
+        {
+            "source": 230,
+            "target": 248,
+            "weight": 0.688467264175415
+        }
+    ]
+}
