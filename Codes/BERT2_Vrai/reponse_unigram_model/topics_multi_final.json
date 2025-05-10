@@ -1,0 +1,79 @@
+{
+  "0": {
+    "label": "Jeunes professionnels internationaux en création",
+    "words": [
+      "young",
+      "based",
+      "working",
+      "creation",
+      "international"
+    ],
+    "count": 81
+  },
+  "1": {
+    "label": "\"Promouvoir les talents émergents dans le monde de la mode et des arts\"",
+    "words": [
+      "arts",
+      "program",
+      "organization",
+      "fashion",
+      "emerging"
+    ],
+    "count": 126
+  },
+  "2": {
+    "label": "Jeunes créateurs à Paris: une collection d'associations",
+    "words": [
+      "association",
+      "young",
+      "creation",
+      "collection",
+      "paris"
+    ],
+    "count": 118
+  },
+  "3": {
+    "label": "\"La création et la diffusion des publications actuelles\"",
+    "words": [
+      "publications",
+      "creation",
+      "dissemination",
+      "current",
+      "book"
+    ],
+    "count": 103
+  },
+  "4": {
+    "label": "\"Exploration visuelle dans la production cinématographique\"",
+    "words": [
+      "film",
+      "creative",
+      "research",
+      "production",
+      "visual"
+    ],
+    "count": 134
+  },
+  "5": {
+    "label": "\"Global Media Series Presented Locally\"",
+    "words": [
+      "international",
+      "media",
+      "series",
+      "presented",
+      "local"
+    ],
+    "count": 116
+  },
+  "6": {
+    "label": "\"Berlin: Century of Building in the East\"",
+    "words": [
+      "berlin",
+      "century",
+      "building",
+      "houses",
+      "east"
+    ],
+    "count": 61
+  }
+}

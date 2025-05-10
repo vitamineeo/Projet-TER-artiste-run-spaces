@@ -1,0 +1,103 @@
+[33m2534331[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m ajout methode unigram sur le dernier modele (tokenisation)
+[33me199677[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add files via upload
+[33md560d1e[m Add files via upload
+[33m4635232[m Add files via upload
+[33m2adda8f[m Implémentation mistral dans bert
+[33m13bcadd[m base finale
+[33m4459674[m Mise à jour de la base new spaces
+[33m1c641f3[m Merge branch 'main' of github.com:vitamineeo/Projet-TER-artiste-run-spaces
+[33m289242c[m Mise à jour de la base et du code extraction des questions réponses
+[33md9d97d1[m haha
+[33m926a3fc[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33ma30adfb[m ajout du fichier traduit
+[33m31e7bc6[m Merge branch 'main' of github.com:vitamineeo/Projet-TER-artiste-run-spaces
+[33m9aa99ad[m Exemple d’utilisation d’un modèle différent de BERT
+[33md972157[m nouveau fichier
+[33m2eb95fd[m t add .Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33m57266dc[m nom de fichier pour .gitignore
+[33m09d0ae6[m suppression node_modules
+[33m873db76[m environnement pour BertTopic
+[33m27e9198[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33mabb1052[m Mise à jour du Front
+[33mbc4a5db[m Le front avec React
+[33mb6fcf96[m ajout d'un essai de tokenization pour les topics
+[33mdcbab89[m Modèle BERTopics et Première proposition du Front-end
+[33mee04e35[m Add files via upload
+[33mb4e1696[m Analyse notebook avec BERTOPIC
+[33ma5def73[m Add files via upload
+[33m61b738c[m Add files via upload
+[33ma6320c4[m Add files via upload
+[33m0bd8c3f[m maj semi supervised
+[33m49d2395[m L'utilisation du modéle BERTopic
+[33m59a18c0[m Utilisation du modéle GPT et lapplication du clustering
+[33m80a73ca[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33m614db0c[m lapplication de BERTopic sur nos données textuelles
+[33md451a33[m Add files via upload
+[33m4715fae[m ajout d'une topixification
+[33m385a5a1[m Modèle LDA
+[33m3a55e96[m Delete .github/workflows directory
+[33m8dff3aa[m Mise à jour
+[33mb3359e3[m Ajout d'un test basique avec Pytest
+[33m21a46c7[m Ajout du fichier requirements.txt
+[33m20aacd7[m Ajout du workflow de test
+[33m232b8f9[m Formatges de la base et LLM avec LDA et BERT
+[33md0ded3d[m Ajout des fichiers Rendu2 et Rendu3 ignorés précédemment
+[33m76ad011[m Merge branch 'main' of github.com:vitamineeo/Projet-TER-artiste-run-spaces
+[33m4b0406e[m Mise en fichier python des codes des nootebook
+[33m8a2b89d[m Ajout du fichier 'Bilan 5.pdf' dans le dossier Bilans
+[33m5483655[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33mc5388fb[m lajout de fichier dextraction de donnees dans un PDF
+[33ma9a459a[m rectification de l'algo
+[33m540d1d3[m maj avec le fichier traduit
+[33m7cc4a93[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33m8bb3f33[m visualisation et stat
+[33m58c0020[m Code berTtopic pour la traduction
+[33m7709b7c[m finalisation du code de traduction
+[33m0915bd0[m ajout du code de traduction
+[33m956bf3e[m Update README.md
+[33m81dc9b6[m Update README.md
+[33mc33997c[m Update README.md
+[33m91d09bb[m Ajout du Rendus Octobre
+[33mf8f59dc[m Merge branch 'main' of https://githu.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33mac469c8[m Ajout fichiers PDF dans le dossier Bilans
+[33m68577ba[m Renommé du dossier sqlite
+[33m707691a[m SQLite NoteBook provisoire création et insertion dans données dans nos différentes table
+[33mf9ac10d[m Fichier excel mise à jour à utiliser pour la suite du projet
+[33m9953ec5[m Mise à jour du code d'extraction en prénant en code l'incrémentation des id
+[33md48ced3[m Code python pour extraire les question du doc, et ajouter à la base excel
+[33mdde9014[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33med2fb3f[m extraction des donnees du docx partielle
+[33mc355877[m Nouvelle mise à jour du code pour extrait les données d'un fichier doc et pour complémentaire notre jeu de donnée
+[33ma39cdc1[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33ma3b7e6a[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33md918b36[m Code pour extraire les données du docx à la base csv
+[33m0bc0ff4[m Conclure le merge et mettre à jour avec les dernières modifications du serveur
+[33m1c9e26a[m Retirer .DS_Store du suivi de Git
+[33m1784ee1[m deplacement dossier
+[33m28c60ed[m supression dossiers en double
+[33mdd68c71[m Supression fichiers inutiles
+[33m2cc3951[m merge de Noah
+[33m012a3b8[m gitignore with python content
+[33ma154d6e[m removing DS_Store
+[33m3e7071d[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33m7c2e640[m aaaa
+[33m28bcd0b[m ajout des bilans
+[33m0a40d05[m Ajout du fichier .gitignore pour ignorer .DS_Store
+[33me6c1ea1[m[33m ([m[1;31morigin/Noah[m[33m, [m[1;32mNoah[m[33m)[m remaniement de la structure des dossiers
+[33m301ecb4[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33ma1abf39[m Nouveau dossier Bilans
+[33m27b7217[m Ajout des bilans
+[33mbd6280b[m Suppression fichier DS
+[33mfd05bf6[m suppression fichier DS_Store
+[33m1e349e7[m Merge branch 'main' of https://github.com/vitamineeo/Projet-TER-artiste-run-spaces
+[33mfa0dadb[m ajout dossier Bilans
+[33mcf86209[m Code pour extraire du texte dans un fichier pdf
+[33me195aea[m maj du nettoyage csv(balises HTML)
+[33m3231fe5[m Document de présentation du Projet
+[33maacf381[m Document de présentation du Projet et Recherche Bibliographie
+[33m8ca8749[m[33m ([m[1;31morigin/Bibliographie[m[33m)[m ajout de biblio
+[33m1b527f6[m[33m ([m[1;31morigin/Soutenances[m[33m, [m[1;31morigin/Rendus[m[33m, [m[1;31morigin/Rapport[m[33m, [m[1;31morigin/Donnees[m[33m, [m[1;31morigin/Codes[m[33m)[m Création des dossiers de structure
+[33m78a97fe[m envoie dossier Donnees
+[33m11dd942[m Delete dsq
+[33m5000edb[m Create dsq
+[33m65a7a7c[m Initial commit
