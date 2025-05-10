@@ -1,274 +1,274 @@
 [
     {
-        "Topic ID":1,
-        "Pourcentage":2.7272727273
-    },
-    {
-        "Topic ID":4,
-        "Pourcentage":2.7272727273
-    },
-    {
-        "Topic ID":3,
-        "Pourcentage":2.7272727273
-    },
-    {
         "Topic ID":0,
-        "Pourcentage":2.7272727273
+        "Pourcentage":37.3188405797
+    },
+    {
+        "Topic ID":1,
+        "Pourcentage":2.1739130435
     },
     {
         "Topic ID":2,
-        "Pourcentage":2.7272727273
+        "Pourcentage":1.8115942029
     },
     {
-        "Topic ID":8,
-        "Pourcentage":2.2727272727
+        "Topic ID":3,
+        "Pourcentage":1.8115942029
     },
     {
         "Topic ID":9,
-        "Pourcentage":2.2727272727
+        "Pourcentage":1.4492753623
+    },
+    {
+        "Topic ID":8,
+        "Pourcentage":1.4492753623
     },
     {
         "Topic ID":7,
-        "Pourcentage":2.2727272727
+        "Pourcentage":1.4492753623
     },
     {
         "Topic ID":6,
-        "Pourcentage":2.2727272727
+        "Pourcentage":1.4492753623
     },
     {
         "Topic ID":5,
-        "Pourcentage":2.2727272727
+        "Pourcentage":1.4492753623
     },
     {
-        "Topic ID":16,
-        "Pourcentage":1.8181818182
-    },
-    {
-        "Topic ID":13,
-        "Pourcentage":1.8181818182
-    },
-    {
-        "Topic ID":19,
-        "Pourcentage":1.8181818182
+        "Topic ID":4,
+        "Pourcentage":1.4492753623
     },
     {
         "Topic ID":10,
-        "Pourcentage":1.8181818182
+        "Pourcentage":1.4492753623
     },
     {
-        "Topic ID":15,
-        "Pourcentage":1.8181818182
-    },
-    {
-        "Topic ID":11,
-        "Pourcentage":1.8181818182
+        "Topic ID":13,
+        "Pourcentage":1.0869565217
     },
     {
         "Topic ID":20,
-        "Pourcentage":1.8181818182
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":12,
-        "Pourcentage":1.8181818182
+        "Topic ID":11,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":17,
-        "Pourcentage":1.8181818182
-    },
-    {
-        "Topic ID":18,
-        "Pourcentage":1.8181818182
+        "Topic ID":16,
+        "Pourcentage":1.0869565217
     },
     {
         "Topic ID":14,
-        "Pourcentage":1.8181818182
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":44,
-        "Pourcentage":1.3636363636
+        "Topic ID":15,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":29,
-        "Pourcentage":1.3636363636
+        "Topic ID":12,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":47,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":24,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":37,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":43,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":46,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":36,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":41,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":35,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":40,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":38,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":42,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":26,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":30,
-        "Pourcentage":1.3636363636
+        "Topic ID":18,
+        "Pourcentage":1.0869565217
     },
     {
         "Topic ID":21,
-        "Pourcentage":1.3636363636
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":25,
-        "Pourcentage":1.3636363636
+        "Topic ID":19,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":31,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":27,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":28,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":23,
-        "Pourcentage":1.3636363636
+        "Topic ID":17,
+        "Pourcentage":1.0869565217
     },
     {
         "Topic ID":22,
-        "Pourcentage":1.3636363636
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":45,
-        "Pourcentage":1.3636363636
+        "Topic ID":23,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":39,
-        "Pourcentage":1.3636363636
+        "Topic ID":24,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":32,
-        "Pourcentage":1.3636363636
+        "Topic ID":25,
+        "Pourcentage":1.0869565217
     },
     {
-        "Topic ID":33,
-        "Pourcentage":1.3636363636
+        "Topic ID":26,
+        "Pourcentage":0.7246376812
     },
     {
-        "Topic ID":34,
-        "Pourcentage":1.3636363636
-    },
-    {
-        "Topic ID":49,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":48,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":50,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":51,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":59,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":67,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":52,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":65,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":56,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":61,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":62,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":63,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":60,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":64,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":58,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":57,
-        "Pourcentage":0.9090909091
-    },
-    {
-        "Topic ID":66,
-        "Pourcentage":0.9090909091
+        "Topic ID":27,
+        "Pourcentage":0.7246376812
     },
     {
         "Topic ID":53,
-        "Pourcentage":0.9090909091
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":29,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":30,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":31,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":32,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":64,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":33,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":34,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":35,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":36,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":37,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":43,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":38,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":39,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":40,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":41,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":42,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":44,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":45,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":46,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":47,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":48,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":49,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":50,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":51,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":52,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":58,
+        "Pourcentage":0.7246376812
     },
     {
         "Topic ID":54,
-        "Pourcentage":0.9090909091
+        "Pourcentage":0.7246376812
     },
     {
         "Topic ID":55,
-        "Pourcentage":0.9090909091
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":56,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":57,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":59,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":60,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":61,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":62,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":63,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":28,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":65,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":66,
+        "Pourcentage":0.7246376812
+    },
+    {
+        "Topic ID":67,
+        "Pourcentage":0.7246376812
     }
 ]
