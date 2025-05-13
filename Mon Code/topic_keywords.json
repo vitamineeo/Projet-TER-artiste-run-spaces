@@ -1,0 +1,2900 @@
+{
+    "-1": [
+        {
+            "word": "family",
+            "score": 0.03340698553946495
+        },
+        {
+            "word": "gallery",
+            "score": 0.013899899522855669
+        },
+        {
+            "word": "structure",
+            "score": 0.012729188382450253
+        },
+        {
+            "word": "musical",
+            "score": 0.012659747877590322
+        },
+        {
+            "word": "photography",
+            "score": 0.011885076748350352
+        },
+        {
+            "word": "facilities",
+            "score": 0.010729998740649593
+        },
+        {
+            "word": "work",
+            "score": 0.01040675452594635
+        },
+        {
+            "word": "production",
+            "score": 0.010387508540520677
+        },
+        {
+            "word": "research",
+            "score": 0.010342232089865244
+        },
+        {
+            "word": "emerging",
+            "score": 0.010053973865756764
+        }
+    ],
+    "0": [
+        {
+            "word": "art org",
+            "score": 0.015701770998185628
+        },
+        {
+            "word": "org",
+            "score": 0.015583438964168863
+        },
+        {
+            "word": "projects",
+            "score": 0.010256904622845292
+        },
+        {
+            "word": "arts",
+            "score": 0.010069927161761354
+        },
+        {
+            "word": "work",
+            "score": 0.009778682953030358
+        },
+        {
+            "word": "city",
+            "score": 0.009771985284001377
+        },
+        {
+            "word": "project",
+            "score": 0.008472641790987405
+        },
+        {
+            "word": "public",
+            "score": 0.008030329830273924
+        },
+        {
+            "word": "contemporary art",
+            "score": 0.007883114494038699
+        },
+        {
+            "word": "cultural",
+            "score": 0.00774843942081517
+        }
+    ],
+    "1": [
+        {
+            "word": "pierre",
+            "score": 0.10849929648594535
+        },
+        {
+            "word": "mainly",
+            "score": 0.05080556999598643
+        },
+        {
+            "word": "spaces art",
+            "score": 0.04767112359263603
+        },
+        {
+            "word": "steps",
+            "score": 0.04531551724731148
+        },
+        {
+            "word": "italy",
+            "score": 0.04339642043549523
+        },
+        {
+            "word": "swiss",
+            "score": 0.04339642043549523
+        },
+        {
+            "word": "artist space",
+            "score": 0.04305493329197592
+        },
+        {
+            "word": "situated",
+            "score": 0.04177852760127445
+        },
+        {
+            "word": "artist spaces",
+            "score": 0.04038107358847691
+        },
+        {
+            "word": "image",
+            "score": 0.036166432161981774
+        }
+    ],
+    "2": [
+        {
+            "word": "century",
+            "score": 0.10565974443043957
+        },
+        {
+            "word": "paintings",
+            "score": 0.08405199520799575
+        },
+        {
+            "word": "museum",
+            "score": 0.08227546683982997
+        },
+        {
+            "word": "concrete",
+            "score": 0.05603466347199716
+        },
+        {
+            "word": "houses",
+            "score": 0.052036969380665155
+        },
+        {
+            "word": "city",
+            "score": 0.048714802747394884
+        },
+        {
+            "word": "built",
+            "score": 0.04483656337169052
+        },
+        {
+            "word": "took",
+            "score": 0.04483656337169052
+        },
+        {
+            "word": "club",
+            "score": 0.04414740757333126
+        },
+        {
+            "word": "district",
+            "score": 0.04226389777217583
+        }
+    ],
+    "3": [
+        {
+            "word": "fashion",
+            "score": 0.02542073012591382
+        },
+        {
+            "word": "press",
+            "score": 0.020435062078622626
+        },
+        {
+            "word": "poetry",
+            "score": 0.020013555317901072
+        },
+        {
+            "word": "took",
+            "score": 0.0179440447947627
+        },
+        {
+            "word": "presented",
+            "score": 0.01785108997020626
+        },
+        {
+            "word": "series",
+            "score": 0.017384817900983902
+        },
+        {
+            "word": "archives",
+            "score": 0.01735476657390881
+        },
+        {
+            "word": "books",
+            "score": 0.016911397392323828
+        },
+        {
+            "word": "events",
+            "score": 0.016799535569625615
+        },
+        {
+            "word": "john",
+            "score": 0.016251631095789854
+        }
+    ],
+    "4": [
+        {
+            "word": "popular",
+            "score": 0.06781757518609655
+        },
+        {
+            "word": "going",
+            "score": 0.0673554262470866
+        },
+        {
+            "word": "editions",
+            "score": 0.06112858599519778
+        },
+        {
+            "word": "narrative",
+            "score": 0.05635507375998339
+        },
+        {
+            "word": "submissions",
+            "score": 0.05635507375998339
+        },
+        {
+            "word": "object",
+            "score": 0.042323883921451165
+        },
+        {
+            "word": "collections",
+            "score": 0.04069054511165793
+        },
+        {
+            "word": "ones",
+            "score": 0.039329483130443654
+        },
+        {
+            "word": "collection",
+            "score": 0.03837439880029996
+        },
+        {
+            "word": "essential",
+            "score": 0.029423617101552946
+        }
+    ],
+    "5": [
+        {
+            "word": "club",
+            "score": 0.10173485253289845
+        },
+        {
+            "word": "brussels",
+            "score": 0.05930776315088135
+        },
+        {
+            "word": "stone",
+            "score": 0.03594556496702798
+        },
+        {
+            "word": "wood",
+            "score": 0.03594556496702798
+        },
+        {
+            "word": "group",
+            "score": 0.028938829852688627
+        },
+        {
+            "word": "cube",
+            "score": 0.027270656509236258
+        },
+        {
+            "word": "work artists",
+            "score": 0.026647964158647074
+        },
+        {
+            "word": "view",
+            "score": 0.026073068224678687
+        },
+        {
+            "word": "tools",
+            "score": 0.02553935911088565
+        },
+        {
+            "word": "proposals",
+            "score": 0.024575158406003904
+        }
+    ],
+    "6": [
+        {
+            "word": "artists space",
+            "score": 0.07174163012378235
+        },
+        {
+            "word": "critical",
+            "score": 0.04333686489130616
+        },
+        {
+            "word": "artists work",
+            "score": 0.03792516825940933
+        },
+        {
+            "word": "york",
+            "score": 0.03685594529582328
+        },
+        {
+            "word": "discourse",
+            "score": 0.03364792138640511
+        },
+        {
+            "word": "territory",
+            "score": 0.0328306932732553
+        },
+        {
+            "word": "institutional",
+            "score": 0.03014705883048405
+        },
+        {
+            "word": "critical discourse",
+            "score": 0.02884951492499333
+        },
+        {
+            "word": "primary",
+            "score": 0.027423953803389155
+        },
+        {
+            "word": "laurie",
+            "score": 0.026262558645429153
+        }
+    ],
+    "7": [
+        {
+            "word": "filliou",
+            "score": 0.12889100464957662
+        },
+        {
+            "word": "fluxus",
+            "score": 0.08192597245468358
+        },
+        {
+            "word": "shop",
+            "score": 0.06077820355958089
+        },
+        {
+            "word": "robert filliou",
+            "score": 0.05252480408211105
+        },
+        {
+            "word": "adrian",
+            "score": 0.05252480408211105
+        },
+        {
+            "word": "surface",
+            "score": 0.05030039641386947
+        },
+        {
+            "word": "george",
+            "score": 0.04296366821652554
+        },
+        {
+            "word": "robert",
+            "score": 0.04007926189909286
+        },
+        {
+            "word": "object",
+            "score": 0.03777668978112997
+        },
+        {
+            "word": "called",
+            "score": 0.036466922135748536
+        }
+    ],
+    "8": [
+        {
+            "word": "music",
+            "score": 0.08869150159299222
+        },
+        {
+            "word": "hall",
+            "score": 0.05121545617385687
+        },
+        {
+            "word": "areas",
+            "score": 0.03987565509947266
+        },
+        {
+            "word": "important",
+            "score": 0.03566116492509518
+        },
+        {
+            "word": "private",
+            "score": 0.03141020034629171
+        },
+        {
+            "word": "musicians",
+            "score": 0.027767626518254096
+        },
+        {
+            "word": "galleries",
+            "score": 0.025769748407350596
+        },
+        {
+            "word": "non",
+            "score": 0.025748760484347565
+        },
+        {
+            "word": "culture",
+            "score": 0.024303122693215946
+        },
+        {
+            "word": "increasingly",
+            "score": 0.023736699510496496
+        }
+    ],
+    "9": [
+        {
+            "word": "france",
+            "score": 0.08947873251893473
+        },
+        {
+            "word": "laurence",
+            "score": 0.07784804908294002
+        },
+        {
+            "word": "commission",
+            "score": 0.07547852736386061
+        },
+        {
+            "word": "fiction",
+            "score": 0.06274585532039388
+        },
+        {
+            "word": "beautiful",
+            "score": 0.05838603681220502
+        },
+        {
+            "word": "marc",
+            "score": 0.05660889552289546
+        },
+        {
+            "word": "nicolas",
+            "score": 0.041830570213595916
+        },
+        {
+            "word": "french",
+            "score": 0.040271054955867636
+        },
+        {
+            "word": "formed",
+            "score": 0.037739263681930306
+        },
+        {
+            "word": "magazine",
+            "score": 0.03406543871827049
+        }
+    ],
+    "10": [
+        {
+            "word": "kunstverein",
+            "score": 0.17197959758409853
+        },
+        {
+            "word": "son",
+            "score": 0.0955221779992435
+        },
+        {
+            "word": "editors",
+            "score": 0.059828859810892206
+        },
+        {
+            "word": "non profit organization",
+            "score": 0.05067960242312203
+        },
+        {
+            "word": "profit organization",
+            "score": 0.049137027881171004
+        },
+        {
+            "word": "city",
+            "score": 0.04844234859332668
+        },
+        {
+            "word": "existence",
+            "score": 0.04539008600195028
+        },
+        {
+            "word": "subject",
+            "score": 0.04435365846539916
+        },
+        {
+            "word": "club",
+            "score": 0.03762899840143
+        },
+        {
+            "word": "works",
+            "score": 0.03698149479600365
+        }
+    ],
+    "11": [
+        {
+            "word": "atelier",
+            "score": 0.10060338254091139
+        },
+        {
+            "word": "exhibition organized",
+            "score": 0.07491176564557091
+        },
+        {
+            "word": "exhibitions artists",
+            "score": 0.07121009853148948
+        },
+        {
+            "word": "michel",
+            "score": 0.07121009853148948
+        },
+        {
+            "word": "damien",
+            "score": 0.06819437497006393
+        },
+        {
+            "word": "james",
+            "score": 0.06565197194485985
+        },
+        {
+            "word": "format",
+            "score": 0.06565197194485985
+        },
+        {
+            "word": "decided",
+            "score": 0.06345597278189229
+        },
+        {
+            "word": "thomas",
+            "score": 0.06345597278189229
+        },
+        {
+            "word": "met",
+            "score": 0.06345597278189229
+        }
+    ],
+    "12": [
+        {
+            "word": "free",
+            "score": 0.08299915296340582
+        },
+        {
+            "word": "athens",
+            "score": 0.07959375099841909
+        },
+        {
+            "word": "enterprise",
+            "score": 0.07959375099841909
+        },
+        {
+            "word": "artistic creation",
+            "score": 0.07566072968970756
+        },
+        {
+            "word": "creations",
+            "score": 0.07245652340569292
+        },
+        {
+            "word": "free charge",
+            "score": 0.07245652340569292
+        },
+        {
+            "word": "care",
+            "score": 0.06975522019141359
+        },
+        {
+            "word": "charge",
+            "score": 0.06536979602048643
+        },
+        {
+            "word": "visible",
+            "score": 0.06536979602048643
+        },
+        {
+            "word": "parts",
+            "score": 0.06536979602048643
+        }
+    ],
+    "13": [
+        {
+            "word": "commissions",
+            "score": 0.07652045441874883
+        },
+        {
+            "word": "brussels",
+            "score": 0.06326161402760679
+        },
+        {
+            "word": "critics",
+            "score": 0.06326161402760679
+        },
+        {
+            "word": "opening",
+            "score": 0.060287320019495376
+        },
+        {
+            "word": "gallery",
+            "score": 0.05617985955157984
+        },
+        {
+            "word": "opened",
+            "score": 0.05343885268361292
+        },
+        {
+            "word": "artists particular",
+            "score": 0.05098956310435794
+        },
+        {
+            "word": "district city",
+            "score": 0.05098956310435794
+        },
+        {
+            "word": "collective",
+            "score": 0.050525755476563954
+        },
+        {
+            "word": "young artists",
+            "score": 0.04997798458011534
+        }
+    ],
+    "14": [
+        {
+            "word": "poetry",
+            "score": 0.09072811744115153
+        },
+        {
+            "word": "milan",
+            "score": 0.08706627549555669
+        },
+        {
+            "word": "visual poetry",
+            "score": 0.07191676915281127
+        },
+        {
+            "word": "sale",
+            "score": 0.05796521872455434
+        },
+        {
+            "word": "del",
+            "score": 0.05796521872455434
+        },
+        {
+            "word": "visual",
+            "score": 0.05594655073374723
+        },
+        {
+            "word": "writing",
+            "score": 0.04720496508103196
+        },
+        {
+            "word": "artist art org",
+            "score": 0.042450000532490186
+        },
+        {
+            "word": "began art",
+            "score": 0.042450000532490186
+        },
+        {
+            "word": "artist art",
+            "score": 0.04035238916784405
+        }
+    ],
+    "15": [
+        {
+            "word": "fine arts",
+            "score": 0.05558308644820279
+        },
+        {
+            "word": "academy fine",
+            "score": 0.05558308644820279
+        },
+        {
+            "word": "underground",
+            "score": 0.05558308644820279
+        },
+        {
+            "word": "fine",
+            "score": 0.047475834284927756
+        },
+        {
+            "word": "academy",
+            "score": 0.047475834284927756
+        },
+        {
+            "word": "gallery",
+            "score": 0.04294296113668705
+        },
+        {
+            "word": "intermedia",
+            "score": 0.04070547996266182
+        },
+        {
+            "word": "hand",
+            "score": 0.03869407180478195
+        },
+        {
+            "word": "hungarian",
+            "score": 0.037055390965468525
+        },
+        {
+            "word": "surface",
+            "score": 0.037055390965468525
+        }
+    ],
+    "16": [
+        {
+            "word": "madrid",
+            "score": 0.13170803652985782
+        },
+        {
+            "word": "amsterdam",
+            "score": 0.12089776405115325
+        },
+        {
+            "word": "independent space",
+            "score": 0.09853490378194475
+        },
+        {
+            "word": "artistic research",
+            "score": 0.09853490378194475
+        },
+        {
+            "word": "articles",
+            "score": 0.08780535768657188
+        },
+        {
+            "word": "editorial",
+            "score": 0.08513275760807534
+        },
+        {
+            "word": "library",
+            "score": 0.07086789865917405
+        },
+        {
+            "word": "possible",
+            "score": 0.06621213428144995
+        },
+        {
+            "word": "reflection",
+            "score": 0.06621213428144995
+        },
+        {
+            "word": "ivan",
+            "score": 0.05513987638029405
+        }
+    ],
+    "17": [
+        {
+            "word": "fellowship",
+            "score": 0.05901913179227351
+        },
+        {
+            "word": "infrastructure",
+            "score": 0.0549182600803286
+        },
+        {
+            "word": "art city",
+            "score": 0.039935002659788076
+        },
+        {
+            "word": "contexts",
+            "score": 0.036047427880060774
+        },
+        {
+            "word": "organization",
+            "score": 0.03307560806211217
+        },
+        {
+            "word": "action art",
+            "score": 0.0324163640429925
+        },
+        {
+            "word": "community art",
+            "score": 0.0324163640429925
+        },
+        {
+            "word": "vancouver",
+            "score": 0.0324163640429925
+        },
+        {
+            "word": "canada",
+            "score": 0.03209089147945871
+        },
+        {
+            "word": "traditional",
+            "score": 0.03156158928849698
+        }
+    ],
+    "18": [
+        {
+            "word": "lyon",
+            "score": 0.044682016337545455
+        },
+        {
+            "word": "moved",
+            "score": 0.038642693375215996
+        },
+        {
+            "word": "street",
+            "score": 0.03590353656723965
+        },
+        {
+            "word": "studio",
+            "score": 0.033576646717655985
+        },
+        {
+            "word": "supporting",
+            "score": 0.03132858355068743
+        },
+        {
+            "word": "studios",
+            "score": 0.03051588324100974
+        },
+        {
+            "word": "london",
+            "score": 0.028695802898167075
+        },
+        {
+            "word": "unique",
+            "score": 0.027502677905033884
+        },
+        {
+            "word": "olivier",
+            "score": 0.026374260685866683
+        },
+        {
+            "word": "way working",
+            "score": 0.026374260685866683
+        }
+    ],
+    "19": [
+        {
+            "word": "media",
+            "score": 0.06268387187910347
+        },
+        {
+            "word": "archive",
+            "score": 0.044809792045357386
+        },
+        {
+            "word": "society",
+            "score": 0.02997659427074133
+        },
+        {
+            "word": "online",
+            "score": 0.02997363582633919
+        },
+        {
+            "word": "hub",
+            "score": 0.024758232003426826
+        },
+        {
+            "word": "country",
+            "score": 0.024758232003426826
+        },
+        {
+            "word": "scene",
+            "score": 0.023803746044412225
+        },
+        {
+            "word": "media art",
+            "score": 0.02333246642932341
+        },
+        {
+            "word": "project",
+            "score": 0.022805843159605644
+        },
+        {
+            "word": "platform",
+            "score": 0.02247556086830211
+        }
+    ],
+    "20": [
+        {
+            "word": "recent years",
+            "score": 0.04580541473106621
+        },
+        {
+            "word": "turned",
+            "score": 0.042230187359126065
+        },
+        {
+            "word": "regularly",
+            "score": 0.038467039248344
+        },
+        {
+            "word": "academy",
+            "score": 0.03746741516540245
+        },
+        {
+            "word": "constantly",
+            "score": 0.03746741516540245
+        },
+        {
+            "word": "worked",
+            "score": 0.03655742061778699
+        },
+        {
+            "word": "recent",
+            "score": 0.03655742061778699
+        },
+        {
+            "word": "subject",
+            "score": 0.0357226762775377
+        },
+        {
+            "word": "public space",
+            "score": 0.03356915740043089
+        },
+        {
+            "word": "end",
+            "score": 0.03294399613345388
+        }
+    ],
+    "21": [
+        {
+            "word": "film",
+            "score": 0.07253813437203435
+        },
+        {
+            "word": "known",
+            "score": 0.05719013943806587
+        },
+        {
+            "word": "buy",
+            "score": 0.05678025548931808
+        },
+        {
+            "word": "materials",
+            "score": 0.05440360077902576
+        },
+        {
+            "word": "resident",
+            "score": 0.051688730072851005
+        },
+        {
+            "word": "appreciation",
+            "score": 0.04976168574164536
+        },
+        {
+            "word": "parts",
+            "score": 0.04663323028213045
+        },
+        {
+            "word": "way",
+            "score": 0.044880119407488546
+        },
+        {
+            "word": "films",
+            "score": 0.04118548356509755
+        },
+        {
+            "word": "workshop",
+            "score": 0.04033486123401047
+        }
+    ],
+    "22": [
+        {
+            "word": "created",
+            "score": 0.09930985127454516
+        },
+        {
+            "word": "curatorial",
+            "score": 0.07759146749003767
+        },
+        {
+            "word": "seven",
+            "score": 0.07476495803015032
+        },
+        {
+            "word": "europe",
+            "score": 0.07248927875539089
+        },
+        {
+            "word": "brussels",
+            "score": 0.05825079311452901
+        },
+        {
+            "word": "specific projects",
+            "score": 0.04695078582876523
+        },
+        {
+            "word": "everyday life",
+            "score": 0.04695078582876523
+        },
+        {
+            "word": "goals",
+            "score": 0.04695078582876523
+        },
+        {
+            "word": "absurdity",
+            "score": 0.04695078582876523
+        },
+        {
+            "word": "contemporary art practices",
+            "score": 0.04695078582876523
+        }
+    ],
+    "23": [
+        {
+            "word": "vienna",
+            "score": 0.052962510782795305
+        },
+        {
+            "word": "creates",
+            "score": 0.05071956638398505
+        },
+        {
+            "word": "community",
+            "score": 0.04425244931117189
+        },
+        {
+            "word": "art org",
+            "score": 0.04315916047510879
+        },
+        {
+            "word": "org",
+            "score": 0.04252794700173892
+        },
+        {
+            "word": "environment",
+            "score": 0.04093070861406815
+        },
+        {
+            "word": "cultural life",
+            "score": 0.03714375046592891
+        },
+        {
+            "word": "dialogue artists",
+            "score": 0.03714375046592891
+        },
+        {
+            "word": "participated",
+            "score": 0.03530834052186353
+        },
+        {
+            "word": "improve",
+            "score": 0.03530834052186353
+        }
+    ],
+    "24": [
+        {
+            "word": "visual artists",
+            "score": 0.035641165407537825
+        },
+        {
+            "word": "visual artist",
+            "score": 0.03559267816420003
+        },
+        {
+            "word": "visual",
+            "score": 0.03435314518738864
+        },
+        {
+            "word": "wine",
+            "score": 0.03426572219929089
+        },
+        {
+            "word": "practice",
+            "score": 0.027365528902070047
+        },
+        {
+            "word": "international",
+            "score": 0.02693305051977606
+        },
+        {
+            "word": "remarkable",
+            "score": 0.026065789800651867
+        },
+        {
+            "word": "vitrine",
+            "score": 0.026065789800651867
+        },
+        {
+            "word": "master",
+            "score": 0.026065789800651867
+        },
+        {
+            "word": "right",
+            "score": 0.026065789800651867
+        }
+    ],
+    "25": [
+        {
+            "word": "contemporary creation",
+            "score": 0.05272447729819163
+        },
+        {
+            "word": "creation",
+            "score": 0.05251480372352672
+        },
+        {
+            "word": "plastic",
+            "score": 0.04969921312098454
+        },
+        {
+            "word": "today",
+            "score": 0.04601678981088889
+        },
+        {
+            "word": "follows",
+            "score": 0.043907679339863774
+        },
+        {
+            "word": "micro",
+            "score": 0.043907679339863774
+        },
+        {
+            "word": "maintaining",
+            "score": 0.043907679339863774
+        },
+        {
+            "word": "investment",
+            "score": 0.043907679339863774
+        },
+        {
+            "word": "plurality",
+            "score": 0.043907679339863774
+        },
+        {
+            "word": "cultural scene",
+            "score": 0.043907679339863774
+        }
+    ],
+    "26": [
+        {
+            "word": "michele",
+            "score": 0.12269659070592483
+        },
+        {
+            "word": "diversity",
+            "score": 0.06370562482483068
+        },
+        {
+            "word": "charlie",
+            "score": 0.057728458089445725
+        },
+        {
+            "word": "crisis",
+            "score": 0.05579749330821563
+        },
+        {
+            "word": "contemporary artists",
+            "score": 0.04275584755830871
+        },
+        {
+            "word": "julie",
+            "score": 0.04174385086328694
+        },
+        {
+            "word": "artists projects",
+            "score": 0.04174385086328694
+        },
+        {
+            "word": "michel",
+            "score": 0.04174385086328694
+        },
+        {
+            "word": "avenue",
+            "score": 0.03997601291348575
+        },
+        {
+            "word": "century",
+            "score": 0.039661441012805394
+        }
+    ],
+    "27": [
+        {
+            "word": "organization",
+            "score": 0.0709915490113627
+        },
+        {
+            "word": "video",
+            "score": 0.05609634256965953
+        },
+        {
+            "word": "stations",
+            "score": 0.043485366399136284
+        },
+        {
+            "word": "supported",
+            "score": 0.04304875686268852
+        },
+        {
+            "word": "worldwide",
+            "score": 0.039586003031402965
+        },
+        {
+            "word": "distribution",
+            "score": 0.03811016908018694
+        },
+        {
+            "word": "collection artists",
+            "score": 0.03811016908018694
+        },
+        {
+            "word": "artists professionals",
+            "score": 0.036835418346561864
+        },
+        {
+            "word": "electronic",
+            "score": 0.036835418346561864
+        },
+        {
+            "word": "commissions",
+            "score": 0.03471415737045678
+        }
+    ],
+    "28": [
+        {
+            "word": "project space",
+            "score": 0.07062519759297803
+        },
+        {
+            "word": "meters",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "project artists",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "space different",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "big",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "different artistic",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "building",
+            "score": 0.05991077912081012
+        },
+        {
+            "word": "approximately",
+            "score": 0.0586480270514667
+        },
+        {
+            "word": "alex",
+            "score": 0.0586480270514667
+        },
+        {
+            "word": "artist studios",
+            "score": 0.0586480270514667
+        }
+    ],
+    "29": [
+        {
+            "word": "arts education",
+            "score": 0.08254166770206424
+        },
+        {
+            "word": "education",
+            "score": 0.07787112169184819
+        },
+        {
+            "word": "communication",
+            "score": 0.07454881968147681
+        },
+        {
+            "word": "want",
+            "score": 0.06418029449629123
+        },
+        {
+            "word": "developing",
+            "score": 0.05357677194034981
+        },
+        {
+            "word": "offer",
+            "score": 0.04969921312098454
+        },
+        {
+            "word": "society",
+            "score": 0.04837492726230744
+        },
+        {
+            "word": "studios",
+            "score": 0.047751706182691166
+        },
+        {
+            "word": "making art",
+            "score": 0.043907679339863774
+        },
+        {
+            "word": "response needs",
+            "score": 0.043907679339863774
+        }
+    ],
+    "30": [
+        {
+            "word": "romania",
+            "score": 0.14383353830562254
+        },
+        {
+            "word": "artspace",
+            "score": 0.1258799068827519
+        },
+        {
+            "word": "cluj",
+            "score": 0.10459167363277828
+        },
+        {
+            "word": "hungary",
+            "score": 0.08490000106498037
+        },
+        {
+            "word": "countries",
+            "score": 0.0744055682041745
+        },
+        {
+            "word": "european",
+            "score": 0.06777525962803467
+        },
+        {
+            "word": "field",
+            "score": 0.0526030409849065
+        },
+        {
+            "word": "young art",
+            "score": 0.04516218446385989
+        },
+        {
+            "word": "draw",
+            "score": 0.04516218446385989
+        },
+        {
+            "word": "emphasizing",
+            "score": 0.04516218446385989
+        }
+    ],
+    "31": [
+        {
+            "word": "intervention",
+            "score": 0.19550555661933075
+        },
+        {
+            "word": "intention",
+            "score": 0.17170515739424885
+        },
+        {
+            "word": "contributing",
+            "score": 0.08917725957623746
+        },
+        {
+            "word": "interventions",
+            "score": 0.0804551335636756
+        },
+        {
+            "word": "george",
+            "score": 0.07617001984175224
+        },
+        {
+            "word": "floor",
+            "score": 0.06465197917107067
+        },
+        {
+            "word": "ask",
+            "score": 0.05211021284291526
+        },
+        {
+            "word": "support artists",
+            "score": 0.05211021284291526
+        },
+        {
+            "word": "independent art space",
+            "score": 0.05211021284291526
+        },
+        {
+            "word": "passed",
+            "score": 0.05211021284291526
+        }
+    ],
+    "32": [
+        {
+            "word": "children",
+            "score": 0.20260227526870317
+        },
+        {
+            "word": "dijon",
+            "score": 0.19259094830107384
+        },
+        {
+            "word": "workshop",
+            "score": 0.19189615799211043
+        },
+        {
+            "word": "seven",
+            "score": 0.17161956275102688
+        },
+        {
+            "word": "evolved",
+            "score": 0.10777339474330201
+        },
+        {
+            "word": "surrounded",
+            "score": 0.10130113763435158
+        },
+        {
+            "word": "space shared",
+            "score": 0.10130113763435158
+        },
+        {
+            "word": "transformation",
+            "score": 0.09221739342542737
+        },
+        {
+            "word": "artistic community",
+            "score": 0.09221739342542737
+        },
+        {
+            "word": "interior",
+            "score": 0.0887793711527082
+        }
+    ],
+    "33": [
+        {
+            "word": "production",
+            "score": 0.09163234453691407
+        },
+        {
+            "word": "artists commissioners",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "rock",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "production structure",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "companies",
+            "score": 0.07306967304772902
+        },
+        {
+            "word": "student",
+            "score": 0.07306967304772902
+        },
+        {
+            "word": "members artists",
+            "score": 0.07306967304772902
+        },
+        {
+            "word": "textile",
+            "score": 0.07306967304772902
+        },
+        {
+            "word": "food",
+            "score": 0.07306967304772902
+        },
+        {
+            "word": "exhibitions concerts",
+            "score": 0.07306967304772902
+        }
+    ],
+    "34": [
+        {
+            "word": "current art",
+            "score": 0.08560914954798218
+        },
+        {
+            "word": "public space",
+            "score": 0.07861131796303437
+        },
+        {
+            "word": "purpose",
+            "score": 0.07714733271758188
+        },
+        {
+            "word": "jean",
+            "score": 0.0732441945513643
+        },
+        {
+            "word": "experiment",
+            "score": 0.0732441945513643
+        },
+        {
+            "word": "residence",
+            "score": 0.06528081351557781
+        },
+        {
+            "word": "passed",
+            "score": 0.060025688211459344
+        },
+        {
+            "word": "profit purposes",
+            "score": 0.060025688211459344
+        },
+        {
+            "word": "commissioner",
+            "score": 0.060025688211459344
+        },
+        {
+            "word": "space non",
+            "score": 0.060025688211459344
+        }
+    ],
+    "35": [
+        {
+            "word": "laboratory",
+            "score": 0.14063902634341824
+        },
+        {
+            "word": "like",
+            "score": 0.0464968446229639
+        },
+        {
+            "word": "spaces",
+            "score": 0.037636969896108236
+        },
+        {
+            "word": "rhythm",
+            "score": 0.032930759504897836
+        },
+        {
+            "word": "moment",
+            "score": 0.032930759504897836
+        },
+        {
+            "word": "actually",
+            "score": 0.032930759504897836
+        },
+        {
+            "word": "independent exhibition",
+            "score": 0.032930759504897836
+        },
+        {
+            "word": "attempt",
+            "score": 0.032930759504897836
+        },
+        {
+            "word": "association aims",
+            "score": 0.032930759504897836
+        },
+        {
+            "word": "atmosphere",
+            "score": 0.032930759504897836
+        }
+    ],
+    "36": [
+        {
+            "word": "western",
+            "score": 0.12836058899258246
+        },
+        {
+            "word": "interdisciplinary",
+            "score": 0.060256545483647575
+        },
+        {
+            "word": "media",
+            "score": 0.059007965812119
+        },
+        {
+            "word": "media art",
+            "score": 0.056479383023362216
+        },
+        {
+            "word": "media artists",
+            "score": 0.04483598796427115
+        },
+        {
+            "word": "experimental art",
+            "score": 0.04483598796427115
+        },
+        {
+            "word": "art forms",
+            "score": 0.04483598796427115
+        },
+        {
+            "word": "art music",
+            "score": 0.04483598796427115
+        },
+        {
+            "word": "practices",
+            "score": 0.04314531342421586
+        },
+        {
+            "word": "exploration",
+            "score": 0.036674453997880704
+        }
+    ],
+    "37": [
+        {
+            "word": "natural",
+            "score": 0.0777748880977447
+        },
+        {
+            "word": "step",
+            "score": 0.061895580008567076
+        },
+        {
+            "word": "river",
+            "score": 0.04630602035654234
+        },
+        {
+            "word": "steps",
+            "score": 0.04630602035654234
+        },
+        {
+            "word": "encourages",
+            "score": 0.03888744404887235
+        },
+        {
+            "word": "exploration",
+            "score": 0.03787689511256532
+        },
+        {
+            "word": "expanded",
+            "score": 0.0369569552693475
+        },
+        {
+            "word": "current art",
+            "score": 0.0369569552693475
+        },
+        {
+            "word": "dissemination",
+            "score": 0.03623549788356193
+        },
+        {
+            "word": "practices",
+            "score": 0.03564793109148327
+        }
+    ],
+    "38": [
+        {
+            "word": "pauline",
+            "score": 0.11116617289640558
+        },
+        {
+            "word": "designs",
+            "score": 0.10029338567526684
+        },
+        {
+            "word": "production",
+            "score": 0.09571186672520132
+        },
+        {
+            "word": "self",
+            "score": 0.0715683855387562
+        },
+        {
+            "word": "production art",
+            "score": 0.06495930642062038
+        },
+        {
+            "word": "divided",
+            "score": 0.06495930642062038
+        },
+        {
+            "word": "exhibition rooms",
+            "score": 0.06495930642062038
+        },
+        {
+            "word": "respect",
+            "score": 0.06495930642062038
+        },
+        {
+            "word": "designs designs",
+            "score": 0.06495930642062038
+        },
+        {
+            "word": "independent artistic",
+            "score": 0.06495930642062038
+        }
+    ],
+    "39": [
+        {
+            "word": "artist art",
+            "score": 0.16948003450494498
+        },
+        {
+            "word": "currently",
+            "score": 0.1242058823815943
+        },
+        {
+            "word": "associative",
+            "score": 0.09484058737410576
+        },
+        {
+            "word": "independent exhibition",
+            "score": 0.09484058737410576
+        },
+        {
+            "word": "painting video",
+            "score": 0.09484058737410576
+        },
+        {
+            "word": "art area",
+            "score": 0.09484058737410576
+        },
+        {
+            "word": "foot",
+            "score": 0.09484058737410576
+        },
+        {
+            "word": "artist art org",
+            "score": 0.08914500111822939
+        },
+        {
+            "word": "exhibitions artist",
+            "score": 0.08914500111822939
+        },
+        {
+            "word": "space dedicated contemporary",
+            "score": 0.08474001725247249
+        }
+    ],
+    "40": [
+        {
+            "word": "tools",
+            "score": 0.24360619459614005
+        },
+        {
+            "word": "limoges",
+            "score": 0.1086410477595801
+        },
+        {
+            "word": "association",
+            "score": 0.09612384194901277
+        },
+        {
+            "word": "promotes",
+            "score": 0.08289898615026044
+        },
+        {
+            "word": "stay",
+            "score": 0.06079524831673446
+        },
+        {
+            "word": "belgium",
+            "score": 0.06079524831673446
+        },
+        {
+            "word": "crafts",
+            "score": 0.05714423148604448
+        },
+        {
+            "word": "equipped",
+            "score": 0.05432052387979005
+        },
+        {
+            "word": "vienna",
+            "score": 0.05432052387979005
+        },
+        {
+            "word": "work space",
+            "score": 0.05432052387979005
+        }
+    ],
+    "41": [
+        {
+            "word": "station",
+            "score": 0.15374943156359716
+        },
+        {
+            "word": "nice",
+            "score": 0.052308652624983014
+        },
+        {
+            "word": "service",
+            "score": 0.04519393305120049
+        },
+        {
+            "word": "drawings",
+            "score": 0.04392840901817061
+        },
+        {
+            "word": "build",
+            "score": 0.04392840901817061
+        },
+        {
+            "word": "installed",
+            "score": 0.04079441426755848
+        },
+        {
+            "word": "reflect",
+            "score": 0.03991432666494021
+        },
+        {
+            "word": "desire",
+            "score": 0.03909729049073852
+        },
+        {
+            "word": "involved",
+            "score": 0.03909729049073852
+        },
+        {
+            "word": "dynamic",
+            "score": 0.034609387418599195
+        }
+    ],
+    "42": [
+        {
+            "word": "factory",
+            "score": 0.06823456803723797
+        },
+        {
+            "word": "lee",
+            "score": 0.05180247986529113
+        },
+        {
+            "word": "exhibition area",
+            "score": 0.05180247986529113
+        },
+        {
+            "word": "art org",
+            "score": 0.044417660866321235
+        },
+        {
+            "word": "young artists",
+            "score": 0.0438486091127427
+        },
+        {
+            "word": "org",
+            "score": 0.0437680415112236
+        },
+        {
+            "word": "production works",
+            "score": 0.042049528829353484
+        },
+        {
+            "word": "art org exhibition",
+            "score": 0.03827891802564909
+        },
+        {
+            "word": "org exhibition",
+            "score": 0.03827891802564909
+        },
+        {
+            "word": "korean",
+            "score": 0.03827891802564909
+        }
+    ],
+    "43": [
+        {
+            "word": "rooms",
+            "score": 0.061763678669320476
+        },
+        {
+            "word": "project space",
+            "score": 0.04901840198234091
+        },
+        {
+            "word": "reception",
+            "score": 0.03869407180478195
+        },
+        {
+            "word": "limoges",
+            "score": 0.03869407180478195
+        },
+        {
+            "word": "visiting",
+            "score": 0.037055390965468525
+        },
+        {
+            "word": "access",
+            "score": 0.03676380148675569
+        },
+        {
+            "word": "equipment",
+            "score": 0.035673902563645304
+        },
+        {
+            "word": "plastics",
+            "score": 0.035673902563645304
+        },
+        {
+            "word": "external",
+            "score": 0.034480642744498545
+        },
+        {
+            "word": "relationships",
+            "score": 0.03343112855842228
+        }
+    ],
+    "44": [
+        {
+            "word": "public space",
+            "score": 0.10264948957156554
+        },
+        {
+            "word": "rented",
+            "score": 0.0700330721094814
+        },
+        {
+            "word": "conventional",
+            "score": 0.0700330721094814
+        },
+        {
+            "word": "alternative",
+            "score": 0.06578187498634207
+        },
+        {
+            "word": "interior",
+            "score": 0.06456681538378779
+        },
+        {
+            "word": "collectors",
+            "score": 0.06240711372764614
+        },
+        {
+            "word": "window",
+            "score": 0.06240711372764614
+        },
+        {
+            "word": "apartment",
+            "score": 0.0558935769776082
+        },
+        {
+            "word": "public",
+            "score": 0.05319519188267915
+        },
+        {
+            "word": "personal",
+            "score": 0.04947025835689445
+        }
+    ],
+    "45": [
+        {
+            "word": "house",
+            "score": 0.10547422581422367
+        },
+        {
+            "word": "denis",
+            "score": 0.09599060289464216
+        },
+        {
+            "word": "gives",
+            "score": 0.09046274060521577
+        },
+        {
+            "word": "researchers",
+            "score": 0.08400883616115859
+        },
+        {
+            "word": "housing",
+            "score": 0.0718135739427733
+        },
+        {
+            "word": "artistic scene",
+            "score": 0.06399373526309476
+        },
+        {
+            "word": "workers",
+            "score": 0.06399373526309476
+        },
+        {
+            "word": "architect",
+            "score": 0.06204590808724135
+        },
+        {
+            "word": "special",
+            "score": 0.05164948546346583
+        },
+        {
+            "word": "attention",
+            "score": 0.049858729699723985
+        }
+    ],
+    "46": [
+        {
+            "word": "self",
+            "score": 0.06449990301640991
+        },
+        {
+            "word": "collection",
+            "score": 0.054576922738204386
+        },
+        {
+            "word": "ateliers",
+            "score": 0.05009339889776301
+        },
+        {
+            "word": "managed",
+            "score": 0.04969921312098454
+        },
+        {
+            "word": "physical",
+            "score": 0.046612720747192485
+        },
+        {
+            "word": "industrial",
+            "score": 0.0417476716931518
+        },
+        {
+            "word": "mission",
+            "score": 0.03991432666494021
+        },
+        {
+            "word": "available",
+            "score": 0.034609387418599195
+        },
+        {
+            "word": "developed",
+            "score": 0.03268228777818627
+        },
+        {
+            "word": "means",
+            "score": 0.032249951508204956
+        }
+    ],
+    "47": [
+        {
+            "word": "ground",
+            "score": 0.15028019669328901
+        },
+        {
+            "word": "artist space",
+            "score": 0.14909763936295362
+        },
+        {
+            "word": "like minded",
+            "score": 0.08781535867972755
+        },
+        {
+            "word": "encourage dialogue",
+            "score": 0.08781535867972755
+        },
+        {
+            "word": "easily",
+            "score": 0.08781535867972755
+        },
+        {
+            "word": "independent artist",
+            "score": 0.08781535867972755
+        },
+        {
+            "word": "minded",
+            "score": 0.08254166770206424
+        },
+        {
+            "word": "operated",
+            "score": 0.08254166770206424
+        },
+        {
+            "word": "concepts",
+            "score": 0.08254166770206424
+        },
+        {
+            "word": "collaborative projects",
+            "score": 0.07846297893747452
+        }
+    ],
+    "48": [
+        {
+            "word": "work work",
+            "score": 0.2740681725730169
+        },
+        {
+            "word": "work",
+            "score": 0.0959314690903105
+        },
+        {
+            "word": "employment",
+            "score": 0.05536956591194372
+        },
+        {
+            "word": "day day",
+            "score": 0.05536956591194372
+        },
+        {
+            "word": "france",
+            "score": 0.05390954692134577
+        },
+        {
+            "word": "day",
+            "score": 0.05305195852364624
+        },
+        {
+            "word": "laurent",
+            "score": 0.05263355108849222
+        },
+        {
+            "word": "origin",
+            "score": 0.05263355108849222
+        },
+        {
+            "word": "intercultural",
+            "score": 0.04852537056793989
+        },
+        {
+            "word": "foundation",
+            "score": 0.03536797234909749
+        }
+    ],
+    "49": [
+        {
+            "word": "situ",
+            "score": 0.12163889953760057
+        },
+        {
+            "word": "tim",
+            "score": 0.06413309432966144
+        },
+        {
+            "word": "objects",
+            "score": 0.04986670363740614
+        },
+        {
+            "word": "october",
+            "score": 0.04754456914636313
+        },
+        {
+            "word": "growing",
+            "score": 0.04651885553755622
+        },
+        {
+            "word": "collective",
+            "score": 0.04507333582081965
+        },
+        {
+            "word": "practice",
+            "score": 0.04039860813456672
+        },
+        {
+            "word": "group",
+            "score": 0.0387239018172668
+        },
+        {
+            "word": "making",
+            "score": 0.038615215950117486
+        },
+        {
+            "word": "studios",
+            "score": 0.037102045091587384
+        }
+    ],
+    "50": [
+        {
+            "word": "projets",
+            "score": 0.1280751583842348
+        },
+        {
+            "word": "avant",
+            "score": 0.11363068533769596
+        },
+        {
+            "word": "avant garde",
+            "score": 0.11363068533769596
+        },
+        {
+            "word": "garde",
+            "score": 0.1108708658080425
+        },
+        {
+            "word": "doors",
+            "score": 0.1108708658080425
+        },
+        {
+            "word": "space non",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "sans",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "productive",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "commercial gallery",
+            "score": 0.07773818637221784
+        },
+        {
+            "word": "artiste",
+            "score": 0.07773818637221784
+        }
+    ],
+    "51": [
+        {
+            "word": "contemporary artists",
+            "score": 0.0741832226866382
+        },
+        {
+            "word": "exhibition hall",
+            "score": 0.05714423148604448
+        },
+        {
+            "word": "canada",
+            "score": 0.056570481774686834
+        },
+        {
+            "word": "artist centre",
+            "score": 0.056570481774686834
+        },
+        {
+            "word": "documentation",
+            "score": 0.05202006808613851
+        },
+        {
+            "word": "artistic community",
+            "score": 0.05202006808613851
+        },
+        {
+            "word": "canadian",
+            "score": 0.04561796321117718
+        },
+        {
+            "word": "collection",
+            "score": 0.04250702636340919
+        },
+        {
+            "word": "hall",
+            "score": 0.039068200542878004
+        },
+        {
+            "word": "known",
+            "score": 0.03837116193066813
+        }
+    ],
+    "52": [
+        {
+            "word": "profit artist centre",
+            "score": 0.05397453328182961
+        },
+        {
+            "word": "profit artist",
+            "score": 0.04663323028213045
+        },
+        {
+            "word": "non profit artist",
+            "score": 0.04663323028213045
+        },
+        {
+            "word": "canadian",
+            "score": 0.04532740293594675
+        },
+        {
+            "word": "gallery space",
+            "score": 0.044149501946493336
+        },
+        {
+            "word": "festival",
+            "score": 0.04118548356509755
+        },
+        {
+            "word": "artist centre",
+            "score": 0.03747344015648045
+        },
+        {
+            "word": "director",
+            "score": 0.03747344015648045
+        },
+        {
+            "word": "installations",
+            "score": 0.03518037772875912
+        },
+        {
+            "word": "diverse",
+            "score": 0.03467316590107702
+        }
+    ],
+    "53": [
+        {
+            "word": "residencies",
+            "score": 0.0824801067646832
+        },
+        {
+            "word": "australia",
+            "score": 0.06469456600857854
+        },
+        {
+            "word": "programme",
+            "score": 0.055756364735904014
+        },
+        {
+            "word": "international",
+            "score": 0.04386239656077816
+        },
+        {
+            "word": "international artists",
+            "score": 0.0412400533823416
+        },
+        {
+            "word": "organisations",
+            "score": 0.04005269764451197
+        },
+        {
+            "word": "based artists",
+            "score": 0.038518189660214766
+        },
+        {
+            "word": "studios",
+            "score": 0.031255662228670586
+        },
+        {
+            "word": "expanded",
+            "score": 0.03074146733768451
+        },
+        {
+            "word": "studio",
+            "score": 0.029477679456020055
+        }
+    ],
+    "54": [
+        {
+            "word": "generator",
+            "score": 0.29807608267283614
+        },
+        {
+            "word": "way",
+            "score": 0.1236171709995737
+        },
+        {
+            "word": "life",
+            "score": 0.09927650056362947
+        },
+        {
+            "word": "remains",
+            "score": 0.09363687185452158
+        },
+        {
+            "word": "existence",
+            "score": 0.08898845808277095
+        },
+        {
+            "word": "wild",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "priority",
+            "score": 0.062395123272438
+        },
+        {
+            "word": "free",
+            "score": 0.061157270604614816
+        },
+        {
+            "word": "destination",
+            "score": 0.0586480270514667
+        },
+        {
+            "word": "expressions",
+            "score": 0.0586480270514667
+        }
+    ],
+    "55": [
+        {
+            "word": "current art",
+            "score": 0.08051336683679276
+        },
+        {
+            "word": "city city",
+            "score": 0.07191676915281127
+        },
+        {
+            "word": "centre",
+            "score": 0.06017794193656702
+        },
+        {
+            "word": "designs",
+            "score": 0.05229583681638914
+        },
+        {
+            "word": "current",
+            "score": 0.051644135723083885
+        },
+        {
+            "word": "quebec",
+            "score": 0.050831444721026
+        },
+        {
+            "word": "apartment",
+            "score": 0.04830802010207566
+        },
+        {
+            "word": "residences",
+            "score": 0.04720496508103196
+        },
+        {
+            "word": "centre contemporary art",
+            "score": 0.042450000532490186
+        },
+        {
+            "word": "georges",
+            "score": 0.04035238916784405
+        }
+    ],
+    "56": [
+        {
+            "word": "residences",
+            "score": 0.06789755251381309
+        },
+        {
+            "word": "individual",
+            "score": 0.05850250220758249
+        },
+        {
+            "word": "england",
+            "score": 0.05804110770717293
+        },
+        {
+            "word": "responsible",
+            "score": 0.05351085384546796
+        },
+        {
+            "word": "collective exhibitions",
+            "score": 0.05351085384546796
+        },
+        {
+            "word": "individual collective",
+            "score": 0.05172096411674782
+        },
+        {
+            "word": "marie",
+            "score": 0.05172096411674782
+        },
+        {
+            "word": "english",
+            "score": 0.05014669283763342
+        },
+        {
+            "word": "desire",
+            "score": 0.04338192506506603
+        },
+        {
+            "word": "temporary",
+            "score": 0.04253626108958709
+        }
+    ],
+    "57": [
+        {
+            "word": "association",
+            "score": 0.13632108494587267
+        },
+        {
+            "word": "promotion",
+            "score": 0.11081162335798124
+        },
+        {
+            "word": "communication",
+            "score": 0.09759118212847874
+        },
+        {
+            "word": "meetings discussions",
+            "score": 0.0862187157946416
+        },
+        {
+            "word": "artists institutions",
+            "score": 0.0862187157946416
+        },
+        {
+            "word": "intergenerational",
+            "score": 0.0862187157946416
+        },
+        {
+            "word": "local national international",
+            "score": 0.08104091010748125
+        },
+        {
+            "word": "age",
+            "score": 0.07703637932042953
+        },
+        {
+            "word": "local national",
+            "score": 0.07703637932042953
+        },
+        {
+            "word": "expression",
+            "score": 0.07703637932042953
+        }
+    ],
+    "58": [
+        {
+            "word": "artspace",
+            "score": 0.09543242038042564
+        },
+        {
+            "word": "communities",
+            "score": 0.0366234087416458
+        },
+        {
+            "word": "street",
+            "score": 0.03650840962613418
+        },
+        {
+            "word": "centres",
+            "score": 0.03578715764265961
+        },
+        {
+            "word": "current",
+            "score": 0.031322075095588785
+        },
+        {
+            "word": "location",
+            "score": 0.030835253871144563
+        },
+        {
+            "word": "centre",
+            "score": 0.030414844300069972
+        },
+        {
+            "word": "diverse",
+            "score": 0.02947844971012143
+        },
+        {
+            "word": "engaging",
+            "score": 0.029296500438402918
+        },
+        {
+            "word": "maintains",
+            "score": 0.028204276756095027
+        }
+    ],
+    "59": [
+        {
+            "word": "laurence",
+            "score": 0.05579749330821563
+        },
+        {
+            "word": "king",
+            "score": 0.04391379365430019
+        },
+        {
+            "word": "beaux arts",
+            "score": 0.04391379365430019
+        },
+        {
+            "word": "school",
+            "score": 0.042075691242891844
+        },
+        {
+            "word": "artist work",
+            "score": 0.04174385086328694
+        },
+        {
+            "word": "beaux",
+            "score": 0.04174385086328694
+        },
+        {
+            "word": "city city",
+            "score": 0.037198328872143756
+        },
+        {
+            "word": "association",
+            "score": 0.03693428409863546
+        },
+        {
+            "word": "formats",
+            "score": 0.03505616877312138
+        },
+        {
+            "word": "visibility",
+            "score": 0.03414518130837169
+        }
+    ],
+    "60": [
+        {
+            "word": "committed",
+            "score": 0.13768114815300989
+        },
+        {
+            "word": "performance space",
+            "score": 0.0987922785146935
+        },
+        {
+            "word": "thinkers",
+            "score": 0.09285937616482227
+        },
+        {
+            "word": "artists contemporary",
+            "score": 0.09285937616482227
+        },
+        {
+            "word": "brazilian",
+            "score": 0.09285937616482227
+        },
+        {
+            "word": "activists",
+            "score": 0.09285937616482227
+        },
+        {
+            "word": "outdoor",
+            "score": 0.09285937616482227
+        },
+        {
+            "word": "dialogue artists",
+            "score": 0.09285937616482227
+        },
+        {
+            "word": "performers",
+            "score": 0.08827085130465884
+        },
+        {
+            "word": "space artist",
+            "score": 0.08453261063997508
+        }
+    ],
+    "61": [
+        {
+            "word": "square",
+            "score": 0.23943605044736913
+        },
+        {
+            "word": "north",
+            "score": 0.10820174161916811
+        },
+        {
+            "word": "district",
+            "score": 0.10735030034132662
+        },
+        {
+            "word": "factory",
+            "score": 0.07715055159410374
+        },
+        {
+            "word": "art architecture",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "examples",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "different cultural",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "center",
+            "score": 0.0607095895090876
+        },
+        {
+            "word": "soho",
+            "score": 0.05943000074548626
+        },
+        {
+            "word": "textile",
+            "score": 0.05943000074548626
+        }
+    ],
+    "62": [
+        {
+            "word": "gallery",
+            "score": 0.11146084135033442
+        },
+        {
+            "word": "south",
+            "score": 0.09241962407465938
+        },
+        {
+            "word": "steel",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "artiste",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "berlinian",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "young art",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "names",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "faces",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "internal",
+            "score": 0.06322705824940385
+        },
+        {
+            "word": "years artists",
+            "score": 0.06322705824940385
+        }
+    ],
+    "63": [
+        {
+            "word": "experimentation",
+            "score": 0.08796129733762834
+        },
+        {
+            "word": "celebrated",
+            "score": 0.07181531523396113
+        },
+        {
+            "word": "universe",
+            "score": 0.07181531523396113
+        },
+        {
+            "word": "combines",
+            "score": 0.07181531523396113
+        },
+        {
+            "word": "innovation",
+            "score": 0.06913791735786126
+        },
+        {
+            "word": "cooperative",
+            "score": 0.0668253164694264
+        },
+        {
+            "word": "architect",
+            "score": 0.06479130225039363
+        },
+        {
+            "word": "model",
+            "score": 0.058484027534021904
+        },
+        {
+            "word": "art centre",
+            "score": 0.058484027534021904
+        },
+        {
+            "word": "education",
+            "score": 0.04961699789215106
+        }
+    ],
+    "64": [
+        {
+            "word": "installed",
+            "score": 0.1501976161669199
+        },
+        {
+            "word": "district",
+            "score": 0.12198897766059842
+        },
+        {
+            "word": "caroline",
+            "score": 0.10777339474330201
+        },
+        {
+            "word": "artists installed",
+            "score": 0.10777339474330201
+        },
+        {
+            "word": "union",
+            "score": 0.10777339474330201
+        },
+        {
+            "word": "artists production",
+            "score": 0.10130113763435158
+        },
+        {
+            "word": "minimum",
+            "score": 0.10130113763435158
+        },
+        {
+            "word": "meeting artists",
+            "score": 0.10130113763435158
+        },
+        {
+            "word": "bay",
+            "score": 0.10130113763435158
+        },
+        {
+            "word": "laurent",
+            "score": 0.09629547415053692
+        }
+    ],
+    "65": [
+        {
+            "word": "stands",
+            "score": 0.09743562272316364
+        },
+        {
+            "word": "wanted",
+            "score": 0.06707875940902697
+        },
+        {
+            "word": "helps",
+            "score": 0.057512903947244766
+        },
+        {
+            "word": "continuously",
+            "score": 0.057512903947244766
+        },
+        {
+            "word": "exists",
+            "score": 0.05235568142862973
+        },
+        {
+            "word": "offer",
+            "score": 0.05194369371354514
+        },
+        {
+            "word": "young",
+            "score": 0.048117899250894096
+        },
+        {
+            "word": "interested",
+            "score": 0.04363305041477802
+        },
+        {
+            "word": "different",
+            "score": 0.042087557353170574
+        },
+        {
+            "word": "project space",
+            "score": 0.03462912914236342
+        }
+    ],
+    "66": [
+        {
+            "word": "past",
+            "score": 0.045663927346174374
+        },
+        {
+            "word": "temporal",
+            "score": 0.04369852995991637
+        },
+        {
+            "word": "spatial",
+            "score": 0.041539224143368865
+        },
+        {
+            "word": "double",
+            "score": 0.041539224143368865
+        },
+        {
+            "word": "art space",
+            "score": 0.035302433843444836
+        },
+        {
+            "word": "contemporary art space",
+            "score": 0.03488432480854725
+        },
+        {
+            "word": "program exhibitions",
+            "score": 0.03488432480854725
+        },
+        {
+            "word": "experiments",
+            "score": 0.03397780296862477
+        },
+        {
+            "word": "conceptual",
+            "score": 0.030442618230782918
+        },
+        {
+            "word": "promotion",
+            "score": 0.029875682768083178
+        }
+    ],
+    "67": [
+        {
+            "word": "art theory",
+            "score": 0.07184892982886801
+        },
+        {
+            "word": "art media",
+            "score": 0.07184892982886801
+        },
+        {
+            "word": "cultivate",
+            "score": 0.07184892982886801
+        },
+        {
+            "word": "stimulating",
+            "score": 0.07184892982886801
+        },
+        {
+            "word": "non",
+            "score": 0.06963869312812183
+        },
+        {
+            "word": "formal",
+            "score": 0.06753409175623439
+        },
+        {
+            "word": "hosting",
+            "score": 0.06753409175623439
+        },
+        {
+            "word": "mixed",
+            "score": 0.06753409175623439
+        },
+        {
+            "word": "bookshop",
+            "score": 0.06753409175623439
+        },
+        {
+            "word": "contemporary art artists",
+            "score": 0.06419698276702461
+        }
+    ]
+}
