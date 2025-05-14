@@ -1,0 +1,802 @@
+[
+    {
+        "word": "artist",
+        "value": 1.0
+    },
+    {
+        "word": "art",
+        "value": 0.6239907727797002
+    },
+    {
+        "word": "exhibition",
+        "value": 0.5190311418685121
+    },
+    {
+        "word": "space",
+        "value": 0.43829296424452135
+    },
+    {
+        "word": "work",
+        "value": 0.4232987312572088
+    },
+    {
+        "word": "project",
+        "value": 0.3760092272202999
+    },
+    {
+        "word": "place",
+        "value": 0.2306805074971165
+    },
+    {
+        "word": "gallery",
+        "value": 0.2122260668973472
+    },
+    {
+        "word": "contemporary art",
+        "value": 0.20530565167243367
+    },
+    {
+        "word": "artistic",
+        "value": 0.17993079584775087
+    },
+    {
+        "word": "new",
+        "value": 0.1787773933102653
+    },
+    {
+        "word": "event",
+        "value": 0.15455594002306805
+    },
+    {
+        "word": "since",
+        "value": 0.1522491349480969
+    },
+    {
+        "word": "workshop",
+        "value": 0.14071510957324107
+    },
+    {
+        "word": "time",
+        "value": 0.13610149942329874
+    },
+    {
+        "word": "production",
+        "value": 0.13264129181084197
+    },
+    {
+        "word": "public",
+        "value": 0.1314878892733564
+    },
+    {
+        "word": "cultural",
+        "value": 0.1303344867358708
+    },
+    {
+        "word": "year",
+        "value": 0.1303344867358708
+    },
+    {
+        "word": "practice",
+        "value": 0.12918108419838523
+    },
+    {
+        "word": "founded",
+        "value": 0.12572087658592848
+    },
+    {
+        "word": "program",
+        "value": 0.12572087658592848
+    },
+    {
+        "word": "research",
+        "value": 0.12110726643598616
+    },
+    {
+        "word": "first",
+        "value": 0.11995386389850057
+    },
+    {
+        "word": "association",
+        "value": 0.11880046136101499
+    },
+    {
+        "word": "centre",
+        "value": 0.11764705882352941
+    },
+    {
+        "word": "performance",
+        "value": 0.11764705882352941
+    },
+    {
+        "word": "studio",
+        "value": 0.11649365628604383
+    },
+    {
+        "word": "collective",
+        "value": 0.11303344867358708
+    },
+    {
+        "word": "located",
+        "value": 0.1118800461361015
+    },
+    {
+        "word": "contemporary",
+        "value": 0.11072664359861592
+    },
+    {
+        "word": "area",
+        "value": 0.11072664359861592
+    },
+    {
+        "word": "open",
+        "value": 0.104959630911188
+    },
+    {
+        "word": "artist run",
+        "value": 0.10380622837370242
+    },
+    {
+        "word": "well",
+        "value": 0.10034602076124567
+    },
+    {
+        "word": "form",
+        "value": 0.09803921568627451
+    },
+    {
+        "word": "different",
+        "value": 0.09573241061130335
+    },
+    {
+        "word": "creation",
+        "value": 0.09457900807381776
+    },
+    {
+        "word": "city",
+        "value": 0.09342560553633218
+    },
+    {
+        "word": "support",
+        "value": 0.09342560553633218
+    },
+    {
+        "word": "based",
+        "value": 0.0922722029988466
+    },
+    {
+        "word": "international",
+        "value": 0.09111880046136102
+    },
+    {
+        "word": "de",
+        "value": 0.08881199538638986
+    },
+    {
+        "word": "Zona",
+        "value": 0.08881199538638986
+    },
+    {
+        "word": "group",
+        "value": 0.08419838523644751
+    },
+    {
+        "word": "local",
+        "value": 0.08419838523644751
+    },
+    {
+        "word": "dedicated",
+        "value": 0.08189158016147635
+    },
+    {
+        "word": "community",
+        "value": 0.08073817762399077
+    },
+    {
+        "word": "activities",
+        "value": 0.07958477508650519
+    },
+    {
+        "word": "organization",
+        "value": 0.07958477508650519
+    },
+    {
+        "word": "independent",
+        "value": 0.0784313725490196
+    },
+    {
+        "word": "member",
+        "value": 0.07381776239907728
+    },
+    {
+        "word": "two",
+        "value": 0.0726643598615917
+    },
+    {
+        "word": "part",
+        "value": 0.0726643598615917
+    },
+    {
+        "word": "show",
+        "value": 0.07151095732410612
+    },
+    {
+        "word": "social",
+        "value": 0.07151095732410612
+    },
+    {
+        "word": "street",
+        "value": 0.07035755478662054
+    },
+    {
+        "word": "site",
+        "value": 0.07035755478662054
+    },
+    {
+        "word": "present",
+        "value": 0.07035755478662054
+    },
+    {
+        "word": "develop",
+        "value": 0.06920415224913495
+    },
+    {
+        "word": "platform",
+        "value": 0.06920415224913495
+    },
+    {
+        "word": "structure",
+        "value": 0.06920415224913495
+    },
+    {
+        "word": "exchange",
+        "value": 0.06805074971164937
+    },
+    {
+        "word": "create",
+        "value": 0.06689734717416378
+    },
+    {
+        "word": "curator",
+        "value": 0.06459054209919261
+    },
+    {
+        "word": "experimental",
+        "value": 0.06459054209919261
+    },
+    {
+        "word": "created",
+        "value": 0.06343713956170703
+    },
+    {
+        "word": "idea",
+        "value": 0.06343713956170703
+    },
+    {
+        "word": "offer",
+        "value": 0.06343713956170703
+    },
+    {
+        "word": "aim",
+        "value": 0.06228373702422145
+    },
+    {
+        "word": "non profit",
+        "value": 0.06228373702422145
+    },
+    {
+        "word": "working",
+        "value": 0.06113033448673587
+    },
+    {
+        "word": "experience",
+        "value": 0.06113033448673587
+    },
+    {
+        "word": "development",
+        "value": 0.06113033448673587
+    },
+    {
+        "word": "programming",
+        "value": 0.06113033448673587
+    },
+    {
+        "word": "material",
+        "value": 0.06113033448673587
+    },
+    {
+        "word": "collaboration",
+        "value": 0.05997693194925029
+    },
+    {
+        "word": "way",
+        "value": 0.05997693194925029
+    },
+    {
+        "word": "context",
+        "value": 0.05997693194925029
+    },
+    {
+        "word": "initiative",
+        "value": 0.05997693194925029
+    },
+    {
+        "word": "book",
+        "value": 0.05997693194925029
+    },
+    {
+        "word": "house",
+        "value": 0.058823529411764705
+    },
+    {
+        "word": "culture",
+        "value": 0.058823529411764705
+    },
+    {
+        "word": "established",
+        "value": 0.05767012687427912
+    },
+    {
+        "word": "collection",
+        "value": 0.05651672433679354
+    },
+    {
+        "word": "audience",
+        "value": 0.05651672433679354
+    },
+    {
+        "word": "design",
+        "value": 0.05536332179930796
+    },
+    {
+        "word": "creative",
+        "value": 0.05536332179930796
+    },
+    {
+        "word": "publication",
+        "value": 0.05536332179930796
+    },
+    {
+        "word": "meeting",
+        "value": 0.05420991926182238
+    },
+    {
+        "word": "world",
+        "value": 0.05420991926182238
+    },
+    {
+        "word": "visual art",
+        "value": 0.05420991926182238
+    },
+    {
+        "word": "including",
+        "value": 0.0530565167243368
+    },
+    {
+        "word": "Paris",
+        "value": 0.05190311418685121
+    },
+    {
+        "word": "promote",
+        "value": 0.05190311418685121
+    },
+    {
+        "word": "exhibition space",
+        "value": 0.05190311418685121
+    },
+    {
+        "word": "provide",
+        "value": 0.05074971164936563
+    },
+    {
+        "word": "institution",
+        "value": 0.05074971164936563
+    },
+    {
+        "word": "building",
+        "value": 0.049596309111880045
+    },
+    {
+        "word": "network",
+        "value": 0.049596309111880045
+    },
+    {
+        "word": "dialogue",
+        "value": 0.049596309111880045
+    },
+    {
+        "word": "professional",
+        "value": 0.049596309111880045
+    },
+    {
+        "word": "family",
+        "value": 0.049596309111880045
+    },
+    {
+        "word": "young",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "emerging",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "media",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "organized",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "center",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "dissemination",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "field",
+        "value": 0.04844290657439446
+    },
+    {
+        "word": "together",
+        "value": 0.04728950403690888
+    },
+    {
+        "word": "video",
+        "value": 0.04728950403690888
+    },
+    {
+        "word": "presentation",
+        "value": 0.04728950403690888
+    },
+    {
+        "word": "residence",
+        "value": 0.04728950403690888
+    },
+    {
+        "word": "several",
+        "value": 0.0461361014994233
+    },
+    {
+        "word": "alternative",
+        "value": 0.0461361014994233
+    },
+    {
+        "word": "installation",
+        "value": 0.0461361014994233
+    },
+    {
+        "word": "name",
+        "value": 0.0461361014994233
+    },
+    {
+        "word": "people",
+        "value": 0.0461361014994233
+    },
+    {
+        "word": "edition",
+        "value": 0.04498269896193772
+    },
+    {
+        "word": "programme",
+        "value": 0.04498269896193772
+    },
+    {
+        "word": "gallerie",
+        "value": 0.04498269896193772
+    },
+    {
+        "word": "run space",
+        "value": 0.04498269896193772
+    },
+    {
+        "word": "like",
+        "value": 0.04382929642445214
+    },
+    {
+        "word": "unique",
+        "value": 0.04382929642445214
+    },
+    {
+        "word": "archive",
+        "value": 0.04382929642445214
+    },
+    {
+        "word": "art space",
+        "value": 0.04382929642445214
+    },
+    {
+        "word": "young artist",
+        "value": 0.04382929642445214
+    },
+    {
+        "word": "room",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "set",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "critical",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "free",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "three",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "museum",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "team",
+        "value": 0.04267589388696655
+    },
+    {
+        "word": "around",
+        "value": 0.04152249134948097
+    },
+    {
+        "word": "various",
+        "value": 0.04152249134948097
+    },
+    {
+        "word": "Berlin",
+        "value": 0.04152249134948097
+    },
+    {
+        "word": "activity",
+        "value": 0.040369088811995385
+    },
+    {
+        "word": "within",
+        "value": 0.040369088811995385
+    },
+    {
+        "word": "need",
+        "value": 0.040369088811995385
+    },
+    {
+        "word": "take",
+        "value": 0.0392156862745098
+    },
+    {
+        "word": "non",
+        "value": 0.0392156862745098
+    },
+    {
+        "word": "experimentation",
+        "value": 0.0392156862745098
+    },
+    {
+        "word": "related",
+        "value": 0.0392156862745098
+    },
+    {
+        "word": "presented",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "make",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "small",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "sound",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "environment",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "include",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "role",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "artistic practice",
+        "value": 0.03806228373702422
+    },
+    {
+        "word": "current",
+        "value": 0.03690888119953864
+    },
+    {
+        "word": "without",
+        "value": 0.03690888119953864
+    },
+    {
+        "word": "national",
+        "value": 0.03690888119953864
+    },
+    {
+        "word": "made",
+        "value": 0.03690888119953864
+    },
+    {
+        "word": "experiment",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "opened",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "scene",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "encourage",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "today",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "film",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "outside",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "music",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "discipline",
+        "value": 0.03575547866205306
+    },
+    {
+        "word": "designed",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "history",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "period",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "location",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "political",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "active",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "song",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "international artist",
+        "value": 0.03460207612456748
+    },
+    {
+        "word": "series",
+        "value": 0.03344867358708189
+    },
+    {
+        "word": "day",
+        "value": 0.03344867358708189
+    },
+    {
+        "word": "concept",
+        "value": 0.03344867358708189
+    },
+    {
+        "word": "new media",
+        "value": 0.03344867358708189
+    },
+    {
+        "word": "used",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "produce",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "object",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "knowledge",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "old",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "school",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "communication",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "mean",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "project space",
+        "value": 0.03229527104959631
+    },
+    {
+        "word": "le",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "curatorial",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "change",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "dynamic",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "managed",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "individual",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "moved",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "society",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "district",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "continue",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "emerging artist",
+        "value": 0.031141868512110725
+    },
+    {
+        "word": "organisation",
+        "value": 0.029988465974625143
+    },
+    {
+        "word": "invited",
+        "value": 0.029988465974625143
+    }
+]
