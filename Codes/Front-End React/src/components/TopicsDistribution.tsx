@@ -17,9 +17,9 @@ const TopicsDistribution = () => {
     const fetchHtmlContent = async () => {
       try {
         setIsLoading(true);
-        console.log('Chargement du fichier topic_distribution.html...');
+        console.log('Chargement du fichier topic_distribution_analysis.html...');
         
-        const response = await fetch('/topic_distribution.html');
+        const response = await fetch('/topic_distribution_analysis.html');
         
         if (!response.ok) {
           throw new Error(`Erreur HTTP: ${response.status}`);
@@ -35,7 +35,7 @@ const TopicsDistribution = () => {
         setHtmlContent(data);
         setIsLoading(false);
       } catch (error: any) {
-        console.error('Erreur de chargement de topic_distribution.html :', error);
+        console.error('Erreur de chargement de topic_distribution_analysis.html :', error);
         setError(`Impossible de charger la distribution des topics: ${error.message}`);
         setIsLoading(false);
         toast({

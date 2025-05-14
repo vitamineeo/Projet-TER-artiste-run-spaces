@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { Skeleton } from "@/components/ui/skeleton";
 import { useToast } from "@/hooks/use-toast";
+import { BarChart2Icon } from "lucide-react";
 
 const TopicDistributionVisualization = () => {
   const [htmlContent, setHtmlContent] = useState<string>('');
@@ -17,9 +18,9 @@ const TopicDistributionVisualization = () => {
     const fetchHtmlContent = async () => {
       try {
         setIsLoading(true);
-        console.log('Chargement du fichier topic-distribution.html...');
+        console.log('Chargement du fichier topic_distribution.html...');
         
-        const response = await fetch('/topic-distribution.html');
+        const response = await fetch('/topic_distribution.html');
         
         if (!response.ok) {
           throw new Error(`Erreur HTTP: ${response.status}`);
@@ -35,7 +36,7 @@ const TopicDistributionVisualization = () => {
         setHtmlContent(data);
         setIsLoading(false);
       } catch (error: any) {
-        console.error('Erreur de chargement de topic-distribution.html :', error);
+        console.error('Erreur de chargement de topic_distribution.html :', error);
         setError(`Impossible de charger la distribution des topics: ${error.message}`);
         setIsLoading(false);
         toast({
@@ -72,6 +73,12 @@ const TopicDistributionVisualization = () => {
         const doc = parser.parseFromString(htmlContent, 'text/html');
         const scripts = Array.from(doc.querySelectorAll('script'));
         
+        // Utiliser dangerouslySetInnerHTML pour garder la compatibilité
+        containerRef.current.innerHTML = "";  // Vider d'abord le conteneur
+        const visualizationDiv = document.createElement('div');
+        visualizationDiv.innerHTML = htmlContent;
+        containerRef.current.appendChild(visualizationDiv);
+        
         // Exécuter les scripts dans l'ordre
         scripts.forEach((originalScript) => {
           const script = document.createElement('script');
@@ -94,11 +101,12 @@ const TopicDistributionVisualization = () => {
         
         // Vérifier si le rendu a bien fonctionné
         setTimeout(() => {
-          if (containerRef.current && containerRef.current.children.length <= scripts.length) {
-            console.log('Le conteneur semble ne pas avoir rendu correctement la distribution des topics');
+          const plotlyElement = containerRef.current?.querySelector('.plotly-graph-div');
+          if (!plotlyElement) {
+            console.log('La distribution semble ne pas avoir été rendue correctement');
             toast({
               title: "Attention",
-              description: "La distribution des topics pourrait ne pas s'être correctement chargée",
+              description: "La visualisation de la distribution pourrait ne pas s'être correctement chargée",
               variant: "default",
             });
           } else {
@@ -136,17 +144,33 @@ const TopicDistributionVisualization = () => {
         </div>
       )}
       
-      <div
-        ref={containerRef}
-        id="visualization-distribution-container"
-        style={{
-          display: isLoading ? 'none' : 'block',
-          height: '500px',
-          overflow: 'auto',
-          width: '100%'
-        }}
-        dangerouslySetInnerHTML={{ __html: htmlContent }}
-      />
+      <div className="bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+        <div className="flex items-center mb-3">
+          <BarChart2Icon className="h-5 w-5 mr-2 text-indigo-600" />
+          <h3 className="text-lg font-semibold text-gray-800">Distribution des Mots-clés par Topic</h3>
+        </div>
+        
+        <p className="text-sm text-gray-600 mb-4">
+          Ce graphique présente les mots-clés les plus importants pour chaque topic et leur poids relatif.
+          Chaque barre horizontale représente l'importance d'un mot dans la définition du topic.
+        </p>
+        
+        <div
+          ref={containerRef}
+          id="visualization-distribution-container"
+          style={{
+            display: isLoading ? 'none' : 'block',
+            height: '600px',
+            overflow: 'auto',
+            width: '100%'
+          }}
+        />
+        
+        <div className="mt-3 text-xs text-gray-500 italic">
+          <p>Les barres plus longues indiquent des mots-clés plus fortement associés au topic.</p>
+          <p>Cette visualisation aide à comprendre les termes qui caractérisent et différencient chaque topic.</p>
+        </div>
+      </div>
     </div>
   );
 };

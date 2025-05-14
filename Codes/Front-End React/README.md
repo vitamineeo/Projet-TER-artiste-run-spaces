@@ -1,5 +1,12 @@
 # Welcome to your Lovable project
 
+# Configuration
+npm install pour ou ipm i : pour installer(lire) les dépendances qui sont dans le fichier packages.json e
+
+npm install nom-de-bibliothèque pour installler un nouveau packages. 
+
+npm run dev : pour lancer l'appli et aller dans le localhost pour visualiser
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/ecd5ef1a-1688-417c-be12-fde68d1377de

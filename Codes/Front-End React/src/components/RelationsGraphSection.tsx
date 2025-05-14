@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Network } from 'lucide-react';
 import { Card, CardContent } from "@/components/ui/card";
@@ -13,9 +12,14 @@ const RelationsGraphSection = () => {
           Graphe des Relations Sémantiques
         </h2>
         
-        <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
-          <RelationsGraph />
+        <div className="mb-4 bg-blue-50 p-4 rounded-lg">
+          <p className="text-gray-700">
+            Ce graphe illustre comment les espaces artistiques sont liés entre eux par leurs thématiques et contenus. 
+            Chaque point représente un espace, et les liens indiquent des similarités sémantiques significatives.
+          </p>
         </div>
+        
+        <RelationsGraph />
       </CardContent>
     </Card>
   );

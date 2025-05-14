@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { Skeleton } from "@/components/ui/skeleton";
 import { useToast } from "@/hooks/use-toast";
+import { MapIcon } from "lucide-react";
 
 const IntertopicDistanceVisualization = () => {
   const [htmlContent, setHtmlContent] = useState<string>('');
@@ -72,6 +73,12 @@ const IntertopicDistanceVisualization = () => {
         const doc = parser.parseFromString(htmlContent, 'text/html');
         const scripts = Array.from(doc.querySelectorAll('script'));
         
+        // Utiliser dangerouslySetInnerHTML pour garder la compatibilité
+        containerRef.current.innerHTML = "";  // Vider d'abord le conteneur
+        const visualizationDiv = document.createElement('div');
+        visualizationDiv.innerHTML = htmlContent;
+        containerRef.current.appendChild(visualizationDiv);
+        
         // Exécuter les scripts dans l'ordre
         scripts.forEach((originalScript) => {
           const script = document.createElement('script');
@@ -94,11 +101,12 @@ const IntertopicDistanceVisualization = () => {
         
         // Vérifier si le rendu a bien fonctionné
         setTimeout(() => {
-          if (containerRef.current && containerRef.current.children.length <= scripts.length) {
-            console.log('Le conteneur semble ne pas avoir rendu correctement la carte de distance intertopique');
+          const plotlyElement = containerRef.current?.querySelector('.plotly-graph-div');
+          if (!plotlyElement) {
+            console.log('La carte semble ne pas avoir été rendue correctement');
             toast({
               title: "Attention",
-              description: "La carte de distance intertopique pourrait ne pas s'être correctement chargée",
+              description: "La visualisation pourrait ne pas s'être correctement chargée",
               variant: "default",
             });
           } else {
@@ -136,17 +144,33 @@ const IntertopicDistanceVisualization = () => {
         </div>
       )}
       
-      <div
-        ref={containerRef}
-        id="visualization-intertopic-container"
-        style={{
-          display: isLoading ? 'none' : 'block',
-          height: '500px',
-          overflow: 'auto',
-          width: '100%'
-        }}
-        dangerouslySetInnerHTML={{ __html: htmlContent }}
-      />
+      <div className="bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+        <div className="flex items-center mb-3">
+          <MapIcon className="h-5 w-5 mr-2 text-indigo-600" />
+          <h3 className="text-lg font-semibold text-gray-800">Carte des Distances entre Topics</h3>
+        </div>
+        
+        <p className="text-sm text-gray-600 mb-4">
+          Cette visualisation répartit les topics dans un espace 2D où les distances reflètent leur similarité sémantique.
+          Les topics proches traitent de thématiques connexes, tandis que les topics éloignés abordent des sujets distincts.
+        </p>
+        
+        <div
+          ref={containerRef}
+          id="visualization-intertopic-container"
+          style={{
+            display: isLoading ? 'none' : 'block',
+            height: '600px',
+            overflow: 'auto',
+            width: '100%'
+          }}
+        />
+        
+        <div className="mt-3 text-xs text-gray-500 italic">
+          <p>La taille des cercles représente le nombre de documents associés à chaque topic.</p>
+          <p>Survolez les points pour voir les mots-clés principaux et le nombre de documents par topic.</p>
+        </div>
+      </div>
     </div>
   );
 };

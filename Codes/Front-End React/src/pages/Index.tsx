@@ -9,6 +9,7 @@ import TopicsSection from '../components/TopicsSection';
 import DetailedAnalysisSection from '../components/DetailedAnalysisSection';
 import RelationsGraphSection from '../components/RelationsGraphSection';
 import AnnotationsSection from '../components/AnnotationsSection';
+import WordCloudSection from '../components/WordCloudSection';
 
 const Index = () => {
   // Initialisation des scripts externes
@@ -44,6 +45,10 @@ const Index = () => {
       <section className="mb-12" style={{ "--index": "1" } as React.CSSProperties}>
         <EnquetesSection />
       </section>
+      {/* WordCloud */}
+      <section className="mb-12" style={{ "--index": "1" } as React.CSSProperties}>
+        <WordCloudSection />
+      </section>
 
       {/* Section Topics */}
       <section className="mb-12" style={{ "--index": "2" } as React.CSSProperties}>
@@ -59,11 +64,13 @@ const Index = () => {
       <section className="mb-12" style={{ "--index": "4" } as React.CSSProperties}>
         <RelationsGraphSection />
       </section>
-      {/* Section Annotations */}
-      <section className="mb-12" style={{ "--index": "5" } as React.CSSProperties}>
-        <AnnotationsSection />
-      </section>
 
+      {false && (
+        <section className="mb-12" style={{ "--index": "5" } as React.CSSProperties}>
+         <AnnotationsSection />
+        </section>
+      )}
+      
       {/* Footer */}
       <footer className="mt-12 text-center text-gray-600 pb-8">
         <Separator className="mb-6" />
